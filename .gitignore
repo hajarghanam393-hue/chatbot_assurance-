@@ -1,4 +1,3 @@
-rag/data/md_data/
 rag/data/vector_store/
 rag/processed_files.json
 rag/.env
