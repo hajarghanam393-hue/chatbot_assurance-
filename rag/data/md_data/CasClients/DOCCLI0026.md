@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCLI0026
-Titre: Cas : flotte d'entreprise avec sinistres multiples simultanés
+Titre: "Cas : flotte d'entreprise avec sinistres multiples simultanés"
 Catégorie: CasClients
 Tags: cas-client, exemple, illustration
 Date: 2025-12-19
