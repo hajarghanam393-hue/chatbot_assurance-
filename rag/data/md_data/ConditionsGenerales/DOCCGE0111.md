@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0111
-Titre: Clause : exclusions générales du contrat
+Titre:  "Clause : territorialité de la garantie"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2025-09-26
