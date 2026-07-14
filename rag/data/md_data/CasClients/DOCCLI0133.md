@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCLI0133
-Titre: Cas : accident avec tiers non identifié (délit de fuite)
+Titre: "Cas : accident avec tiers non identifié (délit de fuite)"
 Catégorie: CasClients
 Tags: cas-client, exemple, illustration
 Date: 2025-10-09
