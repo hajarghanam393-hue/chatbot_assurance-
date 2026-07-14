@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCLI0146
-Titre: Cas : premier sinistre sur un véhicule électrique
+Titre: "Cas : premier sinistre sur un véhicule électrique"
 Catégorie: CasClients
 Tags: cas-client, exemple, illustration
 Date: 2025-11-02
