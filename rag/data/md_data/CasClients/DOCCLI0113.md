@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCLI0113
-Titre: Cas : changement de véhicule en cours de contrat avec avenant express
+Titre: "Cas : changement de véhicule en cours de contrat avec avenant express"
 Catégorie: CasClients
 Tags: cas-client, exemple, illustration
 Date: 2026-01-15
