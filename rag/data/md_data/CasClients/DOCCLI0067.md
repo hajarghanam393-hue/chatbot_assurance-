@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCLI0067
-Titre: Cas : litige suite à une expertise contestée
+Titre: "Cas : litige suite à une expertise contestée"
 Catégorie: CasClients
 Tags: cas-client, exemple, illustration
 Date: 2026-05-13
