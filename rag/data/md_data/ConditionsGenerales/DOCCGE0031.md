@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0031
-Titre: Clause : modalités de résiliation
+Titre: "Clause : modalités de résiliation"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2025-10-20
