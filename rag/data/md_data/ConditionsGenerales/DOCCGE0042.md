@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0042
-Titre: Clause : reconduction tacite
+Titre: "Clause : reconduction tacite"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2025-08-24
