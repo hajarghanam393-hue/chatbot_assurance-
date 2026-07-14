@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCART0138
-Titre: L'indemnisation corporelle : cadre légal et pratique
+Titre: "L'indemnisation corporelle : cadre légal et pratique"
 Catégorie: Articles
 Tags: article, analyse, secteur
 Date: 2026-02-28
