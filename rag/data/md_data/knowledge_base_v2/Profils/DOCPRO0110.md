@@ -1,0 +1,31 @@
+---
+DocumentID: DOCPRO0110
+Titre: Profil artisan/commerçant
+Catégorie: Profils
+Tags: profil, conducteur, profils
+Date: 2025-10-08
+Auteur: Service Juridique
+Version: 3.4
+Mots-clés: Profils, assurance auto, Maroc, Bronze
+---
+
+# Profil artisan/commerçant
+
+Ce document fait partie de la base de connaissances AssurAuto Maroc, catégorie Profils. Il s'adresse aux conseillers, underwriters et systèmes IA de recommandation.
+
+## Contexte
+Conducteur utilisant un véhicule utilitaire léger ou mixte pour les besoins de son activité artisanale ou commerciale.
+
+## Détail
+Ce profil nécessite la déclaration précise du type de marchandises transportées et du rayon d'action habituel, éléments déterminants dans le calcul de la prime pour véhicule utilitaire.
+
+## Application pratique
+Exemple : un assuré de ce profil, résidant à Agadir et conduisant une Dacia Duster, se voit généralement orienté vers le pack Bronze par le moteur de recommandation.
+
+## Points clés
+- Déclaration du type de marchandises transportées
+- Rayon d'action habituel pris en compte
+- Véhicule utilitaire soumis à tarification spécifique
+- Garantie marchandises transportées disponible en option
+
+Le profil du conducteur reste indicatif : la tarification définitive intègre systématiquement l'ensemble des critères croisés du barème.

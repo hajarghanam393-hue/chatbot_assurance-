@@ -1,0 +1,31 @@
+---
+DocumentID: DOCFAQ0007
+Titre: Comment déclarer un sinistre ?
+Catégorie: FAQ
+Tags: faq, question, aide
+Date: 2026-02-08
+Auteur: Service Underwriting
+Version: 3.4
+Mots-clés: FAQ, assurance auto, Maroc, Eco+
+---
+
+# Comment déclarer un sinistre ?
+
+Ce document fait partie de la base de connaissances AssurAuto Maroc, catégorie FAQ. Il s'adresse aux conseillers, underwriters et systèmes IA de recommandation.
+
+## Contexte
+Question fréquente des assurés au moment de leur premier sinistre, souvent posée dans les minutes suivant l'accident.
+
+## Détail
+La déclaration s'effectue via l'application mobile AssurAuto (rubrique « Déclarer un sinistre »), par téléphone au numéro dédié, ou via l'espace client web, avec upload direct des photos et du constat.
+
+## Application pratique
+Exemple concret : un assuré à Kénitra avec une Peugeot 208 au pack Eco+ pose cette question au service client via l'application mobile.
+
+## Points clés
+- Déclaration possible via app mobile, téléphone ou web
+- Upload direct des photos et du constat
+- Numéro de sinistre généré immédiatement
+- Suivi en temps réel depuis l'espace client
+
+Pour toute question non couverte ici, le service client reste joignable via l'application mobile ou l'espace client en ligne.

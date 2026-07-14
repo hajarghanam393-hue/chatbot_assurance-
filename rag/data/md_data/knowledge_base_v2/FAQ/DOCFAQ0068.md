@@ -1,0 +1,31 @@
+---
+DocumentID: DOCFAQ0068
+Titre: Comment obtenir une attestation d'assurance ?
+Catégorie: FAQ
+Tags: faq, question, aide
+Date: 2026-05-08
+Auteur: Service Underwriting
+Version: 3.0
+Mots-clés: FAQ, assurance auto, Maroc, Silver
+---
+
+# Comment obtenir une attestation d'assurance ?
+
+Ce document fait partie de la base de connaissances AssurAuto Maroc, catégorie FAQ. Il s'adresse aux conseillers, underwriters et systèmes IA de recommandation.
+
+## Contexte
+Question fréquente notamment lors des contrôles routiers ou du renouvellement du contrôle technique.
+
+## Détail
+L'attestation provisoire est téléchargeable instantanément depuis l'espace client après tout paiement de prime validé ; l'attestation définitive est envoyée par courrier sous 8 jours ouvrés.
+
+## Application pratique
+Exemple concret : un assuré à Casablanca avec une Dacia Logan au pack Silver pose cette question au service client via l'application mobile.
+
+## Points clés
+- Attestation provisoire téléchargeable immédiatement
+- Disponible après validation du paiement
+- Attestation définitive envoyée sous 8 jours
+- Valable pour les contrôles routiers
+
+Pour toute question non couverte ici, le service client reste joignable via l'application mobile ou l'espace client en ligne.
