@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0072
-Titre: Clause : subrogation
+Titre: "Clause : subrogation"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2025-11-17
