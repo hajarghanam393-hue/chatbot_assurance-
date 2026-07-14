@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCLI0076
-Titre: Cas : indemnisation d'un préjudice corporel du conducteur
+Titre: "Cas : indemnisation d'un préjudice corporel du conducteur"
 Catégorie: CasClients
 Tags: cas-client, exemple, illustration
 Date: 2026-03-10
