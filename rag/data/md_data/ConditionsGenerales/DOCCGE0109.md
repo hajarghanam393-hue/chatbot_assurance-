@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0109
-Titre: Clause : territorialité de la garantie
+Titre:  "Clause : territorialité de la garantie"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2026-05-03
