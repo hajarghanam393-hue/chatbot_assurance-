@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0005
-Titre: Clause : définitions contractuelles
+Titre:  "Clause : définitions contractuelles"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2026-04-03
