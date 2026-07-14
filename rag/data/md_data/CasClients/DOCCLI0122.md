@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCLI0122
-Titre: Cas : vol partiel des accessoires d'un véhicule stationné
+Titre: "Cas : vol partiel des accessoires d'un véhicule stationné"
 Catégorie: CasClients
 Tags: cas-client, exemple, illustration
 Date: 2026-06-12
