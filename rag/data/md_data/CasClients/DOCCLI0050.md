@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCLI0050
-Titre: Cas : sinistre catastrophe naturelle lors d'une inondation à Casablanca
+Titre: "Cas : sinistre catastrophe naturelle lors d'une inondation à Casablanca"
 Catégorie: CasClients
 Tags: cas-client, exemple, illustration
 Date: 2025-06-12
