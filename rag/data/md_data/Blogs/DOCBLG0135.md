@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCBLG0135
-Titre: Assurance flotte : un segment stratégique pour les PME marocaines
+Titre:"Assurance flotte : un segment stratégique pour les PME marocaines"
 Catégorie: Blogs
 Tags: blog, tendance, marche
 Date: 2025-02-13
