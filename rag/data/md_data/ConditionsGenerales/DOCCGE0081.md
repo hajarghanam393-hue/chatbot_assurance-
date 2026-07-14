@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0081
-Titre: Clause : modalités de paiement de la prime
+Titre: "Clause : modalités de paiement de la prime"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2025-03-28
