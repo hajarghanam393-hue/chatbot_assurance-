@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0063
-Titre: Clause : prescription biennale
+Titre: "Clause : prescription biennale"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2025-05-21
