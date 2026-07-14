@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCLI0012
-Titre: Cas : chauffeur de taxi victime d'un vol de véhicule
+Titre: "Cas : chauffeur de taxi victime d'un vol de véhicule"
 Catégorie: CasClients
 Tags: cas-client, exemple, illustration
 Date: 2025-09-28
