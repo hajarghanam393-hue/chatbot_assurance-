@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCLI0085
-Titre: Cas : détection d'une fraude à la déclaration de sinistre
+Titre: "Cas : détection d'une fraude à la déclaration de sinistre"
 Catégorie: CasClients
 Tags: cas-client, exemple, illustration
 Date: 2025-04-09
