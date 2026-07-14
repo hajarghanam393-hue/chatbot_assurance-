@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0016
-Titre: Clause : obligations de l'assuré
+Titre:  "Clause : définitions contractuelles"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2025-12-02
