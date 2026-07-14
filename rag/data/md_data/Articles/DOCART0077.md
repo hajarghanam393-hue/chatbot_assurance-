@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCART0077
-Titre: L'assurance auto obligatoire : cadre légal au Maroc
+Titre: "L'assurance auto obligatoire : cadre légal au Maroc"
 Catégorie: Articles
 Tags: article, analyse, secteur
 Date: 2025-10-10
