@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCLI0099
-Titre: Cas : résiliation après plusieurs sinistres responsables répétés
+Titre: "Cas : résiliation après plusieurs sinistres responsables répétés"
 Catégorie: CasClients
 Tags: cas-client, exemple, illustration
 Date: 2026-04-17
