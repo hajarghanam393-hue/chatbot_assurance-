@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCLI0009
-Titre: Cas : premier accident d'un jeune conducteur
+Titre: "Cas : premier accident d'un jeune conducteur"
 Catégorie: CasClients
 Tags: cas-client, exemple, illustration
 Date: 2026-05-29
