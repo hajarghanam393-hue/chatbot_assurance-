@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0022
-Titre: Clause : obligations de l'assureur
+Titre: "Clause : obligations de l'assureur"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2025-04-12
