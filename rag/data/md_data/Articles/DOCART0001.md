@@ -1,12 +1,12 @@
 ---
 DocumentID: DOCART0001
-Titre: L'assurance auto au Maroc en 2026 : panorama
+Titre: "L'assurance auto au Maroc en 2026 : panorama"
 Catégorie: Articles
-Tags: article, analyse, secteur
-Date: 2025-12-31
-Auteur: Service Sinistres
-Version: 4.6
-Mots-clés: Articles, assurance auto, Maroc, Eco+
+Tags: "article, analyse, secteur"
+Date: "2025-12-31"
+Auteur: "Service Sinistres"
+Version: "4.6"
+Mots-clés: "Articles, assurance auto, Maroc, Eco+"
 ---
 
 # L'assurance auto au Maroc en 2026 : panorama
