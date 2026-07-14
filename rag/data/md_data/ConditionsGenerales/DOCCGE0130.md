@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0130
-Titre: Clause : franchise et modalités d'application
+Titre:  "Clause : franchise et modalités d'application"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2026-01-21
