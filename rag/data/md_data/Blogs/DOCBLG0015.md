@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCBLG0015
-Titre: Véhicules électriques : quel impact sur l'assurance auto ?
+Titre: "Véhicules électriques : quel impact sur l'assurance auto ?"
 Catégorie: Blogs
 Tags: blog, tendance, marche
 Date: 2026-04-03
