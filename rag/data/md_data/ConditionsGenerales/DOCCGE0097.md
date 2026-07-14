@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0097
-Titre: Clause : révision tarifaire annuelle
+Titre: "Clause : révision tarifaire annuelle"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2025-05-17
