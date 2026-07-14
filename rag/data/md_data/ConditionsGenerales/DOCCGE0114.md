@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0114
-Titre: Clause : exclusions générales du contrat
+Titre:"Clause : exclusions générales du contrat"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2025-12-15
