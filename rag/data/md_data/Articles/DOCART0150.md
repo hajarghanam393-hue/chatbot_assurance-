@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCART0150
-Titre: La fraude à l'assurance auto : enjeux et détection
+Titre: "La fraude à l'assurance auto : enjeux et détection"
 Catégorie: Articles
 Tags: article, analyse, secteur
 Date: 2026-03-06
