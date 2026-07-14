@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCLI0105
-Titre: Cas : souscription d'un primo-assuré au pack Eco+
+Titre: "Cas : souscription d'un primo-assuré au pack Eco+"
 Catégorie: CasClients
 Tags: cas-client, exemple, illustration
 Date: 2025-01-25
