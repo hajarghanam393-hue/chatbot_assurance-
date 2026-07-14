@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCART0016
-Titre: Le cadre réglementaire ACAPS expliqué
+Titre: "Le cadre réglementaire ACAPS expliqué"
 Catégorie: Articles
 Tags: article, analyse, secteur
 Date: 2026-05-11
