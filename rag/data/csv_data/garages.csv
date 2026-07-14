@@ -1,0 +1,501 @@
+﻿GarageID,Nom,Ville,CodePostal,AgreeAssureur,Specialite,Note
+G0001,Garage Atlas Kénitra,Kénitra,14000,True,Premium,3.3
+G0002,Garage Auto Mohammedia,Mohammedia,28800,True,Carrosserie,4.7
+G0003,Garage Maghreb Rabat,Rabat,10000,True,Carrosserie,3.8
+G0004,Garage Maghreb Marrakech,Marrakech,40000,True,Premium,4.3
+G0005,Garage Premium Mohammedia,Mohammedia,28800,True,Carrosserie,3.3
+G0006,Garage Express Laâyoune,Laâyoune,70000,True,Mécanique,4.8
+G0007,Garage Auto Mohammedia,Mohammedia,28800,True,Premium,4.0
+G0008,Garage Atlas Marrakech,Marrakech,40000,True,Premium,4.3
+G0009,Garage Express El Jadida,El Jadida,24000,True,Mécanique,3.8
+G0010,Garage Express Beni Mellal,Beni Mellal,23000,True,Toutes marques,4.4
+G0011,Garage Express Fès,Fès,30000,True,Carrosserie,3.2
+G0012,Garage Maghreb El Jadida,El Jadida,24000,False,Toutes marques,4.9
+G0013,Garage Express Kénitra,Kénitra,14000,True,Toutes marques,4.7
+G0014,Garage Express Tétouan,Tétouan,93000,True,Premium,3.7
+G0015,Garage Express Agadir,Agadir,80000,True,Carrosserie,4.0
+G0016,Garage Auto Fès,Fès,30000,True,Premium,3.1
+G0017,Garage Atlas Errachidia,Errachidia,52000,True,Mécanique,4.6
+G0018,Garage Maghreb Laâyoune,Laâyoune,70000,True,Mécanique,4.9
+G0019,Garage Auto Agadir,Agadir,80000,False,Premium,4.9
+G0020,Garage Auto Meknès,Meknès,50000,False,Carrosserie,3.9
+G0021,Garage Premium Settat,Settat,26000,True,Premium,3.4
+G0022,Garage Atlas Salé,Salé,11000,True,Premium,3.0
+G0023,Garage Maghreb Rabat,Rabat,10000,True,Toutes marques,4.7
+G0024,Garage Express Marrakech,Marrakech,40000,True,Carrosserie,4.3
+G0025,Garage Express Meknès,Meknès,50000,True,Mécanique,3.5
+G0026,Garage Premium Khouribga,Khouribga,25000,True,Toutes marques,3.2
+G0027,Garage Auto El Jadida,El Jadida,24000,False,Mécanique,3.9
+G0028,Garage Atlas Rabat,Rabat,10000,True,Mécanique,4.5
+G0029,Garage Maghreb Fès,Fès,30000,True,Premium,4.1
+G0030,Garage Premium Tanger,Tanger,90000,True,Carrosserie,3.9
+G0031,Garage Premium Marrakech,Marrakech,40000,True,Toutes marques,4.3
+G0032,Garage Atlas Laâyoune,Laâyoune,70000,True,Premium,3.3
+G0033,Garage Premium Khouribga,Khouribga,25000,True,Mécanique,4.8
+G0034,Garage Premium Agadir,Agadir,80000,True,Mécanique,3.5
+G0035,Garage Auto Beni Mellal,Beni Mellal,23000,False,Mécanique,3.3
+G0036,Garage Maghreb Tétouan,Tétouan,93000,True,Toutes marques,4.5
+G0037,Garage Atlas Rabat,Rabat,10000,False,Premium,3.1
+G0038,Garage Atlas Settat,Settat,26000,True,Toutes marques,4.2
+G0039,Garage Premium Oujda,Oujda,60000,True,Premium,4.2
+G0040,Garage Express Rabat,Rabat,10000,True,Mécanique,4.3
+G0041,Garage Express Errachidia,Errachidia,52000,True,Carrosserie,3.4
+G0042,Garage Maghreb Salé,Salé,11000,True,Mécanique,3.3
+G0043,Garage Premium Tétouan,Tétouan,93000,True,Toutes marques,3.0
+G0044,Garage Express Essaouira,Essaouira,44000,True,Toutes marques,4.1
+G0045,Garage Auto Settat,Settat,26000,True,Carrosserie,4.8
+G0046,Garage Auto Oujda,Oujda,60000,True,Premium,3.9
+G0047,Garage Auto Laâyoune,Laâyoune,70000,True,Carrosserie,4.9
+G0048,Garage Maghreb Fès,Fès,30000,True,Toutes marques,4.8
+G0049,Garage Maghreb Laâyoune,Laâyoune,70000,True,Carrosserie,4.2
+G0050,Garage Maghreb Salé,Salé,11000,True,Mécanique,3.5
+G0051,Garage Atlas Rabat,Rabat,10000,False,Carrosserie,3.1
+G0052,Garage Maghreb Salé,Salé,11000,True,Premium,4.5
+G0053,Garage Premium Laâyoune,Laâyoune,70000,True,Toutes marques,3.2
+G0054,Garage Express Tanger,Tanger,90000,True,Carrosserie,4.2
+G0055,Garage Premium Tanger,Tanger,90000,True,Toutes marques,3.6
+G0056,Garage Auto Rabat,Rabat,10000,True,Premium,4.3
+G0057,Garage Express Nador,Nador,62000,False,Premium,4.9
+G0058,Garage Maghreb Oujda,Oujda,60000,True,Mécanique,3.0
+G0059,Garage Premium Salé,Salé,11000,True,Carrosserie,3.3
+G0060,Garage Premium Fès,Fès,30000,True,Mécanique,3.4
+G0061,Garage Auto Beni Mellal,Beni Mellal,23000,True,Premium,3.4
+G0062,Garage Premium Meknès,Meknès,50000,True,Carrosserie,4.7
+G0063,Garage Auto Kénitra,Kénitra,14000,False,Carrosserie,4.9
+G0064,Garage Auto Fès,Fès,30000,True,Carrosserie,3.1
+G0065,Garage Premium Essaouira,Essaouira,44000,True,Carrosserie,3.9
+G0066,Garage Atlas Settat,Settat,26000,False,Premium,3.5
+G0067,Garage Atlas El Jadida,El Jadida,24000,True,Carrosserie,3.9
+G0068,Garage Express Salé,Salé,11000,True,Toutes marques,4.4
+G0069,Garage Express Tétouan,Tétouan,93000,True,Mécanique,3.7
+G0070,Garage Express Tétouan,Tétouan,93000,True,Premium,3.8
+G0071,Garage Maghreb Mohammedia,Mohammedia,28800,True,Mécanique,4.1
+G0072,Garage Auto Casablanca,Casablanca,20000,True,Premium,3.9
+G0073,Garage Express Errachidia,Errachidia,52000,True,Mécanique,3.9
+G0074,Garage Express Meknès,Meknès,50000,False,Premium,4.3
+G0075,Garage Express Tétouan,Tétouan,93000,True,Toutes marques,4.6
+G0076,Garage Auto Oujda,Oujda,60000,True,Premium,3.3
+G0077,Garage Maghreb Rabat,Rabat,10000,False,Toutes marques,3.9
+G0078,Garage Maghreb Errachidia,Errachidia,52000,False,Mécanique,3.8
+G0079,Garage Atlas Tanger,Tanger,90000,True,Mécanique,3.4
+G0080,Garage Premium Settat,Settat,26000,True,Premium,4.8
+G0081,Garage Premium Fès,Fès,30000,True,Mécanique,4.3
+G0082,Garage Express Laâyoune,Laâyoune,70000,True,Mécanique,4.2
+G0083,Garage Premium Settat,Settat,26000,False,Premium,4.5
+G0084,Garage Premium Khouribga,Khouribga,25000,True,Premium,4.7
+G0085,Garage Express Kénitra,Kénitra,14000,False,Premium,3.5
+G0086,Garage Auto Marrakech,Marrakech,40000,True,Carrosserie,3.7
+G0087,Garage Atlas Laâyoune,Laâyoune,70000,True,Premium,3.5
+G0088,Garage Maghreb Tanger,Tanger,90000,True,Mécanique,3.8
+G0089,Garage Premium Laâyoune,Laâyoune,70000,False,Toutes marques,3.4
+G0090,Garage Premium El Jadida,El Jadida,24000,True,Mécanique,4.0
+G0091,Garage Auto Nador,Nador,62000,False,Mécanique,4.1
+G0092,Garage Express Laâyoune,Laâyoune,70000,True,Mécanique,3.4
+G0093,Garage Premium El Jadida,El Jadida,24000,True,Mécanique,3.7
+G0094,Garage Maghreb Mohammedia,Mohammedia,28800,False,Premium,5.0
+G0095,Garage Atlas Laâyoune,Laâyoune,70000,False,Toutes marques,3.2
+G0096,Garage Maghreb El Jadida,El Jadida,24000,False,Premium,3.1
+G0097,Garage Auto Mohammedia,Mohammedia,28800,True,Mécanique,3.7
+G0098,Garage Auto Mohammedia,Mohammedia,28800,False,Carrosserie,4.7
+G0099,Garage Atlas Khouribga,Khouribga,25000,True,Carrosserie,3.4
+G0100,Garage Atlas Marrakech,Marrakech,40000,True,Premium,3.4
+G0101,Garage Express Casablanca,Casablanca,20000,True,Premium,3.3
+G0102,Garage Express Fès,Fès,30000,True,Mécanique,4.4
+G0103,Garage Maghreb Nador,Nador,62000,True,Premium,4.9
+G0104,Garage Express Fès,Fès,30000,True,Carrosserie,4.2
+G0105,Garage Premium Mohammedia,Mohammedia,28800,True,Toutes marques,4.2
+G0106,Garage Atlas Oujda,Oujda,60000,True,Toutes marques,4.6
+G0107,Garage Atlas Errachidia,Errachidia,52000,True,Mécanique,4.3
+G0108,Garage Express Marrakech,Marrakech,40000,True,Toutes marques,4.7
+G0109,Garage Atlas Khouribga,Khouribga,25000,False,Carrosserie,4.3
+G0110,Garage Maghreb Beni Mellal,Beni Mellal,23000,False,Premium,4.5
+G0111,Garage Express Kénitra,Kénitra,14000,False,Mécanique,3.9
+G0112,Garage Auto Errachidia,Errachidia,52000,True,Premium,4.7
+G0113,Garage Auto Marrakech,Marrakech,40000,False,Premium,4.5
+G0114,Garage Express Errachidia,Errachidia,52000,False,Carrosserie,3.1
+G0115,Garage Maghreb Salé,Salé,11000,False,Premium,3.7
+G0116,Garage Auto Kénitra,Kénitra,14000,True,Carrosserie,4.1
+G0117,Garage Maghreb Settat,Settat,26000,True,Premium,4.4
+G0118,Garage Express Khouribga,Khouribga,25000,True,Mécanique,4.3
+G0119,Garage Premium Khouribga,Khouribga,25000,True,Toutes marques,3.6
+G0120,Garage Maghreb Mohammedia,Mohammedia,28800,True,Carrosserie,3.9
+G0121,Garage Auto Settat,Settat,26000,False,Carrosserie,3.7
+G0122,Garage Auto Beni Mellal,Beni Mellal,23000,True,Carrosserie,3.5
+G0123,Garage Auto Meknès,Meknès,50000,True,Premium,3.4
+G0124,Garage Auto Khouribga,Khouribga,25000,True,Toutes marques,4.7
+G0125,Garage Maghreb Tétouan,Tétouan,93000,True,Premium,3.6
+G0126,Garage Maghreb Laâyoune,Laâyoune,70000,True,Toutes marques,4.9
+G0127,Garage Auto Laâyoune,Laâyoune,70000,True,Mécanique,3.2
+G0128,Garage Express Casablanca,Casablanca,20000,True,Mécanique,4.0
+G0129,Garage Maghreb Salé,Salé,11000,True,Carrosserie,4.9
+G0130,Garage Atlas Khouribga,Khouribga,25000,True,Mécanique,4.0
+G0131,Garage Atlas Errachidia,Errachidia,52000,True,Premium,4.6
+G0132,Garage Atlas Tétouan,Tétouan,93000,True,Toutes marques,4.1
+G0133,Garage Express El Jadida,El Jadida,24000,True,Mécanique,3.9
+G0134,Garage Auto Beni Mellal,Beni Mellal,23000,False,Carrosserie,4.1
+G0135,Garage Express Rabat,Rabat,10000,True,Premium,4.3
+G0136,Garage Atlas Kénitra,Kénitra,14000,True,Premium,3.3
+G0137,Garage Maghreb Marrakech,Marrakech,40000,True,Mécanique,3.9
+G0138,Garage Premium Essaouira,Essaouira,44000,True,Toutes marques,3.5
+G0139,Garage Premium Tétouan,Tétouan,93000,True,Premium,4.8
+G0140,Garage Maghreb Errachidia,Errachidia,52000,False,Toutes marques,4.1
+G0141,Garage Auto Tanger,Tanger,90000,True,Toutes marques,3.1
+G0142,Garage Express Tétouan,Tétouan,93000,True,Mécanique,3.2
+G0143,Garage Premium Tétouan,Tétouan,93000,True,Mécanique,3.9
+G0144,Garage Atlas Essaouira,Essaouira,44000,False,Carrosserie,4.2
+G0145,Garage Atlas Casablanca,Casablanca,20000,True,Toutes marques,5.0
+G0146,Garage Express Kénitra,Kénitra,14000,True,Premium,3.9
+G0147,Garage Auto Beni Mellal,Beni Mellal,23000,True,Mécanique,4.3
+G0148,Garage Atlas Khouribga,Khouribga,25000,False,Carrosserie,3.8
+G0149,Garage Atlas Salé,Salé,11000,True,Carrosserie,3.8
+G0150,Garage Auto Khouribga,Khouribga,25000,False,Toutes marques,3.9
+G0151,Garage Auto Salé,Salé,11000,True,Toutes marques,4.9
+G0152,Garage Express Mohammedia,Mohammedia,28800,True,Mécanique,3.8
+G0153,Garage Express Meknès,Meknès,50000,True,Mécanique,4.3
+G0154,Garage Maghreb Rabat,Rabat,10000,True,Premium,4.9
+G0155,Garage Premium Beni Mellal,Beni Mellal,23000,True,Toutes marques,4.9
+G0156,Garage Maghreb Essaouira,Essaouira,44000,True,Carrosserie,4.1
+G0157,Garage Premium Laâyoune,Laâyoune,70000,True,Premium,5.0
+G0158,Garage Premium Fès,Fès,30000,True,Premium,4.0
+G0159,Garage Express Tétouan,Tétouan,93000,True,Mécanique,4.7
+G0160,Garage Maghreb Khouribga,Khouribga,25000,False,Premium,3.8
+G0161,Garage Express Essaouira,Essaouira,44000,True,Toutes marques,3.6
+G0162,Garage Auto El Jadida,El Jadida,24000,True,Toutes marques,3.6
+G0163,Garage Express Tétouan,Tétouan,93000,False,Premium,3.9
+G0164,Garage Auto Khouribga,Khouribga,25000,True,Mécanique,3.9
+G0165,Garage Maghreb Salé,Salé,11000,True,Mécanique,3.5
+G0166,Garage Atlas El Jadida,El Jadida,24000,True,Mécanique,4.4
+G0167,Garage Premium Mohammedia,Mohammedia,28800,True,Mécanique,4.9
+G0168,Garage Express Tanger,Tanger,90000,True,Toutes marques,4.7
+G0169,Garage Atlas Beni Mellal,Beni Mellal,23000,False,Toutes marques,4.4
+G0170,Garage Maghreb El Jadida,El Jadida,24000,True,Mécanique,4.6
+G0171,Garage Auto Kénitra,Kénitra,14000,False,Toutes marques,4.7
+G0172,Garage Premium Laâyoune,Laâyoune,70000,True,Mécanique,4.7
+G0173,Garage Express Rabat,Rabat,10000,True,Premium,4.3
+G0174,Garage Maghreb Tétouan,Tétouan,93000,True,Mécanique,5.0
+G0175,Garage Premium Fès,Fès,30000,True,Carrosserie,4.8
+G0176,Garage Auto Rabat,Rabat,10000,True,Carrosserie,3.7
+G0177,Garage Maghreb El Jadida,El Jadida,24000,True,Mécanique,4.1
+G0178,Garage Maghreb Agadir,Agadir,80000,True,Toutes marques,4.2
+G0179,Garage Express Mohammedia,Mohammedia,28800,True,Mécanique,4.8
+G0180,Garage Maghreb Tanger,Tanger,90000,False,Carrosserie,3.9
+G0181,Garage Premium Casablanca,Casablanca,20000,True,Premium,3.1
+G0182,Garage Express Nador,Nador,62000,True,Mécanique,4.4
+G0183,Garage Auto Beni Mellal,Beni Mellal,23000,True,Mécanique,4.7
+G0184,Garage Maghreb Fès,Fès,30000,False,Carrosserie,4.1
+G0185,Garage Atlas Tétouan,Tétouan,93000,False,Carrosserie,3.0
+G0186,Garage Express Rabat,Rabat,10000,False,Carrosserie,4.6
+G0187,Garage Express Oujda,Oujda,60000,True,Premium,4.3
+G0188,Garage Auto Essaouira,Essaouira,44000,True,Toutes marques,4.8
+G0189,Garage Auto Rabat,Rabat,10000,False,Toutes marques,4.2
+G0190,Garage Atlas Tanger,Tanger,90000,True,Carrosserie,4.5
+G0191,Garage Maghreb Agadir,Agadir,80000,True,Carrosserie,4.1
+G0192,Garage Maghreb Kénitra,Kénitra,14000,True,Mécanique,4.9
+G0193,Garage Auto Tétouan,Tétouan,93000,True,Mécanique,4.9
+G0194,Garage Maghreb Tanger,Tanger,90000,False,Carrosserie,3.2
+G0195,Garage Atlas Mohammedia,Mohammedia,28800,True,Toutes marques,3.9
+G0196,Garage Express Kénitra,Kénitra,14000,False,Carrosserie,3.2
+G0197,Garage Premium Oujda,Oujda,60000,True,Carrosserie,4.8
+G0198,Garage Atlas Oujda,Oujda,60000,False,Carrosserie,4.3
+G0199,Garage Maghreb Fès,Fès,30000,True,Toutes marques,3.6
+G0200,Garage Atlas Khouribga,Khouribga,25000,True,Premium,4.8
+G0201,Garage Premium Tanger,Tanger,90000,False,Carrosserie,4.3
+G0202,Garage Premium Laâyoune,Laâyoune,70000,True,Mécanique,4.3
+G0203,Garage Express Khouribga,Khouribga,25000,False,Carrosserie,3.1
+G0204,Garage Maghreb Nador,Nador,62000,False,Mécanique,4.9
+G0205,Garage Atlas Nador,Nador,62000,True,Carrosserie,3.1
+G0206,Garage Maghreb Kénitra,Kénitra,14000,True,Mécanique,3.2
+G0207,Garage Express Meknès,Meknès,50000,True,Toutes marques,4.6
+G0208,Garage Maghreb Oujda,Oujda,60000,True,Toutes marques,4.7
+G0209,Garage Maghreb Laâyoune,Laâyoune,70000,True,Premium,3.7
+G0210,Garage Express Tanger,Tanger,90000,True,Carrosserie,4.7
+G0211,Garage Maghreb Tanger,Tanger,90000,True,Premium,3.2
+G0212,Garage Maghreb Casablanca,Casablanca,20000,True,Carrosserie,4.6
+G0213,Garage Express Oujda,Oujda,60000,True,Toutes marques,3.3
+G0214,Garage Maghreb Rabat,Rabat,10000,False,Toutes marques,4.5
+G0215,Garage Premium Khouribga,Khouribga,25000,True,Toutes marques,3.9
+G0216,Garage Express Oujda,Oujda,60000,True,Carrosserie,3.9
+G0217,Garage Atlas Casablanca,Casablanca,20000,False,Mécanique,3.9
+G0218,Garage Premium Fès,Fès,30000,False,Toutes marques,4.8
+G0219,Garage Express Salé,Salé,11000,True,Toutes marques,3.3
+G0220,Garage Express Essaouira,Essaouira,44000,True,Mécanique,5.0
+G0221,Garage Auto Settat,Settat,26000,False,Mécanique,3.2
+G0222,Garage Express Fès,Fès,30000,True,Mécanique,3.9
+G0223,Garage Premium Oujda,Oujda,60000,True,Mécanique,3.8
+G0224,Garage Auto Fès,Fès,30000,False,Carrosserie,4.3
+G0225,Garage Maghreb Nador,Nador,62000,False,Toutes marques,3.2
+G0226,Garage Atlas Marrakech,Marrakech,40000,False,Toutes marques,4.5
+G0227,Garage Maghreb Nador,Nador,62000,True,Carrosserie,4.3
+G0228,Garage Auto El Jadida,El Jadida,24000,False,Toutes marques,4.9
+G0229,Garage Auto Essaouira,Essaouira,44000,True,Toutes marques,4.2
+G0230,Garage Maghreb Meknès,Meknès,50000,False,Premium,4.7
+G0231,Garage Express Nador,Nador,62000,True,Toutes marques,4.5
+G0232,Garage Maghreb Errachidia,Errachidia,52000,False,Toutes marques,4.2
+G0233,Garage Atlas Kénitra,Kénitra,14000,True,Carrosserie,4.4
+G0234,Garage Auto Tétouan,Tétouan,93000,True,Toutes marques,3.4
+G0235,Garage Express Tanger,Tanger,90000,False,Toutes marques,3.3
+G0236,Garage Atlas Casablanca,Casablanca,20000,True,Mécanique,3.8
+G0237,Garage Maghreb Salé,Salé,11000,True,Carrosserie,4.4
+G0238,Garage Express Errachidia,Errachidia,52000,True,Toutes marques,3.3
+G0239,Garage Atlas Essaouira,Essaouira,44000,True,Carrosserie,3.9
+G0240,Garage Premium El Jadida,El Jadida,24000,False,Mécanique,3.5
+G0241,Garage Atlas Settat,Settat,26000,True,Mécanique,3.2
+G0242,Garage Premium Errachidia,Errachidia,52000,True,Toutes marques,3.4
+G0243,Garage Atlas Essaouira,Essaouira,44000,True,Premium,3.6
+G0244,Garage Maghreb Meknès,Meknès,50000,True,Carrosserie,3.7
+G0245,Garage Premium Casablanca,Casablanca,20000,False,Premium,3.3
+G0246,Garage Maghreb Laâyoune,Laâyoune,70000,True,Toutes marques,3.8
+G0247,Garage Premium Rabat,Rabat,10000,True,Mécanique,4.8
+G0248,Garage Express Salé,Salé,11000,False,Mécanique,4.4
+G0249,Garage Auto El Jadida,El Jadida,24000,True,Mécanique,3.0
+G0250,Garage Maghreb Salé,Salé,11000,False,Carrosserie,3.2
+G0251,Garage Maghreb Fès,Fès,30000,False,Mécanique,4.0
+G0252,Garage Auto Mohammedia,Mohammedia,28800,True,Premium,3.7
+G0253,Garage Atlas Agadir,Agadir,80000,True,Premium,4.8
+G0254,Garage Auto Nador,Nador,62000,True,Premium,3.2
+G0255,Garage Maghreb Kénitra,Kénitra,14000,True,Premium,4.5
+G0256,Garage Maghreb Marrakech,Marrakech,40000,False,Mécanique,4.5
+G0257,Garage Premium Errachidia,Errachidia,52000,True,Carrosserie,3.3
+G0258,Garage Premium Marrakech,Marrakech,40000,False,Carrosserie,4.6
+G0259,Garage Atlas Errachidia,Errachidia,52000,True,Toutes marques,3.6
+G0260,Garage Atlas Beni Mellal,Beni Mellal,23000,True,Carrosserie,4.7
+G0261,Garage Atlas Marrakech,Marrakech,40000,False,Mécanique,4.2
+G0262,Garage Premium Rabat,Rabat,10000,True,Carrosserie,4.2
+G0263,Garage Maghreb Settat,Settat,26000,True,Mécanique,3.2
+G0264,Garage Atlas Salé,Salé,11000,True,Toutes marques,3.5
+G0265,Garage Premium Beni Mellal,Beni Mellal,23000,True,Carrosserie,3.7
+G0266,Garage Premium Tétouan,Tétouan,93000,False,Carrosserie,4.4
+G0267,Garage Auto Rabat,Rabat,10000,True,Carrosserie,3.2
+G0268,Garage Auto Mohammedia,Mohammedia,28800,True,Premium,3.7
+G0269,Garage Maghreb Errachidia,Errachidia,52000,True,Carrosserie,4.9
+G0270,Garage Maghreb Mohammedia,Mohammedia,28800,True,Carrosserie,4.1
+G0271,Garage Maghreb Salé,Salé,11000,True,Mécanique,4.0
+G0272,Garage Auto Casablanca,Casablanca,20000,True,Premium,4.9
+G0273,Garage Premium Salé,Salé,11000,True,Premium,5.0
+G0274,Garage Atlas Tanger,Tanger,90000,True,Toutes marques,4.0
+G0275,Garage Express Laâyoune,Laâyoune,70000,True,Carrosserie,4.8
+G0276,Garage Maghreb Essaouira,Essaouira,44000,False,Premium,3.3
+G0277,Garage Maghreb Essaouira,Essaouira,44000,False,Toutes marques,3.8
+G0278,Garage Premium Oujda,Oujda,60000,True,Mécanique,3.5
+G0279,Garage Auto Oujda,Oujda,60000,False,Premium,3.7
+G0280,Garage Premium Errachidia,Errachidia,52000,False,Carrosserie,4.6
+G0281,Garage Express Settat,Settat,26000,False,Premium,4.6
+G0282,Garage Maghreb Essaouira,Essaouira,44000,True,Toutes marques,4.3
+G0283,Garage Express Nador,Nador,62000,True,Toutes marques,3.6
+G0284,Garage Auto Agadir,Agadir,80000,False,Premium,4.7
+G0285,Garage Maghreb Marrakech,Marrakech,40000,False,Carrosserie,4.9
+G0286,Garage Atlas El Jadida,El Jadida,24000,False,Carrosserie,3.5
+G0287,Garage Auto Marrakech,Marrakech,40000,True,Toutes marques,3.6
+G0288,Garage Auto Fès,Fès,30000,True,Premium,3.1
+G0289,Garage Maghreb Khouribga,Khouribga,25000,False,Mécanique,4.2
+G0290,Garage Atlas Marrakech,Marrakech,40000,True,Premium,4.7
+G0291,Garage Express Laâyoune,Laâyoune,70000,False,Toutes marques,4.6
+G0292,Garage Auto Oujda,Oujda,60000,True,Toutes marques,3.5
+G0293,Garage Premium Essaouira,Essaouira,44000,True,Toutes marques,4.7
+G0294,Garage Express Khouribga,Khouribga,25000,True,Premium,4.4
+G0295,Garage Premium Tétouan,Tétouan,93000,True,Carrosserie,3.5
+G0296,Garage Maghreb El Jadida,El Jadida,24000,True,Carrosserie,3.1
+G0297,Garage Express Settat,Settat,26000,True,Mécanique,4.7
+G0298,Garage Premium Rabat,Rabat,10000,True,Carrosserie,4.5
+G0299,Garage Atlas Nador,Nador,62000,True,Premium,4.5
+G0300,Garage Express Fès,Fès,30000,True,Premium,3.1
+G0301,Garage Auto Laâyoune,Laâyoune,70000,True,Mécanique,5.0
+G0302,Garage Maghreb Khouribga,Khouribga,25000,True,Toutes marques,4.4
+G0303,Garage Atlas Beni Mellal,Beni Mellal,23000,True,Premium,3.1
+G0304,Garage Atlas Meknès,Meknès,50000,True,Carrosserie,4.0
+G0305,Garage Premium Laâyoune,Laâyoune,70000,True,Toutes marques,4.5
+G0306,Garage Auto Meknès,Meknès,50000,True,Toutes marques,4.7
+G0307,Garage Auto Salé,Salé,11000,True,Carrosserie,3.9
+G0308,Garage Premium Mohammedia,Mohammedia,28800,False,Carrosserie,4.9
+G0309,Garage Premium Khouribga,Khouribga,25000,True,Carrosserie,4.6
+G0310,Garage Atlas El Jadida,El Jadida,24000,False,Premium,4.1
+G0311,Garage Atlas Salé,Salé,11000,True,Carrosserie,4.3
+G0312,Garage Premium Tétouan,Tétouan,93000,False,Premium,4.4
+G0313,Garage Premium Nador,Nador,62000,True,Carrosserie,4.2
+G0314,Garage Auto El Jadida,El Jadida,24000,True,Toutes marques,4.3
+G0315,Garage Auto Mohammedia,Mohammedia,28800,True,Toutes marques,3.3
+G0316,Garage Premium Essaouira,Essaouira,44000,True,Premium,3.1
+G0317,Garage Auto Nador,Nador,62000,False,Toutes marques,4.2
+G0318,Garage Auto Beni Mellal,Beni Mellal,23000,True,Mécanique,4.5
+G0319,Garage Maghreb Errachidia,Errachidia,52000,True,Mécanique,3.6
+G0320,Garage Maghreb Kénitra,Kénitra,14000,True,Toutes marques,4.5
+G0321,Garage Express Khouribga,Khouribga,25000,False,Toutes marques,3.5
+G0322,Garage Premium Kénitra,Kénitra,14000,True,Carrosserie,4.4
+G0323,Garage Maghreb Khouribga,Khouribga,25000,True,Premium,4.7
+G0324,Garage Maghreb Beni Mellal,Beni Mellal,23000,False,Toutes marques,4.6
+G0325,Garage Auto Salé,Salé,11000,True,Carrosserie,4.8
+G0326,Garage Maghreb Agadir,Agadir,80000,True,Premium,3.2
+G0327,Garage Maghreb Meknès,Meknès,50000,True,Mécanique,3.1
+G0328,Garage Express Laâyoune,Laâyoune,70000,True,Mécanique,4.6
+G0329,Garage Maghreb Laâyoune,Laâyoune,70000,True,Toutes marques,3.6
+G0330,Garage Express Khouribga,Khouribga,25000,False,Mécanique,4.6
+G0331,Garage Maghreb Marrakech,Marrakech,40000,True,Toutes marques,3.9
+G0332,Garage Auto Settat,Settat,26000,True,Premium,4.5
+G0333,Garage Premium Tanger,Tanger,90000,True,Toutes marques,4.0
+G0334,Garage Maghreb Tétouan,Tétouan,93000,True,Carrosserie,4.9
+G0335,Garage Auto Oujda,Oujda,60000,True,Toutes marques,3.5
+G0336,Garage Auto Laâyoune,Laâyoune,70000,True,Carrosserie,4.2
+G0337,Garage Express Marrakech,Marrakech,40000,True,Premium,3.3
+G0338,Garage Express Essaouira,Essaouira,44000,True,Toutes marques,4.7
+G0339,Garage Atlas Casablanca,Casablanca,20000,True,Carrosserie,4.3
+G0340,Garage Premium Errachidia,Errachidia,52000,True,Mécanique,4.8
+G0341,Garage Auto Laâyoune,Laâyoune,70000,True,Mécanique,3.5
+G0342,Garage Auto Mohammedia,Mohammedia,28800,False,Toutes marques,4.4
+G0343,Garage Premium Agadir,Agadir,80000,False,Mécanique,3.9
+G0344,Garage Express Salé,Salé,11000,True,Carrosserie,4.7
+G0345,Garage Auto Salé,Salé,11000,False,Premium,4.5
+G0346,Garage Express Settat,Settat,26000,True,Carrosserie,3.5
+G0347,Garage Auto Fès,Fès,30000,False,Premium,3.3
+G0348,Garage Auto Rabat,Rabat,10000,False,Mécanique,3.5
+G0349,Garage Auto Agadir,Agadir,80000,True,Premium,4.5
+G0350,Garage Express Khouribga,Khouribga,25000,False,Mécanique,4.8
+G0351,Garage Atlas Khouribga,Khouribga,25000,True,Mécanique,4.0
+G0352,Garage Maghreb Oujda,Oujda,60000,True,Toutes marques,3.1
+G0353,Garage Express Khouribga,Khouribga,25000,False,Carrosserie,4.1
+G0354,Garage Premium Fès,Fès,30000,True,Carrosserie,4.5
+G0355,Garage Auto Mohammedia,Mohammedia,28800,True,Mécanique,3.1
+G0356,Garage Maghreb Laâyoune,Laâyoune,70000,True,Carrosserie,3.1
+G0357,Garage Premium Settat,Settat,26000,True,Toutes marques,3.3
+G0358,Garage Premium Fès,Fès,30000,True,Carrosserie,4.1
+G0359,Garage Maghreb Nador,Nador,62000,True,Mécanique,4.0
+G0360,Garage Atlas Rabat,Rabat,10000,True,Carrosserie,4.6
+G0361,Garage Premium Settat,Settat,26000,True,Premium,3.7
+G0362,Garage Auto Essaouira,Essaouira,44000,True,Mécanique,5.0
+G0363,Garage Express Tétouan,Tétouan,93000,True,Mécanique,4.4
+G0364,Garage Premium Tétouan,Tétouan,93000,True,Carrosserie,3.7
+G0365,Garage Premium Fès,Fès,30000,True,Toutes marques,4.2
+G0366,Garage Express Kénitra,Kénitra,14000,True,Toutes marques,4.2
+G0367,Garage Express Agadir,Agadir,80000,False,Premium,4.6
+G0368,Garage Atlas Oujda,Oujda,60000,True,Premium,3.0
+G0369,Garage Premium Salé,Salé,11000,True,Mécanique,4.4
+G0370,Garage Express El Jadida,El Jadida,24000,False,Toutes marques,4.4
+G0371,Garage Maghreb Settat,Settat,26000,True,Mécanique,4.1
+G0372,Garage Maghreb Salé,Salé,11000,False,Carrosserie,4.1
+G0373,Garage Express Kénitra,Kénitra,14000,False,Premium,4.9
+G0374,Garage Express Kénitra,Kénitra,14000,True,Premium,4.9
+G0375,Garage Auto Tétouan,Tétouan,93000,True,Mécanique,3.6
+G0376,Garage Express Nador,Nador,62000,True,Carrosserie,3.2
+G0377,Garage Premium Laâyoune,Laâyoune,70000,False,Carrosserie,4.9
+G0378,Garage Auto Tanger,Tanger,90000,True,Carrosserie,4.9
+G0379,Garage Auto Marrakech,Marrakech,40000,False,Carrosserie,4.5
+G0380,Garage Maghreb Meknès,Meknès,50000,True,Carrosserie,3.3
+G0381,Garage Express Essaouira,Essaouira,44000,True,Premium,3.1
+G0382,Garage Maghreb Settat,Settat,26000,True,Toutes marques,3.2
+G0383,Garage Premium Salé,Salé,11000,True,Premium,3.0
+G0384,Garage Maghreb Laâyoune,Laâyoune,70000,False,Mécanique,4.0
+G0385,Garage Auto Meknès,Meknès,50000,True,Carrosserie,4.3
+G0386,Garage Express Marrakech,Marrakech,40000,True,Toutes marques,4.8
+G0387,Garage Premium Agadir,Agadir,80000,True,Toutes marques,5.0
+G0388,Garage Premium Mohammedia,Mohammedia,28800,True,Carrosserie,4.8
+G0389,Garage Auto Casablanca,Casablanca,20000,True,Carrosserie,3.6
+G0390,Garage Express Laâyoune,Laâyoune,70000,False,Premium,4.7
+G0391,Garage Auto Beni Mellal,Beni Mellal,23000,True,Toutes marques,3.7
+G0392,Garage Auto Beni Mellal,Beni Mellal,23000,True,Toutes marques,4.5
+G0393,Garage Express Tétouan,Tétouan,93000,True,Premium,4.2
+G0394,Garage Premium Mohammedia,Mohammedia,28800,True,Toutes marques,3.8
+G0395,Garage Maghreb Fès,Fès,30000,True,Mécanique,3.6
+G0396,Garage Atlas Oujda,Oujda,60000,True,Mécanique,3.5
+G0397,Garage Auto Kénitra,Kénitra,14000,True,Toutes marques,3.5
+G0398,Garage Maghreb Nador,Nador,62000,True,Toutes marques,3.9
+G0399,Garage Premium Agadir,Agadir,80000,True,Toutes marques,4.3
+G0400,Garage Auto Tétouan,Tétouan,93000,True,Premium,4.9
+G0401,Garage Maghreb Khouribga,Khouribga,25000,False,Carrosserie,3.8
+G0402,Garage Premium Laâyoune,Laâyoune,70000,True,Premium,4.4
+G0403,Garage Atlas Essaouira,Essaouira,44000,False,Carrosserie,3.2
+G0404,Garage Atlas Errachidia,Errachidia,52000,True,Premium,4.1
+G0405,Garage Maghreb Tanger,Tanger,90000,True,Mécanique,3.2
+G0406,Garage Express Meknès,Meknès,50000,False,Toutes marques,4.8
+G0407,Garage Atlas Beni Mellal,Beni Mellal,23000,False,Premium,4.0
+G0408,Garage Express Beni Mellal,Beni Mellal,23000,True,Mécanique,4.3
+G0409,Garage Atlas Tétouan,Tétouan,93000,False,Carrosserie,4.6
+G0410,Garage Express Meknès,Meknès,50000,True,Toutes marques,3.8
+G0411,Garage Express Marrakech,Marrakech,40000,True,Toutes marques,5.0
+G0412,Garage Atlas Khouribga,Khouribga,25000,True,Mécanique,3.4
+G0413,Garage Premium Tanger,Tanger,90000,True,Mécanique,3.9
+G0414,Garage Premium Mohammedia,Mohammedia,28800,True,Premium,4.3
+G0415,Garage Atlas Nador,Nador,62000,True,Mécanique,4.1
+G0416,Garage Atlas Oujda,Oujda,60000,True,Carrosserie,3.9
+G0417,Garage Premium Laâyoune,Laâyoune,70000,False,Premium,3.5
+G0418,Garage Maghreb Nador,Nador,62000,True,Premium,4.9
+G0419,Garage Atlas Fès,Fès,30000,False,Toutes marques,3.5
+G0420,Garage Atlas Marrakech,Marrakech,40000,True,Mécanique,4.2
+G0421,Garage Maghreb Rabat,Rabat,10000,True,Mécanique,3.9
+G0422,Garage Maghreb Laâyoune,Laâyoune,70000,True,Premium,4.0
+G0423,Garage Maghreb Tétouan,Tétouan,93000,True,Carrosserie,3.5
+G0424,Garage Express Tanger,Tanger,90000,True,Mécanique,3.6
+G0425,Garage Express Rabat,Rabat,10000,True,Mécanique,4.1
+G0426,Garage Auto Rabat,Rabat,10000,False,Carrosserie,4.4
+G0427,Garage Maghreb El Jadida,El Jadida,24000,True,Mécanique,3.4
+G0428,Garage Premium Laâyoune,Laâyoune,70000,True,Premium,3.6
+G0429,Garage Premium Tanger,Tanger,90000,True,Mécanique,4.9
+G0430,Garage Express Laâyoune,Laâyoune,70000,True,Mécanique,3.5
+G0431,Garage Auto Meknès,Meknès,50000,True,Mécanique,4.7
+G0432,Garage Express Marrakech,Marrakech,40000,True,Toutes marques,3.5
+G0433,Garage Express Essaouira,Essaouira,44000,True,Toutes marques,3.4
+G0434,Garage Express Errachidia,Errachidia,52000,True,Mécanique,3.4
+G0435,Garage Auto Salé,Salé,11000,True,Premium,4.9
+G0436,Garage Premium Fès,Fès,30000,True,Premium,3.8
+G0437,Garage Express Oujda,Oujda,60000,True,Carrosserie,3.8
+G0438,Garage Auto Laâyoune,Laâyoune,70000,True,Carrosserie,3.7
+G0439,Garage Premium Khouribga,Khouribga,25000,True,Mécanique,4.5
+G0440,Garage Maghreb Salé,Salé,11000,True,Carrosserie,3.8
+G0441,Garage Maghreb Errachidia,Errachidia,52000,True,Toutes marques,3.5
+G0442,Garage Express Errachidia,Errachidia,52000,False,Carrosserie,3.3
+G0443,Garage Maghreb Salé,Salé,11000,False,Premium,4.0
+G0444,Garage Auto Salé,Salé,11000,False,Mécanique,3.9
+G0445,Garage Maghreb Nador,Nador,62000,True,Mécanique,3.4
+G0446,Garage Atlas Laâyoune,Laâyoune,70000,True,Toutes marques,4.9
+G0447,Garage Atlas Rabat,Rabat,10000,False,Premium,4.7
+G0448,Garage Atlas Oujda,Oujda,60000,True,Toutes marques,3.4
+G0449,Garage Auto Beni Mellal,Beni Mellal,23000,True,Mécanique,4.3
+G0450,Garage Atlas Casablanca,Casablanca,20000,False,Toutes marques,3.0
+G0451,Garage Express Kénitra,Kénitra,14000,True,Toutes marques,4.0
+G0452,Garage Maghreb El Jadida,El Jadida,24000,True,Toutes marques,4.0
+G0453,Garage Maghreb Oujda,Oujda,60000,True,Carrosserie,3.5
+G0454,Garage Atlas Mohammedia,Mohammedia,28800,True,Mécanique,3.9
+G0455,Garage Maghreb Oujda,Oujda,60000,True,Toutes marques,4.3
+G0456,Garage Atlas Rabat,Rabat,10000,False,Mécanique,3.8
+G0457,Garage Atlas Khouribga,Khouribga,25000,True,Premium,3.2
+G0458,Garage Auto El Jadida,El Jadida,24000,True,Toutes marques,3.5
+G0459,Garage Premium Errachidia,Errachidia,52000,True,Toutes marques,4.8
+G0460,Garage Express Kénitra,Kénitra,14000,True,Premium,4.9
+G0461,Garage Atlas Salé,Salé,11000,True,Premium,4.5
+G0462,Garage Atlas Mohammedia,Mohammedia,28800,True,Premium,4.1
+G0463,Garage Premium Errachidia,Errachidia,52000,True,Mécanique,4.5
+G0464,Garage Atlas Tanger,Tanger,90000,True,Toutes marques,3.2
+G0465,Garage Atlas Oujda,Oujda,60000,True,Mécanique,4.9
+G0466,Garage Atlas Salé,Salé,11000,True,Mécanique,4.0
+G0467,Garage Express Nador,Nador,62000,False,Mécanique,3.4
+G0468,Garage Premium Errachidia,Errachidia,52000,True,Carrosserie,4.6
+G0469,Garage Atlas Marrakech,Marrakech,40000,True,Premium,3.8
+G0470,Garage Premium Tanger,Tanger,90000,True,Carrosserie,3.2
+G0471,Garage Auto Casablanca,Casablanca,20000,False,Carrosserie,4.5
+G0472,Garage Maghreb Fès,Fès,30000,True,Premium,3.9
+G0473,Garage Express Laâyoune,Laâyoune,70000,False,Toutes marques,3.1
+G0474,Garage Express Nador,Nador,62000,True,Carrosserie,4.7
+G0475,Garage Auto Casablanca,Casablanca,20000,False,Mécanique,4.6
+G0476,Garage Maghreb Laâyoune,Laâyoune,70000,True,Mécanique,3.3
+G0477,Garage Auto Kénitra,Kénitra,14000,True,Mécanique,3.3
+G0478,Garage Premium Agadir,Agadir,80000,True,Mécanique,3.6
+G0479,Garage Auto Marrakech,Marrakech,40000,True,Premium,4.4
+G0480,Garage Express Khouribga,Khouribga,25000,True,Mécanique,3.2
+G0481,Garage Atlas Tétouan,Tétouan,93000,False,Carrosserie,4.7
+G0482,Garage Auto Mohammedia,Mohammedia,28800,False,Carrosserie,3.9
+G0483,Garage Maghreb Essaouira,Essaouira,44000,True,Carrosserie,4.2
+G0484,Garage Premium Meknès,Meknès,50000,True,Premium,4.9
+G0485,Garage Auto Salé,Salé,11000,False,Premium,3.7
+G0486,Garage Premium Kénitra,Kénitra,14000,True,Toutes marques,4.9
+G0487,Garage Express Meknès,Meknès,50000,True,Toutes marques,4.9
+G0488,Garage Maghreb Beni Mellal,Beni Mellal,23000,False,Carrosserie,4.7
+G0489,Garage Premium Marrakech,Marrakech,40000,False,Premium,4.3
+G0490,Garage Auto Oujda,Oujda,60000,True,Mécanique,4.6
+G0491,Garage Premium Marrakech,Marrakech,40000,False,Mécanique,4.1
+G0492,Garage Express El Jadida,El Jadida,24000,True,Carrosserie,4.4
+G0493,Garage Express Laâyoune,Laâyoune,70000,True,Toutes marques,4.5
+G0494,Garage Maghreb Nador,Nador,62000,True,Mécanique,4.9
+G0495,Garage Premium Salé,Salé,11000,True,Toutes marques,3.2
+G0496,Garage Express Oujda,Oujda,60000,True,Mécanique,3.7
+G0497,Garage Express Beni Mellal,Beni Mellal,23000,True,Carrosserie,5.0
+G0498,Garage Atlas Khouribga,Khouribga,25000,True,Mécanique,4.8
+G0499,Garage Atlas Marrakech,Marrakech,40000,True,Carrosserie,3.6
+G0500,Garage Maghreb Beni Mellal,Beni Mellal,23000,False,Carrosserie,4.0

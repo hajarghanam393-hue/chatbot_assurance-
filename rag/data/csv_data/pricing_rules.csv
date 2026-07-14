@@ -1,0 +1,601 @@
+﻿RuleID,Condition,Coefficient,Description,Categorie
+R0001,Age<21,1.45,Jeune conducteur 18-20 ans,Age
+R0002,Age<24,1.39,Jeune conducteur 21-23 ans,Age
+R0003,Age<27,1.33,Jeune conducteur 24-26 ans,Age
+R0004,Age>=66,1.07,Conducteur senior 66+ ans,Age
+R0005,Age>=69,1.13,Conducteur senior 69+ ans,Age
+R0006,Age>=72,1.19,Conducteur senior 72+ ans,Age
+R0007,BonusMalus=0.5,0.5,Coefficient bonus/malus 0.5,BonusMalus
+R0008,BonusMalus=0.55,0.55,Coefficient bonus/malus 0.55,BonusMalus
+R0009,BonusMalus=0.6,0.6,Coefficient bonus/malus 0.6,BonusMalus
+R0010,BonusMalus=0.65,0.65,Coefficient bonus/malus 0.65,BonusMalus
+R0011,BonusMalus=0.7,0.7,Coefficient bonus/malus 0.7,BonusMalus
+R0012,BonusMalus=0.75,0.75,Coefficient bonus/malus 0.75,BonusMalus
+R0013,BonusMalus=0.8,0.8,Coefficient bonus/malus 0.8,BonusMalus
+R0014,BonusMalus=0.85,0.85,Coefficient bonus/malus 0.85,BonusMalus
+R0015,BonusMalus=0.9,0.9,Coefficient bonus/malus 0.9,BonusMalus
+R0016,BonusMalus=0.95,0.95,Coefficient bonus/malus 0.95,BonusMalus
+R0017,BonusMalus=1.0,1.0,Coefficient bonus/malus 1.0,BonusMalus
+R0018,BonusMalus=1.25,1.25,Coefficient bonus/malus 1.25,BonusMalus
+R0019,BonusMalus=1.5,1.5,Coefficient bonus/malus 1.5,BonusMalus
+R0020,BonusMalus=2.0,2.0,Coefficient bonus/malus 2.0,BonusMalus
+R0021,BonusMalus=2.5,2.5,Coefficient bonus/malus 2.5,BonusMalus
+R0022,BonusMalus=3.0,3.0,Coefficient bonus/malus 3.0,BonusMalus
+R0023,BonusMalus=3.5,3.5,Coefficient bonus/malus 3.5,BonusMalus
+R0024,Marque=Renault,1.0,Véhicule Renault,Marque
+R0025,Marque=Dacia,0.88,Véhicule Dacia,Marque
+R0026,Marque=Peugeot,1.05,Véhicule Peugeot,Marque
+R0027,Marque=Toyota,1.08,Véhicule Toyota,Marque
+R0028,Marque=Hyundai,0.98,Véhicule Hyundai,Marque
+R0029,Marque=Volkswagen,1.12,Véhicule Volkswagen,Marque
+R0030,Marque=BMW,1.35,Véhicule BMW,Marque
+R0031,Marque=Mercedes-Benz,1.4,Véhicule Mercedes-Benz,Marque
+R0032,Marque=Kia,0.95,Véhicule Kia,Marque
+R0033,Marque=Citroën,1.02,Véhicule Citroën,Marque
+R0034,Marque=Nissan,1.06,Véhicule Nissan,Marque
+R0035,Marque=Suzuki,0.92,Véhicule Suzuki,Marque
+R0036,Marque=Audi,1.3,Véhicule Audi,Marque
+R0037,Marque=Fiat,0.96,Véhicule Fiat,Marque
+R0038,Marque=Ford,1.04,Véhicule Ford,Marque
+R0039,Ville=Casablanca,1.28,Zone géographique Casablanca,Zone
+R0040,Ville=Rabat,1.18,Zone géographique Rabat,Zone
+R0041,Ville=Marrakech,1.22,Zone géographique Marrakech,Zone
+R0042,Ville=Fès,1.15,Zone géographique Fès,Zone
+R0043,Ville=Tanger,1.2,Zone géographique Tanger,Zone
+R0044,Ville=Agadir,1.12,Zone géographique Agadir,Zone
+R0045,Ville=Meknès,1.1,Zone géographique Meknès,Zone
+R0046,Ville=Oujda,1.08,Zone géographique Oujda,Zone
+R0047,Ville=Kénitra,1.12,Zone géographique Kénitra,Zone
+R0048,Ville=Tétouan,1.1,Zone géographique Tétouan,Zone
+R0049,Ville=Salé,1.16,Zone géographique Salé,Zone
+R0050,Ville=Nador,1.09,Zone géographique Nador,Zone
+R0051,Ville=Mohammedia,1.14,Zone géographique Mohammedia,Zone
+R0052,Ville=El Jadida,1.08,Zone géographique El Jadida,Zone
+R0053,Ville=Beni Mellal,1.07,Zone géographique Beni Mellal,Zone
+R0054,Ville=Khouribga,1.06,Zone géographique Khouribga,Zone
+R0055,Ville=Settat,1.07,Zone géographique Settat,Zone
+R0056,Ville=Laâyoune,1.05,Zone géographique Laâyoune,Zone
+R0057,Ville=Errachidia,1.04,Zone géographique Errachidia,Zone
+R0058,Ville=Essaouira,1.06,Zone géographique Essaouira,Zone
+R0059,Profession=Employé de bureau,1.0,Profession Employé de bureau,Profession
+R0060,Profession=Cadre supérieur,0.92,Profession Cadre supérieur,Profession
+R0061,Profession=Médecin,0.88,Profession Médecin,Profession
+R0062,Profession=Avocat,0.9,Profession Avocat,Profession
+R0063,Profession=Commerçant,1.08,Profession Commerçant,Profession
+R0064,Profession=Artisan,1.05,Profession Artisan,Profession
+R0065,Profession=Enseignant,0.95,Profession Enseignant,Profession
+R0066,Profession=Fonctionnaire,0.93,Profession Fonctionnaire,Profession
+R0067,Profession=Ingénieur,0.9,Profession Ingénieur,Profession
+R0068,Profession=Infirmier,0.98,Profession Infirmier,Profession
+R0069,Profession=Chauffeur VTC,1.25,Profession Chauffeur VTC,Profession
+R0070,Profession=Chauffeur taxi,1.3,Profession Chauffeur taxi,Profession
+R0071,Profession=Étudiant,1.35,Profession Étudiant,Profession
+R0072,Profession=Retraité,0.85,Profession Retraité,Profession
+R0073,Profession=Agriculteur,1.02,Profession Agriculteur,Profession
+R0074,Profession=Technicien,1.0,Profession Technicien,Profession
+R0075,Profession=Comptable,0.94,Profession Comptable,Profession
+R0076,Profession=Architecte,0.91,Profession Architecte,Profession
+R0077,Profession=Pharmacien,0.89,Profession Pharmacien,Profession
+R0078,Profession=Sans emploi,1.4,Profession Sans emploi,Profession
+R0079,Usage=Privé,1.0,Usage véhicule Privé,Usage
+R0080,Usage=Privé-Travail,1.08,Usage véhicule Privé-Travail,Usage
+R0081,Usage=Professionnel,1.2,Usage véhicule Professionnel,Usage
+R0082,Usage=VTC/Taxi,1.45,Usage véhicule VTC/Taxi,Usage
+R0083,Categorie=Citadine,0.92,Catégorie Citadine,Vehicule
+R0084,Categorie=Compacte,1.0,Catégorie Compacte,Vehicule
+R0085,Categorie=Berline,1.05,Catégorie Berline,Vehicule
+R0086,Categorie=SUV,1.12,Catégorie SUV,Vehicule
+R0087,Categorie=Pick-up,1.18,Catégorie Pick-up,Vehicule
+R0088,Carburant=Essence,1.0,Carburant Essence,Vehicule
+R0089,Carburant=Diesel,1.02,Carburant Diesel,Vehicule
+R0090,Carburant=Hybride,0.95,Carburant Hybride,Vehicule
+R0091,Carburant=Électrique,0.88,Carburant Électrique,Vehicule
+R0092,NombreSinistres5Ans=0,1.0,0 sinistres sur 5 ans,Historique
+R0093,NombreSinistres5Ans=1,1.18,1 sinistres sur 5 ans,Historique
+R0094,NombreSinistres5Ans=2,1.36,2 sinistres sur 5 ans,Historique
+R0095,NombreSinistres5Ans=3,1.54,3 sinistres sur 5 ans,Historique
+R0096,NombreSinistres5Ans=4,1.72,4 sinistres sur 5 ans,Historique
+R0097,NombreSinistres5Ans=5,1.9,5 sinistres sur 5 ans,Historique
+R0098,Kilometrage>5000,1.1,Kilométrage supérieur à 5000 km/an,Kilometrage
+R0099,Kilometrage>10000,1.2,Kilométrage supérieur à 10000 km/an,Kilometrage
+R0100,Kilometrage>15000,1.3,Kilométrage supérieur à 15000 km/an,Kilometrage
+R0101,Kilometrage>20000,1.4,Kilométrage supérieur à 20000 km/an,Kilometrage
+R0102,Kilometrage>25000,1.5,Kilométrage supérieur à 25000 km/an,Kilometrage
+R0103,Kilometrage>30000,1.6,Kilométrage supérieur à 30000 km/an,Kilometrage
+R0104,Kilometrage>40000,1.8,Kilométrage supérieur à 40000 km/an,Kilometrage
+R0105,Kilometrage>50000,2.0,Kilométrage supérieur à 50000 km/an,Kilometrage
+R0106,GarageFerme=True,0.92,Garage fermé=True,Stationnement
+R0107,GarageFerme=False,1.08,Garage fermé=False,Stationnement
+R0108,AncienneteClient>=0,1.0,Fidélité client 0+ ans,Fidelite
+R0109,AncienneteClient>=1,0.99,Fidélité client 1+ ans,Fidelite
+R0110,AncienneteClient>=3,0.97,Fidélité client 3+ ans,Fidelite
+R0111,AncienneteClient>=5,0.95,Fidélité client 5+ ans,Fidelite
+R0112,AncienneteClient>=10,0.9,Fidélité client 10+ ans,Fidelite
+R0113,AncienneteClient>=15,0.85,Fidélité client 15+ ans,Fidelite
+R0114,AncienneteClient>=20,0.85,Fidélité client 20+ ans,Fidelite
+R0115,PuissanceCV>=3,1.075,Puissance fiscale 3 CV+,Puissance
+R0116,PuissanceCV>=4,1.1,Puissance fiscale 4 CV+,Puissance
+R0117,PuissanceCV>=5,1.125,Puissance fiscale 5 CV+,Puissance
+R0118,PuissanceCV>=6,1.15,Puissance fiscale 6 CV+,Puissance
+R0119,PuissanceCV>=7,1.175,Puissance fiscale 7 CV+,Puissance
+R0120,PuissanceCV>=8,1.2,Puissance fiscale 8 CV+,Puissance
+R0121,PuissanceCV>=9,1.225,Puissance fiscale 9 CV+,Puissance
+R0122,PuissanceCV>=10,1.25,Puissance fiscale 10 CV+,Puissance
+R0123,PuissanceCV>=11,1.275,Puissance fiscale 11 CV+,Puissance
+R0124,PuissanceCV>=12,1.3,Puissance fiscale 12 CV+,Puissance
+R0125,PuissanceCV>=13,1.325,Puissance fiscale 13 CV+,Puissance
+R0126,PuissanceCV>=14,1.35,Puissance fiscale 14 CV+,Puissance
+R0127,RiskScore>48,1.333,Score de risque élevé (règle 127),Risque
+R0128,RiskScore>48,1.091,Score de risque élevé (règle 128),Risque
+R0129,RiskScore>39,0.927,Score de risque élevé (règle 129),Risque
+R0130,RiskScore>65,0.969,Score de risque élevé (règle 130),Risque
+R0131,RiskScore>74,1.106,Score de risque élevé (règle 131),Risque
+R0132,RiskScore>26,1.306,Score de risque élevé (règle 132),Risque
+R0133,RiskScore>30,1.458,Score de risque élevé (règle 133),Risque
+R0134,RiskScore>67,1.046,Score de risque élevé (règle 134),Risque
+R0135,RiskScore>31,1.231,Score de risque élevé (règle 135),Risque
+R0136,RiskScore>41,1.236,Score de risque élevé (règle 136),Risque
+R0137,RiskScore>49,1.039,Score de risque élevé (règle 137),Risque
+R0138,RiskScore>45,1.278,Score de risque élevé (règle 138),Risque
+R0139,RiskScore>31,1.284,Score de risque élevé (règle 139),Risque
+R0140,RiskScore>47,1.137,Score de risque élevé (règle 140),Risque
+R0141,RiskScore>67,1.268,Score de risque élevé (règle 141),Risque
+R0142,RiskScore>32,1.17,Score de risque élevé (règle 142),Risque
+R0143,RiskScore>47,1.133,Score de risque élevé (règle 143),Risque
+R0144,RiskScore>65,1.029,Score de risque élevé (règle 144),Risque
+R0145,RiskScore>37,1.351,Score de risque élevé (règle 145),Risque
+R0146,RiskScore>71,1.378,Score de risque élevé (règle 146),Risque
+R0147,RiskScore>56,0.961,Score de risque élevé (règle 147),Risque
+R0148,RiskScore>75,1.222,Score de risque élevé (règle 148),Risque
+R0149,RiskScore>43,1.096,Score de risque élevé (règle 149),Risque
+R0150,RiskScore>49,0.968,Score de risque élevé (règle 150),Risque
+R0151,RiskScore>62,1.418,Score de risque élevé (règle 151),Risque
+R0152,RiskScore>53,1.48,Score de risque élevé (règle 152),Risque
+R0153,RiskScore>40,1.258,Score de risque élevé (règle 153),Risque
+R0154,RiskScore>59,1.136,Score de risque élevé (règle 154),Risque
+R0155,RiskScore>27,1.109,Score de risque élevé (règle 155),Risque
+R0156,RiskScore>74,1.175,Score de risque élevé (règle 156),Risque
+R0157,RiskScore>31,1.388,Score de risque élevé (règle 157),Risque
+R0158,RiskScore>65,1.38,Score de risque élevé (règle 158),Risque
+R0159,RiskScore>78,1.269,Score de risque élevé (règle 159),Risque
+R0160,RiskScore>25,1.303,Score de risque élevé (règle 160),Risque
+R0161,RiskScore>40,0.971,Score de risque élevé (règle 161),Risque
+R0162,RiskScore>39,0.97,Score de risque élevé (règle 162),Risque
+R0163,RiskScore>43,1.316,Score de risque élevé (règle 163),Risque
+R0164,RiskScore>52,1.133,Score de risque élevé (règle 164),Risque
+R0165,RiskScore>58,0.983,Score de risque élevé (règle 165),Risque
+R0166,RiskScore>44,1.154,Score de risque élevé (règle 166),Risque
+R0167,RiskScore>51,1.281,Score de risque élevé (règle 167),Risque
+R0168,RiskScore>64,1.451,Score de risque élevé (règle 168),Risque
+R0169,RiskScore>79,1.5,Score de risque élevé (règle 169),Risque
+R0170,RiskScore>55,1.0,Score de risque élevé (règle 170),Risque
+R0171,RiskScore>38,0.984,Score de risque élevé (règle 171),Risque
+R0172,RiskScore>40,1.405,Score de risque élevé (règle 172),Risque
+R0173,RiskScore>59,0.932,Score de risque élevé (règle 173),Risque
+R0174,RiskScore>42,1.471,Score de risque élevé (règle 174),Risque
+R0175,RiskScore>51,0.982,Score de risque élevé (règle 175),Risque
+R0176,RiskScore>72,1.13,Score de risque élevé (règle 176),Risque
+R0177,RiskScore>55,1.203,Score de risque élevé (règle 177),Risque
+R0178,RiskScore>51,1.145,Score de risque élevé (règle 178),Risque
+R0179,RiskScore>51,1.149,Score de risque élevé (règle 179),Risque
+R0180,RiskScore>73,1.166,Score de risque élevé (règle 180),Risque
+R0181,RiskScore>30,0.95,Score de risque élevé (règle 181),Risque
+R0182,RiskScore>21,1.378,Score de risque élevé (règle 182),Risque
+R0183,RiskScore>34,1.075,Score de risque élevé (règle 183),Risque
+R0184,RiskScore>37,1.035,Score de risque élevé (règle 184),Risque
+R0185,RiskScore>38,1.001,Score de risque élevé (règle 185),Risque
+R0186,RiskScore>49,1.239,Score de risque élevé (règle 186),Risque
+R0187,RiskScore>69,1.36,Score de risque élevé (règle 187),Risque
+R0188,RiskScore>55,1.206,Score de risque élevé (règle 188),Risque
+R0189,RiskScore>56,0.969,Score de risque élevé (règle 189),Risque
+R0190,RiskScore>69,1.226,Score de risque élevé (règle 190),Risque
+R0191,RiskScore>43,1.225,Score de risque élevé (règle 191),Risque
+R0192,RiskScore>68,0.925,Score de risque élevé (règle 192),Risque
+R0193,RiskScore>66,1.165,Score de risque élevé (règle 193),Risque
+R0194,RiskScore>33,1.494,Score de risque élevé (règle 194),Risque
+R0195,RiskScore>26,1.342,Score de risque élevé (règle 195),Risque
+R0196,RiskScore>61,1.351,Score de risque élevé (règle 196),Risque
+R0197,RiskScore>39,1.425,Score de risque élevé (règle 197),Risque
+R0198,RiskScore>22,1.17,Score de risque élevé (règle 198),Risque
+R0199,RiskScore>42,1.417,Score de risque élevé (règle 199),Risque
+R0200,RiskScore>25,1.163,Score de risque élevé (règle 200),Risque
+R0201,RiskScore>27,1.365,Score de risque élevé (règle 201),Risque
+R0202,RiskScore>35,1.026,Score de risque élevé (règle 202),Risque
+R0203,RiskScore>67,1.253,Score de risque élevé (règle 203),Risque
+R0204,RiskScore>42,1.417,Score de risque élevé (règle 204),Risque
+R0205,RiskScore>59,1.28,Score de risque élevé (règle 205),Risque
+R0206,RiskScore>30,1.27,Score de risque élevé (règle 206),Risque
+R0207,RiskScore>70,1.024,Score de risque élevé (règle 207),Risque
+R0208,RiskScore>33,1.383,Score de risque élevé (règle 208),Risque
+R0209,RiskScore>56,1.11,Score de risque élevé (règle 209),Risque
+R0210,RiskScore>37,1.258,Score de risque élevé (règle 210),Risque
+R0211,RiskScore>30,1.094,Score de risque élevé (règle 211),Risque
+R0212,RiskScore>65,1.076,Score de risque élevé (règle 212),Risque
+R0213,RiskScore>56,1.06,Score de risque élevé (règle 213),Risque
+R0214,RiskScore>74,1.209,Score de risque élevé (règle 214),Risque
+R0215,RiskScore>77,1.308,Score de risque élevé (règle 215),Risque
+R0216,RiskScore>26,0.981,Score de risque élevé (règle 216),Risque
+R0217,RiskScore>68,1.371,Score de risque élevé (règle 217),Risque
+R0218,RiskScore>78,0.936,Score de risque élevé (règle 218),Risque
+R0219,RiskScore>37,1.42,Score de risque élevé (règle 219),Risque
+R0220,RiskScore>28,1.321,Score de risque élevé (règle 220),Risque
+R0221,RiskScore>28,1.05,Score de risque élevé (règle 221),Risque
+R0222,RiskScore>65,1.093,Score de risque élevé (règle 222),Risque
+R0223,RiskScore>35,1.357,Score de risque élevé (règle 223),Risque
+R0224,RiskScore>63,1.136,Score de risque élevé (règle 224),Risque
+R0225,RiskScore>29,1.246,Score de risque élevé (règle 225),Risque
+R0226,RiskScore>37,1.277,Score de risque élevé (règle 226),Risque
+R0227,RiskScore>44,1.171,Score de risque élevé (règle 227),Risque
+R0228,RiskScore>60,1.377,Score de risque élevé (règle 228),Risque
+R0229,RiskScore>69,0.956,Score de risque élevé (règle 229),Risque
+R0230,RiskScore>52,1.35,Score de risque élevé (règle 230),Risque
+R0231,RiskScore>64,1.462,Score de risque élevé (règle 231),Risque
+R0232,RiskScore>43,1.173,Score de risque élevé (règle 232),Risque
+R0233,RiskScore>51,1.096,Score de risque élevé (règle 233),Risque
+R0234,RiskScore>20,1.421,Score de risque élevé (règle 234),Risque
+R0235,RiskScore>74,1.34,Score de risque élevé (règle 235),Risque
+R0236,RiskScore>66,1.483,Score de risque élevé (règle 236),Risque
+R0237,RiskScore>60,1.298,Score de risque élevé (règle 237),Risque
+R0238,RiskScore>42,1.41,Score de risque élevé (règle 238),Risque
+R0239,RiskScore>70,1.221,Score de risque élevé (règle 239),Risque
+R0240,RiskScore>33,1.481,Score de risque élevé (règle 240),Risque
+R0241,RiskScore>72,1.027,Score de risque élevé (règle 241),Risque
+R0242,RiskScore>37,1.094,Score de risque élevé (règle 242),Risque
+R0243,RiskScore>38,1.103,Score de risque élevé (règle 243),Risque
+R0244,RiskScore>56,0.978,Score de risque élevé (règle 244),Risque
+R0245,RiskScore>74,1.191,Score de risque élevé (règle 245),Risque
+R0246,RiskScore>41,1.436,Score de risque élevé (règle 246),Risque
+R0247,RiskScore>68,0.929,Score de risque élevé (règle 247),Risque
+R0248,RiskScore>26,1.276,Score de risque élevé (règle 248),Risque
+R0249,RiskScore>73,1.176,Score de risque élevé (règle 249),Risque
+R0250,RiskScore>27,1.458,Score de risque élevé (règle 250),Risque
+R0251,RiskScore>30,1.165,Score de risque élevé (règle 251),Risque
+R0252,RiskScore>20,1.495,Score de risque élevé (règle 252),Risque
+R0253,RiskScore>47,1.021,Score de risque élevé (règle 253),Risque
+R0254,RiskScore>64,1.446,Score de risque élevé (règle 254),Risque
+R0255,RiskScore>76,1.29,Score de risque élevé (règle 255),Risque
+R0256,RiskScore>30,1.425,Score de risque élevé (règle 256),Risque
+R0257,RiskScore>76,1.064,Score de risque élevé (règle 257),Risque
+R0258,RiskScore>61,1.116,Score de risque élevé (règle 258),Risque
+R0259,RiskScore>25,1.123,Score de risque élevé (règle 259),Risque
+R0260,RiskScore>77,1.289,Score de risque élevé (règle 260),Risque
+R0261,RiskScore>23,1.138,Score de risque élevé (règle 261),Risque
+R0262,RiskScore>39,1.336,Score de risque élevé (règle 262),Risque
+R0263,RiskScore>68,1.04,Score de risque élevé (règle 263),Risque
+R0264,RiskScore>61,0.955,Score de risque élevé (règle 264),Risque
+R0265,RiskScore>26,0.901,Score de risque élevé (règle 265),Risque
+R0266,RiskScore>50,0.947,Score de risque élevé (règle 266),Risque
+R0267,RiskScore>57,1.036,Score de risque élevé (règle 267),Risque
+R0268,RiskScore>63,1.167,Score de risque élevé (règle 268),Risque
+R0269,RiskScore>20,1.317,Score de risque élevé (règle 269),Risque
+R0270,RiskScore>72,0.972,Score de risque élevé (règle 270),Risque
+R0271,RiskScore>75,1.153,Score de risque élevé (règle 271),Risque
+R0272,RiskScore>28,1.187,Score de risque élevé (règle 272),Risque
+R0273,RiskScore>34,1.13,Score de risque élevé (règle 273),Risque
+R0274,RiskScore>66,1.384,Score de risque élevé (règle 274),Risque
+R0275,RiskScore>26,1.088,Score de risque élevé (règle 275),Risque
+R0276,RiskScore>76,1.08,Score de risque élevé (règle 276),Risque
+R0277,RiskScore>44,1.364,Score de risque élevé (règle 277),Risque
+R0278,RiskScore>68,1.425,Score de risque élevé (règle 278),Risque
+R0279,RiskScore>61,1.496,Score de risque élevé (règle 279),Risque
+R0280,RiskScore>29,0.941,Score de risque élevé (règle 280),Risque
+R0281,RiskScore>56,0.905,Score de risque élevé (règle 281),Risque
+R0282,RiskScore>61,0.998,Score de risque élevé (règle 282),Risque
+R0283,RiskScore>42,1.333,Score de risque élevé (règle 283),Risque
+R0284,RiskScore>60,1.349,Score de risque élevé (règle 284),Risque
+R0285,RiskScore>78,1.147,Score de risque élevé (règle 285),Risque
+R0286,RiskScore>63,1.165,Score de risque élevé (règle 286),Risque
+R0287,RiskScore>33,0.952,Score de risque élevé (règle 287),Risque
+R0288,RiskScore>26,0.984,Score de risque élevé (règle 288),Risque
+R0289,RiskScore>27,1.254,Score de risque élevé (règle 289),Risque
+R0290,RiskScore>44,1.111,Score de risque élevé (règle 290),Risque
+R0291,RiskScore>47,1.089,Score de risque élevé (règle 291),Risque
+R0292,RiskScore>28,1.049,Score de risque élevé (règle 292),Risque
+R0293,RiskScore>61,0.951,Score de risque élevé (règle 293),Risque
+R0294,RiskScore>55,1.261,Score de risque élevé (règle 294),Risque
+R0295,RiskScore>66,1.265,Score de risque élevé (règle 295),Risque
+R0296,RiskScore>69,1.465,Score de risque élevé (règle 296),Risque
+R0297,RiskScore>21,1.409,Score de risque élevé (règle 297),Risque
+R0298,RiskScore>62,1.425,Score de risque élevé (règle 298),Risque
+R0299,RiskScore>33,1.211,Score de risque élevé (règle 299),Risque
+R0300,RiskScore>52,1.013,Score de risque élevé (règle 300),Risque
+R0301,RiskScore>45,1.077,Score de risque élevé (règle 301),Risque
+R0302,RiskScore>23,1.37,Score de risque élevé (règle 302),Risque
+R0303,RiskScore>70,1.473,Score de risque élevé (règle 303),Risque
+R0304,RiskScore>51,1.132,Score de risque élevé (règle 304),Risque
+R0305,RiskScore>35,1.2,Score de risque élevé (règle 305),Risque
+R0306,RiskScore>58,0.943,Score de risque élevé (règle 306),Risque
+R0307,RiskScore>76,1.487,Score de risque élevé (règle 307),Risque
+R0308,RiskScore>43,1.46,Score de risque élevé (règle 308),Risque
+R0309,RiskScore>28,1.132,Score de risque élevé (règle 309),Risque
+R0310,RiskScore>73,1.241,Score de risque élevé (règle 310),Risque
+R0311,RiskScore>43,1.228,Score de risque élevé (règle 311),Risque
+R0312,RiskScore>31,1.358,Score de risque élevé (règle 312),Risque
+R0313,RiskScore>69,0.944,Score de risque élevé (règle 313),Risque
+R0314,RiskScore>57,0.941,Score de risque élevé (règle 314),Risque
+R0315,RiskScore>36,1.029,Score de risque élevé (règle 315),Risque
+R0316,RiskScore>79,0.936,Score de risque élevé (règle 316),Risque
+R0317,RiskScore>70,1.139,Score de risque élevé (règle 317),Risque
+R0318,RiskScore>38,1.277,Score de risque élevé (règle 318),Risque
+R0319,RiskScore>52,1.36,Score de risque élevé (règle 319),Risque
+R0320,RiskScore>47,1.321,Score de risque élevé (règle 320),Risque
+R0321,RiskScore>25,1.284,Score de risque élevé (règle 321),Risque
+R0322,RiskScore>54,1.27,Score de risque élevé (règle 322),Risque
+R0323,RiskScore>37,0.95,Score de risque élevé (règle 323),Risque
+R0324,RiskScore>25,1.207,Score de risque élevé (règle 324),Risque
+R0325,RiskScore>33,1.485,Score de risque élevé (règle 325),Risque
+R0326,RiskScore>29,1.222,Score de risque élevé (règle 326),Risque
+R0327,RiskScore>45,1.252,Score de risque élevé (règle 327),Risque
+R0328,RiskScore>68,1.401,Score de risque élevé (règle 328),Risque
+R0329,RiskScore>63,1.286,Score de risque élevé (règle 329),Risque
+R0330,RiskScore>39,1.319,Score de risque élevé (règle 330),Risque
+R0331,RiskScore>66,1.472,Score de risque élevé (règle 331),Risque
+R0332,RiskScore>35,0.935,Score de risque élevé (règle 332),Risque
+R0333,RiskScore>25,1.455,Score de risque élevé (règle 333),Risque
+R0334,RiskScore>27,1.172,Score de risque élevé (règle 334),Risque
+R0335,RiskScore>58,0.933,Score de risque élevé (règle 335),Risque
+R0336,RiskScore>62,1.345,Score de risque élevé (règle 336),Risque
+R0337,RiskScore>67,1.005,Score de risque élevé (règle 337),Risque
+R0338,RiskScore>20,1.325,Score de risque élevé (règle 338),Risque
+R0339,RiskScore>64,0.907,Score de risque élevé (règle 339),Risque
+R0340,RiskScore>51,1.472,Score de risque élevé (règle 340),Risque
+R0341,RiskScore>53,1.21,Score de risque élevé (règle 341),Risque
+R0342,RiskScore>72,1.332,Score de risque élevé (règle 342),Risque
+R0343,RiskScore>30,1.123,Score de risque élevé (règle 343),Risque
+R0344,RiskScore>67,1.369,Score de risque élevé (règle 344),Risque
+R0345,RiskScore>37,1.34,Score de risque élevé (règle 345),Risque
+R0346,RiskScore>27,1.363,Score de risque élevé (règle 346),Risque
+R0347,RiskScore>21,1.101,Score de risque élevé (règle 347),Risque
+R0348,RiskScore>47,1.063,Score de risque élevé (règle 348),Risque
+R0349,RiskScore>24,1.058,Score de risque élevé (règle 349),Risque
+R0350,RiskScore>56,1.277,Score de risque élevé (règle 350),Risque
+R0351,RiskScore>51,1.173,Score de risque élevé (règle 351),Risque
+R0352,RiskScore>43,0.933,Score de risque élevé (règle 352),Risque
+R0353,RiskScore>74,1.24,Score de risque élevé (règle 353),Risque
+R0354,RiskScore>43,0.994,Score de risque élevé (règle 354),Risque
+R0355,RiskScore>69,0.962,Score de risque élevé (règle 355),Risque
+R0356,RiskScore>56,1.304,Score de risque élevé (règle 356),Risque
+R0357,RiskScore>27,1.037,Score de risque élevé (règle 357),Risque
+R0358,RiskScore>52,0.902,Score de risque élevé (règle 358),Risque
+R0359,RiskScore>74,1.418,Score de risque élevé (règle 359),Risque
+R0360,RiskScore>35,0.928,Score de risque élevé (règle 360),Risque
+R0361,RiskScore>43,1.13,Score de risque élevé (règle 361),Risque
+R0362,RiskScore>29,1.007,Score de risque élevé (règle 362),Risque
+R0363,RiskScore>74,0.921,Score de risque élevé (règle 363),Risque
+R0364,RiskScore>71,1.448,Score de risque élevé (règle 364),Risque
+R0365,RiskScore>67,1.293,Score de risque élevé (règle 365),Risque
+R0366,RiskScore>34,1.093,Score de risque élevé (règle 366),Risque
+R0367,RiskScore>46,1.45,Score de risque élevé (règle 367),Risque
+R0368,RiskScore>40,1.063,Score de risque élevé (règle 368),Risque
+R0369,RiskScore>24,1.243,Score de risque élevé (règle 369),Risque
+R0370,RiskScore>27,1.201,Score de risque élevé (règle 370),Risque
+R0371,RiskScore>77,0.932,Score de risque élevé (règle 371),Risque
+R0372,RiskScore>34,1.383,Score de risque élevé (règle 372),Risque
+R0373,RiskScore>22,1.472,Score de risque élevé (règle 373),Risque
+R0374,RiskScore>24,1.426,Score de risque élevé (règle 374),Risque
+R0375,RiskScore>75,1.069,Score de risque élevé (règle 375),Risque
+R0376,RiskScore>74,1.086,Score de risque élevé (règle 376),Risque
+R0377,RiskScore>25,1.232,Score de risque élevé (règle 377),Risque
+R0378,RiskScore>20,1.121,Score de risque élevé (règle 378),Risque
+R0379,RiskScore>38,1.238,Score de risque élevé (règle 379),Risque
+R0380,RiskScore>39,1.344,Score de risque élevé (règle 380),Risque
+R0381,RiskScore>35,1.178,Score de risque élevé (règle 381),Risque
+R0382,RiskScore>57,1.483,Score de risque élevé (règle 382),Risque
+R0383,RiskScore>69,1.366,Score de risque élevé (règle 383),Risque
+R0384,RiskScore>66,1.44,Score de risque élevé (règle 384),Risque
+R0385,RiskScore>68,1.378,Score de risque élevé (règle 385),Risque
+R0386,RiskScore>29,0.904,Score de risque élevé (règle 386),Risque
+R0387,RiskScore>46,0.914,Score de risque élevé (règle 387),Risque
+R0388,RiskScore>54,1.108,Score de risque élevé (règle 388),Risque
+R0389,RiskScore>73,1.316,Score de risque élevé (règle 389),Risque
+R0390,RiskScore>20,1.471,Score de risque élevé (règle 390),Risque
+R0391,RiskScore>20,1.355,Score de risque élevé (règle 391),Risque
+R0392,RiskScore>44,1.409,Score de risque élevé (règle 392),Risque
+R0393,RiskScore>66,1.085,Score de risque élevé (règle 393),Risque
+R0394,RiskScore>33,1.218,Score de risque élevé (règle 394),Risque
+R0395,RiskScore>35,1.152,Score de risque élevé (règle 395),Risque
+R0396,RiskScore>23,1.484,Score de risque élevé (règle 396),Risque
+R0397,RiskScore>29,1.327,Score de risque élevé (règle 397),Risque
+R0398,RiskScore>25,0.926,Score de risque élevé (règle 398),Risque
+R0399,RiskScore>34,1.438,Score de risque élevé (règle 399),Risque
+R0400,RiskScore>53,1.148,Score de risque élevé (règle 400),Risque
+R0401,RiskScore>77,1.123,Score de risque élevé (règle 401),Risque
+R0402,RiskScore>67,0.951,Score de risque élevé (règle 402),Risque
+R0403,RiskScore>26,1.203,Score de risque élevé (règle 403),Risque
+R0404,RiskScore>60,1.392,Score de risque élevé (règle 404),Risque
+R0405,RiskScore>24,1.255,Score de risque élevé (règle 405),Risque
+R0406,RiskScore>23,1.161,Score de risque élevé (règle 406),Risque
+R0407,RiskScore>28,1.042,Score de risque élevé (règle 407),Risque
+R0408,RiskScore>36,1.411,Score de risque élevé (règle 408),Risque
+R0409,RiskScore>79,1.38,Score de risque élevé (règle 409),Risque
+R0410,RiskScore>64,1.399,Score de risque élevé (règle 410),Risque
+R0411,RiskScore>40,1.091,Score de risque élevé (règle 411),Risque
+R0412,RiskScore>37,1.04,Score de risque élevé (règle 412),Risque
+R0413,RiskScore>80,1.022,Score de risque élevé (règle 413),Risque
+R0414,RiskScore>69,1.362,Score de risque élevé (règle 414),Risque
+R0415,RiskScore>26,0.993,Score de risque élevé (règle 415),Risque
+R0416,RiskScore>30,1.17,Score de risque élevé (règle 416),Risque
+R0417,RiskScore>40,1.144,Score de risque élevé (règle 417),Risque
+R0418,RiskScore>54,1.115,Score de risque élevé (règle 418),Risque
+R0419,RiskScore>69,1.025,Score de risque élevé (règle 419),Risque
+R0420,RiskScore>39,1.178,Score de risque élevé (règle 420),Risque
+R0421,RiskScore>74,0.972,Score de risque élevé (règle 421),Risque
+R0422,RiskScore>30,1.385,Score de risque élevé (règle 422),Risque
+R0423,RiskScore>39,1.396,Score de risque élevé (règle 423),Risque
+R0424,RiskScore>64,1.262,Score de risque élevé (règle 424),Risque
+R0425,RiskScore>33,1.402,Score de risque élevé (règle 425),Risque
+R0426,RiskScore>40,0.989,Score de risque élevé (règle 426),Risque
+R0427,RiskScore>65,1.049,Score de risque élevé (règle 427),Risque
+R0428,RiskScore>42,1.138,Score de risque élevé (règle 428),Risque
+R0429,RiskScore>23,1.306,Score de risque élevé (règle 429),Risque
+R0430,RiskScore>36,1.392,Score de risque élevé (règle 430),Risque
+R0431,RiskScore>31,0.919,Score de risque élevé (règle 431),Risque
+R0432,RiskScore>45,1.413,Score de risque élevé (règle 432),Risque
+R0433,RiskScore>55,1.349,Score de risque élevé (règle 433),Risque
+R0434,RiskScore>35,0.957,Score de risque élevé (règle 434),Risque
+R0435,RiskScore>26,1.382,Score de risque élevé (règle 435),Risque
+R0436,RiskScore>28,0.973,Score de risque élevé (règle 436),Risque
+R0437,RiskScore>23,1.398,Score de risque élevé (règle 437),Risque
+R0438,RiskScore>34,0.978,Score de risque élevé (règle 438),Risque
+R0439,RiskScore>72,1.14,Score de risque élevé (règle 439),Risque
+R0440,RiskScore>63,1.278,Score de risque élevé (règle 440),Risque
+R0441,RiskScore>61,0.95,Score de risque élevé (règle 441),Risque
+R0442,RiskScore>57,1.055,Score de risque élevé (règle 442),Risque
+R0443,RiskScore>72,0.945,Score de risque élevé (règle 443),Risque
+R0444,RiskScore>24,1.019,Score de risque élevé (règle 444),Risque
+R0445,RiskScore>61,1.166,Score de risque élevé (règle 445),Risque
+R0446,RiskScore>28,0.955,Score de risque élevé (règle 446),Risque
+R0447,RiskScore>74,1.398,Score de risque élevé (règle 447),Risque
+R0448,RiskScore>41,0.974,Score de risque élevé (règle 448),Risque
+R0449,RiskScore>80,1.177,Score de risque élevé (règle 449),Risque
+R0450,RiskScore>30,1.454,Score de risque élevé (règle 450),Risque
+R0451,RiskScore>47,1.393,Score de risque élevé (règle 451),Risque
+R0452,RiskScore>45,1.198,Score de risque élevé (règle 452),Risque
+R0453,RiskScore>44,1.31,Score de risque élevé (règle 453),Risque
+R0454,RiskScore>31,1.112,Score de risque élevé (règle 454),Risque
+R0455,RiskScore>78,1.012,Score de risque élevé (règle 455),Risque
+R0456,RiskScore>37,1.168,Score de risque élevé (règle 456),Risque
+R0457,RiskScore>29,0.921,Score de risque élevé (règle 457),Risque
+R0458,RiskScore>59,1.27,Score de risque élevé (règle 458),Risque
+R0459,RiskScore>61,1.077,Score de risque élevé (règle 459),Risque
+R0460,RiskScore>46,1.43,Score de risque élevé (règle 460),Risque
+R0461,RiskScore>50,0.937,Score de risque élevé (règle 461),Risque
+R0462,RiskScore>37,1.13,Score de risque élevé (règle 462),Risque
+R0463,RiskScore>46,1.02,Score de risque élevé (règle 463),Risque
+R0464,RiskScore>76,1.378,Score de risque élevé (règle 464),Risque
+R0465,RiskScore>35,1.278,Score de risque élevé (règle 465),Risque
+R0466,RiskScore>71,1.226,Score de risque élevé (règle 466),Risque
+R0467,RiskScore>21,1.494,Score de risque élevé (règle 467),Risque
+R0468,RiskScore>70,1.328,Score de risque élevé (règle 468),Risque
+R0469,RiskScore>50,1.227,Score de risque élevé (règle 469),Risque
+R0470,RiskScore>51,1.106,Score de risque élevé (règle 470),Risque
+R0471,RiskScore>56,1.201,Score de risque élevé (règle 471),Risque
+R0472,RiskScore>44,1.062,Score de risque élevé (règle 472),Risque
+R0473,RiskScore>21,1.091,Score de risque élevé (règle 473),Risque
+R0474,RiskScore>34,0.918,Score de risque élevé (règle 474),Risque
+R0475,RiskScore>71,1.367,Score de risque élevé (règle 475),Risque
+R0476,RiskScore>23,1.385,Score de risque élevé (règle 476),Risque
+R0477,RiskScore>50,1.218,Score de risque élevé (règle 477),Risque
+R0478,RiskScore>69,1.25,Score de risque élevé (règle 478),Risque
+R0479,RiskScore>34,1.484,Score de risque élevé (règle 479),Risque
+R0480,RiskScore>26,1.049,Score de risque élevé (règle 480),Risque
+R0481,RiskScore>35,1.06,Score de risque élevé (règle 481),Risque
+R0482,RiskScore>72,1.375,Score de risque élevé (règle 482),Risque
+R0483,RiskScore>67,0.934,Score de risque élevé (règle 483),Risque
+R0484,RiskScore>80,1.032,Score de risque élevé (règle 484),Risque
+R0485,RiskScore>74,1.49,Score de risque élevé (règle 485),Risque
+R0486,RiskScore>44,1.113,Score de risque élevé (règle 486),Risque
+R0487,RiskScore>73,1.495,Score de risque élevé (règle 487),Risque
+R0488,RiskScore>31,1.006,Score de risque élevé (règle 488),Risque
+R0489,RiskScore>57,1.091,Score de risque élevé (règle 489),Risque
+R0490,RiskScore>67,1.319,Score de risque élevé (règle 490),Risque
+R0491,RiskScore>78,1.255,Score de risque élevé (règle 491),Risque
+R0492,RiskScore>65,1.32,Score de risque élevé (règle 492),Risque
+R0493,RiskScore>80,1.241,Score de risque élevé (règle 493),Risque
+R0494,RiskScore>29,1.238,Score de risque élevé (règle 494),Risque
+R0495,RiskScore>32,1.402,Score de risque élevé (règle 495),Risque
+R0496,RiskScore>71,1.429,Score de risque élevé (règle 496),Risque
+R0497,RiskScore>51,1.225,Score de risque élevé (règle 497),Risque
+R0498,RiskScore>31,1.194,Score de risque élevé (règle 498),Risque
+R0499,RiskScore>25,0.934,Score de risque élevé (règle 499),Risque
+R0500,RiskScore>58,1.031,Score de risque élevé (règle 500),Risque
+R0501,RiskScore>53,1.187,Score de risque élevé (règle 501),Risque
+R0502,RiskScore>41,1.451,Score de risque élevé (règle 502),Risque
+R0503,RiskScore>32,1.384,Score de risque élevé (règle 503),Risque
+R0504,RiskScore>41,1.33,Score de risque élevé (règle 504),Risque
+R0505,RiskScore>78,1.381,Score de risque élevé (règle 505),Risque
+R0506,RiskScore>75,1.094,Score de risque élevé (règle 506),Risque
+R0507,RiskScore>21,0.989,Score de risque élevé (règle 507),Risque
+R0508,RiskScore>65,1.45,Score de risque élevé (règle 508),Risque
+R0509,RiskScore>69,0.967,Score de risque élevé (règle 509),Risque
+R0510,RiskScore>53,1.416,Score de risque élevé (règle 510),Risque
+R0511,RiskScore>24,1.124,Score de risque élevé (règle 511),Risque
+R0512,RiskScore>80,1.297,Score de risque élevé (règle 512),Risque
+R0513,RiskScore>57,0.961,Score de risque élevé (règle 513),Risque
+R0514,RiskScore>39,1.094,Score de risque élevé (règle 514),Risque
+R0515,RiskScore>30,1.339,Score de risque élevé (règle 515),Risque
+R0516,RiskScore>47,1.375,Score de risque élevé (règle 516),Risque
+R0517,RiskScore>51,1.29,Score de risque élevé (règle 517),Risque
+R0518,RiskScore>31,1.324,Score de risque élevé (règle 518),Risque
+R0519,RiskScore>55,1.316,Score de risque élevé (règle 519),Risque
+R0520,RiskScore>79,1.268,Score de risque élevé (règle 520),Risque
+R0521,RiskScore>42,1.034,Score de risque élevé (règle 521),Risque
+R0522,RiskScore>57,1.389,Score de risque élevé (règle 522),Risque
+R0523,RiskScore>44,1.084,Score de risque élevé (règle 523),Risque
+R0524,RiskScore>64,1.077,Score de risque élevé (règle 524),Risque
+R0525,RiskScore>31,1.337,Score de risque élevé (règle 525),Risque
+R0526,RiskScore>80,1.321,Score de risque élevé (règle 526),Risque
+R0527,RiskScore>56,1.135,Score de risque élevé (règle 527),Risque
+R0528,RiskScore>69,1.479,Score de risque élevé (règle 528),Risque
+R0529,RiskScore>22,1.009,Score de risque élevé (règle 529),Risque
+R0530,RiskScore>40,1.453,Score de risque élevé (règle 530),Risque
+R0531,RiskScore>59,1.033,Score de risque élevé (règle 531),Risque
+R0532,RiskScore>56,0.962,Score de risque élevé (règle 532),Risque
+R0533,RiskScore>51,0.984,Score de risque élevé (règle 533),Risque
+R0534,RiskScore>67,0.947,Score de risque élevé (règle 534),Risque
+R0535,RiskScore>42,1.489,Score de risque élevé (règle 535),Risque
+R0536,RiskScore>30,1.282,Score de risque élevé (règle 536),Risque
+R0537,RiskScore>25,1.393,Score de risque élevé (règle 537),Risque
+R0538,RiskScore>62,1.283,Score de risque élevé (règle 538),Risque
+R0539,RiskScore>76,1.101,Score de risque élevé (règle 539),Risque
+R0540,RiskScore>20,1.059,Score de risque élevé (règle 540),Risque
+R0541,RiskScore>35,1.316,Score de risque élevé (règle 541),Risque
+R0542,RiskScore>42,1.054,Score de risque élevé (règle 542),Risque
+R0543,RiskScore>26,1.332,Score de risque élevé (règle 543),Risque
+R0544,RiskScore>23,1.132,Score de risque élevé (règle 544),Risque
+R0545,RiskScore>66,1.152,Score de risque élevé (règle 545),Risque
+R0546,RiskScore>30,1.431,Score de risque élevé (règle 546),Risque
+R0547,RiskScore>51,1.429,Score de risque élevé (règle 547),Risque
+R0548,RiskScore>42,1.228,Score de risque élevé (règle 548),Risque
+R0549,RiskScore>26,1.397,Score de risque élevé (règle 549),Risque
+R0550,RiskScore>70,1.418,Score de risque élevé (règle 550),Risque
+R0551,RiskScore>61,1.355,Score de risque élevé (règle 551),Risque
+R0552,RiskScore>34,0.998,Score de risque élevé (règle 552),Risque
+R0553,RiskScore>24,1.38,Score de risque élevé (règle 553),Risque
+R0554,RiskScore>22,1.077,Score de risque élevé (règle 554),Risque
+R0555,RiskScore>40,1.057,Score de risque élevé (règle 555),Risque
+R0556,RiskScore>26,0.945,Score de risque élevé (règle 556),Risque
+R0557,RiskScore>30,1.433,Score de risque élevé (règle 557),Risque
+R0558,RiskScore>30,1.339,Score de risque élevé (règle 558),Risque
+R0559,RiskScore>55,1.465,Score de risque élevé (règle 559),Risque
+R0560,RiskScore>25,1.103,Score de risque élevé (règle 560),Risque
+R0561,RiskScore>59,1.436,Score de risque élevé (règle 561),Risque
+R0562,RiskScore>65,0.919,Score de risque élevé (règle 562),Risque
+R0563,RiskScore>80,1.292,Score de risque élevé (règle 563),Risque
+R0564,RiskScore>58,1.434,Score de risque élevé (règle 564),Risque
+R0565,RiskScore>30,0.932,Score de risque élevé (règle 565),Risque
+R0566,RiskScore>41,1.023,Score de risque élevé (règle 566),Risque
+R0567,RiskScore>32,1.146,Score de risque élevé (règle 567),Risque
+R0568,RiskScore>55,1.333,Score de risque élevé (règle 568),Risque
+R0569,RiskScore>66,1.224,Score de risque élevé (règle 569),Risque
+R0570,RiskScore>62,1.069,Score de risque élevé (règle 570),Risque
+R0571,RiskScore>35,0.958,Score de risque élevé (règle 571),Risque
+R0572,RiskScore>45,1.243,Score de risque élevé (règle 572),Risque
+R0573,RiskScore>73,1.195,Score de risque élevé (règle 573),Risque
+R0574,RiskScore>23,1.116,Score de risque élevé (règle 574),Risque
+R0575,RiskScore>47,0.953,Score de risque élevé (règle 575),Risque
+R0576,RiskScore>72,1.297,Score de risque élevé (règle 576),Risque
+R0577,RiskScore>58,1.188,Score de risque élevé (règle 577),Risque
+R0578,RiskScore>26,0.915,Score de risque élevé (règle 578),Risque
+R0579,RiskScore>30,1.283,Score de risque élevé (règle 579),Risque
+R0580,RiskScore>25,1.184,Score de risque élevé (règle 580),Risque
+R0581,RiskScore>27,1.085,Score de risque élevé (règle 581),Risque
+R0582,RiskScore>45,1.183,Score de risque élevé (règle 582),Risque
+R0583,RiskScore>77,1.297,Score de risque élevé (règle 583),Risque
+R0584,RiskScore>25,1.285,Score de risque élevé (règle 584),Risque
+R0585,RiskScore>44,1.011,Score de risque élevé (règle 585),Risque
+R0586,RiskScore>76,1.129,Score de risque élevé (règle 586),Risque
+R0587,RiskScore>31,1.167,Score de risque élevé (règle 587),Risque
+R0588,RiskScore>36,1.164,Score de risque élevé (règle 588),Risque
+R0589,RiskScore>36,1.036,Score de risque élevé (règle 589),Risque
+R0590,RiskScore>37,1.239,Score de risque élevé (règle 590),Risque
+R0591,RiskScore>29,1.351,Score de risque élevé (règle 591),Risque
+R0592,RiskScore>62,0.958,Score de risque élevé (règle 592),Risque
+R0593,RiskScore>62,1.106,Score de risque élevé (règle 593),Risque
+R0594,RiskScore>54,1.148,Score de risque élevé (règle 594),Risque
+R0595,RiskScore>68,1.254,Score de risque élevé (règle 595),Risque
+R0596,RiskScore>55,0.937,Score de risque élevé (règle 596),Risque
+R0597,RiskScore>44,1.391,Score de risque élevé (règle 597),Risque
+R0598,RiskScore>46,1.479,Score de risque élevé (règle 598),Risque
+R0599,RiskScore>63,1.42,Score de risque élevé (règle 599),Risque
+R0600,RiskScore>50,1.244,Score de risque élevé (règle 600),Risque

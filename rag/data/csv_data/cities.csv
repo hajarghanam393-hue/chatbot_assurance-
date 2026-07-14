@@ -1,0 +1,21 @@
+﻿CityID,Ville,CodePostal,Region,CoefficientZone,Population,TauxSinistralite,IndiceVol
+C001,Casablanca,20000,Grand Casablanca,1.28,2781950,0.1124,1.3
+C002,Rabat,10000,Rabat-Salé-Kénitra,1.18,1127150,0.1128,1.2
+C003,Marrakech,40000,Marrakech-Safi,1.22,2938283,0.1609,1.08
+C004,Fès,30000,Fès-Meknès,1.15,2576705,0.126,0.6
+C005,Tanger,90000,Tanger-Tétouan-Al Hoceïma,1.2,1017034,0.1155,1.11
+C006,Agadir,80000,Souss-Massa,1.12,2454032,0.1052,1.07
+C007,Meknès,50000,Fès-Meknès,1.1,2385650,0.1203,0.9
+C008,Oujda,60000,Oriental,1.08,1266816,0.1476,0.54
+C009,Kénitra,14000,Rabat-Salé-Kénitra,1.12,3479850,0.1021,0.89
+C010,Tétouan,93000,Tanger-Tétouan-Al Hoceïma,1.1,1265476,0.1,1.29
+C011,Salé,11000,Rabat-Salé-Kénitra,1.16,1511779,0.1011,0.89
+C012,Nador,62000,Oriental,1.09,1605668,0.1519,1.01
+C013,Mohammedia,28800,Grand Casablanca,1.14,3485341,0.0947,0.94
+C014,El Jadida,24000,Casablanca-Settat,1.08,623558,0.16,0.83
+C015,Beni Mellal,23000,Béni Mellal-Khénifra,1.07,2415426,0.1076,1.01
+C016,Khouribga,25000,Béni Mellal-Khénifra,1.06,1616807,0.1276,1.05
+C017,Settat,26000,Casablanca-Settat,1.07,292201,0.1351,1.11
+C018,Laâyoune,70000,Laâyoune-Sakia El Hamra,1.05,434671,0.1469,1.16
+C019,Errachidia,52000,Drâa-Tafilalet,1.04,1694364,0.1034,0.98
+C020,Essaouira,44000,Marrakech-Safi,1.06,1630217,0.0969,0.79

@@ -1,0 +1,141 @@
+﻿StatisticID,Annee,Ville,Region,Accidents,Blesses,Deces,TauxGravite
+AS00001,2020,Casablanca,Grand Casablanca,1474,441,41,0.057
+AS00002,2021,Casablanca,Grand Casablanca,2274,699,67,0.079
+AS00003,2022,Casablanca,Grand Casablanca,3058,1093,41,0.092
+AS00004,2023,Casablanca,Grand Casablanca,1311,359,34,0.09
+AS00005,2024,Casablanca,Grand Casablanca,2615,876,46,0.195
+AS00006,2025,Casablanca,Grand Casablanca,2551,853,58,0.221
+AS00007,2026,Casablanca,Grand Casablanca,2334,520,51,0.168
+AS00008,2020,Rabat,Rabat-Salé-Kénitra,2317,648,53,0.167
+AS00009,2021,Rabat,Rabat-Salé-Kénitra,2649,727,73,0.207
+AS00010,2022,Rabat,Rabat-Salé-Kénitra,2888,926,41,0.181
+AS00011,2023,Rabat,Rabat-Salé-Kénitra,2080,545,37,0.174
+AS00012,2024,Rabat,Rabat-Salé-Kénitra,2264,664,63,0.188
+AS00013,2025,Rabat,Rabat-Salé-Kénitra,1037,283,18,0.118
+AS00014,2026,Rabat,Rabat-Salé-Kénitra,2440,865,68,0.187
+AS00015,2020,Marrakech,Marrakech-Safi,2830,826,74,0.205
+AS00016,2021,Marrakech,Marrakech-Safi,1716,513,19,0.138
+AS00017,2022,Marrakech,Marrakech-Safi,2817,855,58,0.125
+AS00018,2023,Marrakech,Marrakech-Safi,1156,270,26,0.131
+AS00019,2024,Marrakech,Marrakech-Safi,2607,799,34,0.225
+AS00020,2025,Marrakech,Marrakech-Safi,1269,339,15,0.122
+AS00021,2026,Marrakech,Marrakech-Safi,1352,410,24,0.235
+AS00022,2020,Fès,Fès-Meknès,2135,672,42,0.242
+AS00023,2021,Fès,Fès-Meknès,1866,519,49,0.102
+AS00024,2022,Fès,Fès-Meknès,2335,619,27,0.221
+AS00025,2023,Fès,Fès-Meknès,2304,651,35,0.091
+AS00026,2024,Fès,Fès-Meknès,2199,754,64,0.186
+AS00027,2025,Fès,Fès-Meknès,1711,481,48,0.095
+AS00028,2026,Fès,Fès-Meknès,2296,686,51,0.105
+AS00029,2020,Tanger,Tanger-Tétouan-Al Hoceïma,2982,822,40,0.11
+AS00030,2021,Tanger,Tanger-Tétouan-Al Hoceïma,2072,627,20,0.25
+AS00031,2022,Tanger,Tanger-Tétouan-Al Hoceïma,3130,901,64,0.107
+AS00032,2023,Tanger,Tanger-Tétouan-Al Hoceïma,2347,660,36,0.115
+AS00033,2024,Tanger,Tanger-Tétouan-Al Hoceïma,1572,540,35,0.088
+AS00034,2025,Tanger,Tanger-Tétouan-Al Hoceïma,1910,497,54,0.212
+AS00035,2026,Tanger,Tanger-Tétouan-Al Hoceïma,1719,458,18,0.149
+AS00036,2020,Agadir,Souss-Massa,1577,420,36,0.167
+AS00037,2021,Agadir,Souss-Massa,2966,784,67,0.187
+AS00038,2022,Agadir,Souss-Massa,2101,745,36,0.11
+AS00039,2023,Agadir,Souss-Massa,1258,374,19,0.144
+AS00040,2024,Agadir,Souss-Massa,2410,708,65,0.239
+AS00041,2025,Agadir,Souss-Massa,2689,695,37,0.224
+AS00042,2026,Agadir,Souss-Massa,1827,482,36,0.143
+AS00043,2020,Meknès,Fès-Meknès,1002,347,23,0.174
+AS00044,2021,Meknès,Fès-Meknès,1655,448,41,0.156
+AS00045,2022,Meknès,Fès-Meknès,1775,426,49,0.119
+AS00046,2023,Meknès,Fès-Meknès,2940,977,35,0.222
+AS00047,2024,Meknès,Fès-Meknès,1115,340,36,0.113
+AS00048,2025,Meknès,Fès-Meknès,979,262,25,0.165
+AS00049,2026,Meknès,Fès-Meknès,1243,392,14,0.137
+AS00050,2020,Oujda,Oriental,1628,491,16,0.157
+AS00051,2021,Oujda,Oriental,2404,765,55,0.156
+AS00052,2022,Oujda,Oriental,807,294,13,0.225
+AS00053,2023,Oujda,Oriental,1322,431,23,0.063
+AS00054,2024,Oujda,Oriental,1032,279,19,0.155
+AS00055,2025,Oujda,Oriental,1722,425,49,0.148
+AS00056,2026,Oujda,Oriental,2090,781,58,0.054
+AS00057,2020,Kénitra,Rabat-Salé-Kénitra,1451,351,13,0.151
+AS00058,2021,Kénitra,Rabat-Salé-Kénitra,1178,378,19,0.178
+AS00059,2022,Kénitra,Rabat-Salé-Kénitra,2422,735,25,0.072
+AS00060,2023,Kénitra,Rabat-Salé-Kénitra,2263,631,46,0.075
+AS00061,2024,Kénitra,Rabat-Salé-Kénitra,1432,364,32,0.052
+AS00062,2025,Kénitra,Rabat-Salé-Kénitra,1561,513,38,0.19
+AS00063,2026,Kénitra,Rabat-Salé-Kénitra,1828,510,37,0.107
+AS00064,2020,Tétouan,Tanger-Tétouan-Al Hoceïma,2346,734,60,0.216
+AS00065,2021,Tétouan,Tanger-Tétouan-Al Hoceïma,2623,780,35,0.16
+AS00066,2022,Tétouan,Tanger-Tétouan-Al Hoceïma,2679,768,37,0.053
+AS00067,2023,Tétouan,Tanger-Tétouan-Al Hoceïma,964,323,20,0.24
+AS00068,2024,Tétouan,Tanger-Tétouan-Al Hoceïma,2139,764,65,0.179
+AS00069,2025,Tétouan,Tanger-Tétouan-Al Hoceïma,1899,471,19,0.213
+AS00070,2026,Tétouan,Tanger-Tétouan-Al Hoceïma,2691,712,59,0.135
+AS00071,2020,Salé,Rabat-Salé-Kénitra,1237,401,11,0.078
+AS00072,2021,Salé,Rabat-Salé-Kénitra,2128,765,64,0.104
+AS00073,2022,Salé,Rabat-Salé-Kénitra,2313,667,29,0.13
+AS00074,2023,Salé,Rabat-Salé-Kénitra,1951,590,35,0.134
+AS00075,2024,Salé,Rabat-Salé-Kénitra,2497,684,65,0.246
+AS00076,2025,Salé,Rabat-Salé-Kénitra,2387,905,50,0.164
+AS00077,2026,Salé,Rabat-Salé-Kénitra,1831,597,39,0.223
+AS00078,2020,Nador,Oriental,2616,868,49,0.148
+AS00079,2021,Nador,Oriental,2486,623,58,0.052
+AS00080,2022,Nador,Oriental,2493,816,60,0.095
+AS00081,2023,Nador,Oriental,2840,798,62,0.174
+AS00082,2024,Nador,Oriental,1749,498,38,0.178
+AS00083,2025,Nador,Oriental,1222,398,25,0.052
+AS00084,2026,Nador,Oriental,2606,771,51,0.083
+AS00085,2020,Mohammedia,Grand Casablanca,2283,662,36,0.151
+AS00086,2021,Mohammedia,Grand Casablanca,1930,668,22,0.139
+AS00087,2022,Mohammedia,Grand Casablanca,1855,606,33,0.246
+AS00088,2023,Mohammedia,Grand Casablanca,2129,679,25,0.16
+AS00089,2024,Mohammedia,Grand Casablanca,2659,893,57,0.228
+AS00090,2025,Mohammedia,Grand Casablanca,2063,590,33,0.215
+AS00091,2026,Mohammedia,Grand Casablanca,2666,698,63,0.17
+AS00092,2020,El Jadida,Casablanca-Settat,2120,641,26,0.182
+AS00093,2021,El Jadida,Casablanca-Settat,842,274,22,0.16
+AS00094,2022,El Jadida,Casablanca-Settat,1428,538,30,0.214
+AS00095,2023,El Jadida,Casablanca-Settat,2186,602,30,0.074
+AS00096,2024,El Jadida,Casablanca-Settat,2290,823,33,0.118
+AS00097,2025,El Jadida,Casablanca-Settat,2049,712,52,0.075
+AS00098,2026,El Jadida,Casablanca-Settat,2479,777,50,0.243
+AS00099,2020,Beni Mellal,Béni Mellal-Khénifra,904,264,16,0.167
+AS00100,2021,Beni Mellal,Béni Mellal-Khénifra,2680,886,60,0.085
+AS00101,2022,Beni Mellal,Béni Mellal-Khénifra,2153,745,51,0.114
+AS00102,2023,Beni Mellal,Béni Mellal-Khénifra,2419,769,58,0.1
+AS00103,2024,Beni Mellal,Béni Mellal-Khénifra,1530,434,41,0.078
+AS00104,2025,Beni Mellal,Béni Mellal-Khénifra,2102,588,52,0.16
+AS00105,2026,Beni Mellal,Béni Mellal-Khénifra,1494,437,20,0.092
+AS00106,2020,Khouribga,Béni Mellal-Khénifra,2215,748,27,0.192
+AS00107,2021,Khouribga,Béni Mellal-Khénifra,2437,794,59,0.192
+AS00108,2022,Khouribga,Béni Mellal-Khénifra,2246,687,64,0.192
+AS00109,2023,Khouribga,Béni Mellal-Khénifra,2225,627,56,0.134
+AS00110,2024,Khouribga,Béni Mellal-Khénifra,802,248,9,0.061
+AS00111,2025,Khouribga,Béni Mellal-Khénifra,1404,475,31,0.079
+AS00112,2026,Khouribga,Béni Mellal-Khénifra,1014,253,19,0.122
+AS00113,2020,Settat,Casablanca-Settat,1718,539,35,0.095
+AS00114,2021,Settat,Casablanca-Settat,1987,612,52,0.189
+AS00115,2022,Settat,Casablanca-Settat,1924,604,38,0.208
+AS00116,2023,Settat,Casablanca-Settat,2298,518,52,0.091
+AS00117,2024,Settat,Casablanca-Settat,2612,714,35,0.177
+AS00118,2025,Settat,Casablanca-Settat,2089,666,53,0.089
+AS00119,2026,Settat,Casablanca-Settat,2041,639,64,0.065
+AS00120,2020,Laâyoune,Laâyoune-Sakia El Hamra,2678,650,27,0.106
+AS00121,2021,Laâyoune,Laâyoune-Sakia El Hamra,1222,447,13,0.143
+AS00122,2022,Laâyoune,Laâyoune-Sakia El Hamra,2282,883,55,0.205
+AS00123,2023,Laâyoune,Laâyoune-Sakia El Hamra,2090,540,50,0.16
+AS00124,2024,Laâyoune,Laâyoune-Sakia El Hamra,1010,293,28,0.154
+AS00125,2025,Laâyoune,Laâyoune-Sakia El Hamra,2090,684,40,0.12
+AS00126,2026,Laâyoune,Laâyoune-Sakia El Hamra,2495,676,38,0.24
+AS00127,2020,Errachidia,Drâa-Tafilalet,1915,591,48,0.18
+AS00128,2021,Errachidia,Drâa-Tafilalet,1002,278,23,0.234
+AS00129,2022,Errachidia,Drâa-Tafilalet,1146,437,22,0.209
+AS00130,2023,Errachidia,Drâa-Tafilalet,982,337,10,0.153
+AS00131,2024,Errachidia,Drâa-Tafilalet,2200,660,43,0.109
+AS00132,2025,Errachidia,Drâa-Tafilalet,1912,495,23,0.244
+AS00133,2026,Errachidia,Drâa-Tafilalet,2213,693,31,0.176
+AS00134,2020,Essaouira,Marrakech-Safi,1277,419,17,0.216
+AS00135,2021,Essaouira,Marrakech-Safi,2548,710,64,0.064
+AS00136,2022,Essaouira,Marrakech-Safi,1885,679,22,0.065
+AS00137,2023,Essaouira,Marrakech-Safi,1110,290,30,0.232
+AS00138,2024,Essaouira,Marrakech-Safi,1567,456,25,0.128
+AS00139,2025,Essaouira,Marrakech-Safi,956,346,11,0.199
+AS00140,2026,Essaouira,Marrakech-Safi,994,263,18,0.108

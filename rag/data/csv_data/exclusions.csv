@@ -1,0 +1,1021 @@
+﻿ExclusionID,Nom,Categorie,Description,PackImpacte
+EX00001,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 5 des CG.,Eco
+EX00002,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 1 des CG.,Tous
+EX00003,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 14 des CG.,VIP
+EX00004,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 2 des CG.,Silver
+EX00005,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 15 des CG.,Gold
+EX00006,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 38 des CG.,Business
+EX00007,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 17 des CG.,Gold
+EX00008,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 21 des CG.,Tous
+EX00009,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 16 des CG.,Silver
+EX00010,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 37 des CG.,Gold+
+EX00011,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 3 des CG.,Gold
+EX00012,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 21 des CG.,Silver+
+EX00013,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 16 des CG.,VIP
+EX00014,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 27 des CG.,Tous
+EX00015,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 21 des CG.,VIP
+EX00016,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 20 des CG.,Silver+
+EX00017,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 22 des CG.,Business
+EX00018,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 45 des CG.,VIP
+EX00019,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 37 des CG.,Bronze
+EX00020,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 40 des CG.,Eco+
+EX00021,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 34 des CG.,Tous
+EX00022,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 17 des CG.,VIP
+EX00023,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 43 des CG.,Silver+
+EX00024,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 30 des CG.,Tous
+EX00025,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 13 des CG.,Gold+
+EX00026,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 27 des CG.,Bronze
+EX00027,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 10 des CG.,Premium
+EX00028,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 17 des CG.,VIP
+EX00029,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 2 des CG.,Premium
+EX00030,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 30 des CG.,Eco+
+EX00031,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 44 des CG.,Eco+
+EX00032,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 9 des CG.,Premium
+EX00033,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 41 des CG.,Eco+
+EX00034,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 43 des CG.,Silver+
+EX00035,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 19 des CG.,Business
+EX00036,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 1 des CG.,VIP
+EX00037,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 9 des CG.,Bronze
+EX00038,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 2 des CG.,Silver
+EX00039,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 24 des CG.,VIP
+EX00040,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 26 des CG.,Silver+
+EX00041,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 7 des CG.,VIP
+EX00042,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 2 des CG.,Gold+
+EX00043,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 19 des CG.,Premium
+EX00044,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 10 des CG.,Premium
+EX00045,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 13 des CG.,Silver+
+EX00046,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 38 des CG.,Business
+EX00047,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 6 des CG.,Eco+
+EX00048,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 42 des CG.,VIP
+EX00049,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 14 des CG.,Business
+EX00050,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 26 des CG.,Gold+
+EX00051,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 34 des CG.,Gold+
+EX00052,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 23 des CG.,Eco+
+EX00053,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 23 des CG.,VIP
+EX00054,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 27 des CG.,VIP
+EX00055,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 37 des CG.,Tous
+EX00056,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 41 des CG.,Business
+EX00057,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 9 des CG.,Premium
+EX00058,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 44 des CG.,Premium
+EX00059,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 26 des CG.,Premium
+EX00060,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 19 des CG.,VIP
+EX00061,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 35 des CG.,Eco+
+EX00062,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 40 des CG.,Tous
+EX00063,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 3 des CG.,Gold
+EX00064,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 40 des CG.,Bronze
+EX00065,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 14 des CG.,Gold+
+EX00066,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 12 des CG.,Business
+EX00067,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 4 des CG.,Silver+
+EX00068,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 1 des CG.,Business
+EX00069,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 6 des CG.,Tous
+EX00070,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 28 des CG.,Gold+
+EX00071,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 31 des CG.,Business
+EX00072,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 22 des CG.,Eco+
+EX00073,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 41 des CG.,Premium
+EX00074,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 22 des CG.,VIP
+EX00075,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 44 des CG.,Gold+
+EX00076,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 33 des CG.,Gold+
+EX00077,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 1 des CG.,VIP
+EX00078,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 12 des CG.,Eco+
+EX00079,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 21 des CG.,Premium
+EX00080,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 45 des CG.,Gold
+EX00081,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 37 des CG.,Gold
+EX00082,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 4 des CG.,Gold
+EX00083,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 19 des CG.,Silver+
+EX00084,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 21 des CG.,Gold
+EX00085,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 24 des CG.,Tous
+EX00086,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 5 des CG.,VIP
+EX00087,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 13 des CG.,Premium
+EX00088,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 29 des CG.,Eco+
+EX00089,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 6 des CG.,Tous
+EX00090,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 30 des CG.,Eco
+EX00091,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 34 des CG.,Bronze
+EX00092,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 34 des CG.,Bronze
+EX00093,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 32 des CG.,Silver+
+EX00094,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 24 des CG.,Gold+
+EX00095,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 14 des CG.,Bronze
+EX00096,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 19 des CG.,Gold+
+EX00097,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 1 des CG.,Eco+
+EX00098,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 10 des CG.,Gold+
+EX00099,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 26 des CG.,VIP
+EX00100,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 30 des CG.,Gold
+EX00101,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 17 des CG.,Silver+
+EX00102,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 27 des CG.,Tous
+EX00103,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 29 des CG.,Silver+
+EX00104,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 26 des CG.,Silver+
+EX00105,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 29 des CG.,Gold
+EX00106,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 38 des CG.,Premium
+EX00107,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 32 des CG.,Gold+
+EX00108,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 40 des CG.,VIP
+EX00109,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 9 des CG.,Tous
+EX00110,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 40 des CG.,VIP
+EX00111,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 39 des CG.,Silver+
+EX00112,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 41 des CG.,VIP
+EX00113,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 1 des CG.,Premium
+EX00114,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 11 des CG.,Business
+EX00115,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 20 des CG.,Gold+
+EX00116,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 23 des CG.,VIP
+EX00117,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 42 des CG.,Tous
+EX00118,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 2 des CG.,VIP
+EX00119,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 23 des CG.,Silver
+EX00120,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 40 des CG.,Silver
+EX00121,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 4 des CG.,Eco+
+EX00122,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 30 des CG.,Business
+EX00123,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 42 des CG.,VIP
+EX00124,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 2 des CG.,Business
+EX00125,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 34 des CG.,Gold+
+EX00126,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 3 des CG.,Silver
+EX00127,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 42 des CG.,Eco
+EX00128,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 23 des CG.,VIP
+EX00129,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 8 des CG.,Eco
+EX00130,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 36 des CG.,Eco+
+EX00131,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 14 des CG.,Eco
+EX00132,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 43 des CG.,Eco+
+EX00133,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 30 des CG.,Eco+
+EX00134,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 36 des CG.,Premium
+EX00135,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 26 des CG.,Bronze
+EX00136,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 20 des CG.,Silver
+EX00137,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 40 des CG.,Eco+
+EX00138,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 1 des CG.,Business
+EX00139,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 34 des CG.,Gold
+EX00140,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 14 des CG.,Business
+EX00141,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 1 des CG.,Premium
+EX00142,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 24 des CG.,Eco+
+EX00143,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 24 des CG.,Gold
+EX00144,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 41 des CG.,Gold+
+EX00145,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 43 des CG.,Business
+EX00146,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 25 des CG.,Gold+
+EX00147,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 13 des CG.,Gold+
+EX00148,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 28 des CG.,Premium
+EX00149,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 4 des CG.,Gold
+EX00150,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 36 des CG.,Gold+
+EX00151,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 37 des CG.,Silver+
+EX00152,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 20 des CG.,Premium
+EX00153,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 32 des CG.,Gold
+EX00154,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 24 des CG.,Eco
+EX00155,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 23 des CG.,Gold
+EX00156,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 2 des CG.,Gold+
+EX00157,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 3 des CG.,Eco+
+EX00158,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 30 des CG.,Gold
+EX00159,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 39 des CG.,Premium
+EX00160,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 17 des CG.,Silver
+EX00161,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 36 des CG.,Eco
+EX00162,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 32 des CG.,Eco
+EX00163,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 33 des CG.,Premium
+EX00164,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 45 des CG.,VIP
+EX00165,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 3 des CG.,VIP
+EX00166,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 3 des CG.,VIP
+EX00167,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 17 des CG.,Gold+
+EX00168,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 41 des CG.,Gold+
+EX00169,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 42 des CG.,Eco
+EX00170,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 27 des CG.,Gold
+EX00171,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 35 des CG.,Gold+
+EX00172,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 11 des CG.,Eco+
+EX00173,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 22 des CG.,Eco+
+EX00174,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 42 des CG.,Silver+
+EX00175,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 25 des CG.,Premium
+EX00176,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 31 des CG.,Silver
+EX00177,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 4 des CG.,Tous
+EX00178,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 7 des CG.,Silver+
+EX00179,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 17 des CG.,Eco+
+EX00180,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 43 des CG.,Silver
+EX00181,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 18 des CG.,Silver+
+EX00182,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 33 des CG.,Gold
+EX00183,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 30 des CG.,Business
+EX00184,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 41 des CG.,Eco+
+EX00185,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 31 des CG.,Eco+
+EX00186,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 28 des CG.,Eco
+EX00187,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 34 des CG.,Gold+
+EX00188,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 22 des CG.,Silver
+EX00189,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 30 des CG.,VIP
+EX00190,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 43 des CG.,Eco
+EX00191,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 29 des CG.,Tous
+EX00192,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 34 des CG.,Gold+
+EX00193,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 12 des CG.,Business
+EX00194,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 8 des CG.,Business
+EX00195,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 14 des CG.,Premium
+EX00196,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 28 des CG.,Silver+
+EX00197,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 11 des CG.,Gold+
+EX00198,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 5 des CG.,Tous
+EX00199,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 3 des CG.,Tous
+EX00200,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 21 des CG.,Bronze
+EX00201,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 15 des CG.,Tous
+EX00202,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 29 des CG.,Silver+
+EX00203,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 36 des CG.,Silver
+EX00204,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 22 des CG.,Eco
+EX00205,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 4 des CG.,Bronze
+EX00206,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 8 des CG.,Tous
+EX00207,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 10 des CG.,Eco+
+EX00208,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 1 des CG.,Gold+
+EX00209,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 5 des CG.,Silver+
+EX00210,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 39 des CG.,Bronze
+EX00211,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 14 des CG.,Bronze
+EX00212,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 12 des CG.,Tous
+EX00213,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 14 des CG.,Silver
+EX00214,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 13 des CG.,Gold
+EX00215,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 2 des CG.,Silver
+EX00216,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 3 des CG.,Eco
+EX00217,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 4 des CG.,Tous
+EX00218,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 12 des CG.,Premium
+EX00219,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 11 des CG.,Silver+
+EX00220,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 43 des CG.,Gold
+EX00221,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 2 des CG.,Silver
+EX00222,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 1 des CG.,Eco+
+EX00223,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 13 des CG.,Premium
+EX00224,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 35 des CG.,Tous
+EX00225,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 31 des CG.,Gold+
+EX00226,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 43 des CG.,Silver+
+EX00227,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 6 des CG.,Business
+EX00228,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 34 des CG.,Premium
+EX00229,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 13 des CG.,Tous
+EX00230,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 43 des CG.,Eco
+EX00231,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 45 des CG.,Premium
+EX00232,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 3 des CG.,Silver+
+EX00233,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 8 des CG.,Gold
+EX00234,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 32 des CG.,Tous
+EX00235,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 25 des CG.,Bronze
+EX00236,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 35 des CG.,Eco
+EX00237,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 30 des CG.,Bronze
+EX00238,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 7 des CG.,Eco
+EX00239,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 17 des CG.,Gold+
+EX00240,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 33 des CG.,VIP
+EX00241,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 33 des CG.,Eco+
+EX00242,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 7 des CG.,Tous
+EX00243,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 6 des CG.,Premium
+EX00244,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 14 des CG.,Eco+
+EX00245,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 11 des CG.,Silver+
+EX00246,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 44 des CG.,Gold+
+EX00247,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 7 des CG.,Eco+
+EX00248,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 37 des CG.,VIP
+EX00249,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 26 des CG.,Gold
+EX00250,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 30 des CG.,Gold
+EX00251,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 29 des CG.,Gold
+EX00252,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 20 des CG.,Gold
+EX00253,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 18 des CG.,Silver
+EX00254,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 16 des CG.,Eco
+EX00255,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 8 des CG.,Gold
+EX00256,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 9 des CG.,Premium
+EX00257,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 29 des CG.,Business
+EX00258,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 8 des CG.,Silver+
+EX00259,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 1 des CG.,Gold+
+EX00260,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 34 des CG.,Gold
+EX00261,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 34 des CG.,VIP
+EX00262,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 38 des CG.,Eco+
+EX00263,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 41 des CG.,Premium
+EX00264,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 23 des CG.,VIP
+EX00265,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 19 des CG.,Silver+
+EX00266,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 29 des CG.,Bronze
+EX00267,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 21 des CG.,Silver+
+EX00268,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 10 des CG.,Gold
+EX00269,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 25 des CG.,Gold+
+EX00270,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 10 des CG.,Business
+EX00271,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 44 des CG.,Bronze
+EX00272,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 12 des CG.,Tous
+EX00273,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 39 des CG.,Gold+
+EX00274,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 24 des CG.,Eco
+EX00275,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 6 des CG.,Silver
+EX00276,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 17 des CG.,Gold+
+EX00277,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 23 des CG.,Tous
+EX00278,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 17 des CG.,Eco+
+EX00279,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 3 des CG.,Eco+
+EX00280,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 12 des CG.,Bronze
+EX00281,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 28 des CG.,Eco+
+EX00282,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 17 des CG.,Tous
+EX00283,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 24 des CG.,Gold+
+EX00284,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 41 des CG.,Eco
+EX00285,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 6 des CG.,Tous
+EX00286,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 11 des CG.,Bronze
+EX00287,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 39 des CG.,VIP
+EX00288,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 16 des CG.,Bronze
+EX00289,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 40 des CG.,Gold
+EX00290,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 4 des CG.,Gold+
+EX00291,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 38 des CG.,Business
+EX00292,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 28 des CG.,VIP
+EX00293,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 6 des CG.,VIP
+EX00294,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 29 des CG.,Silver
+EX00295,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 5 des CG.,Silver+
+EX00296,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 44 des CG.,Premium
+EX00297,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 38 des CG.,Gold+
+EX00298,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 9 des CG.,Premium
+EX00299,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 22 des CG.,Tous
+EX00300,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 27 des CG.,Premium
+EX00301,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 41 des CG.,VIP
+EX00302,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 11 des CG.,VIP
+EX00303,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 43 des CG.,Eco
+EX00304,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 39 des CG.,Gold+
+EX00305,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 22 des CG.,Silver+
+EX00306,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 7 des CG.,Tous
+EX00307,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 11 des CG.,Gold
+EX00308,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 29 des CG.,Silver+
+EX00309,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 2 des CG.,Silver+
+EX00310,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 2 des CG.,VIP
+EX00311,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 8 des CG.,Eco+
+EX00312,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 41 des CG.,Premium
+EX00313,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 7 des CG.,Gold
+EX00314,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 2 des CG.,VIP
+EX00315,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 4 des CG.,Silver
+EX00316,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 26 des CG.,Business
+EX00317,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 10 des CG.,Premium
+EX00318,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 31 des CG.,Business
+EX00319,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 1 des CG.,VIP
+EX00320,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 32 des CG.,Premium
+EX00321,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 39 des CG.,Tous
+EX00322,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 17 des CG.,Silver
+EX00323,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 28 des CG.,Tous
+EX00324,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 7 des CG.,Eco
+EX00325,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 16 des CG.,Tous
+EX00326,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 35 des CG.,Silver
+EX00327,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 7 des CG.,Gold+
+EX00328,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 28 des CG.,Eco+
+EX00329,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 8 des CG.,Silver+
+EX00330,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 27 des CG.,Premium
+EX00331,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 17 des CG.,Silver
+EX00332,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 14 des CG.,Silver+
+EX00333,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 33 des CG.,Bronze
+EX00334,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 9 des CG.,VIP
+EX00335,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 22 des CG.,Gold+
+EX00336,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 30 des CG.,Silver+
+EX00337,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 7 des CG.,Gold+
+EX00338,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 24 des CG.,Tous
+EX00339,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 31 des CG.,Bronze
+EX00340,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 20 des CG.,Business
+EX00341,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 14 des CG.,Eco+
+EX00342,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 32 des CG.,Silver+
+EX00343,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 42 des CG.,Business
+EX00344,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 4 des CG.,Premium
+EX00345,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 26 des CG.,Premium
+EX00346,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 2 des CG.,Silver
+EX00347,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 33 des CG.,VIP
+EX00348,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 15 des CG.,Gold
+EX00349,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 22 des CG.,Premium
+EX00350,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 4 des CG.,Gold+
+EX00351,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 45 des CG.,Silver+
+EX00352,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 16 des CG.,Business
+EX00353,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 44 des CG.,Business
+EX00354,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 11 des CG.,Gold
+EX00355,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 11 des CG.,Gold+
+EX00356,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 2 des CG.,Silver+
+EX00357,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 25 des CG.,Eco
+EX00358,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 16 des CG.,Tous
+EX00359,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 40 des CG.,Business
+EX00360,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 26 des CG.,Silver+
+EX00361,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 14 des CG.,Gold
+EX00362,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 38 des CG.,Silver+
+EX00363,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 25 des CG.,Tous
+EX00364,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 10 des CG.,Tous
+EX00365,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 4 des CG.,Gold+
+EX00366,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 4 des CG.,Bronze
+EX00367,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 36 des CG.,Gold+
+EX00368,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 20 des CG.,Tous
+EX00369,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 1 des CG.,VIP
+EX00370,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 30 des CG.,Tous
+EX00371,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 33 des CG.,Tous
+EX00372,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 18 des CG.,VIP
+EX00373,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 37 des CG.,Gold
+EX00374,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 23 des CG.,VIP
+EX00375,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 25 des CG.,Silver
+EX00376,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 26 des CG.,Eco+
+EX00377,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 27 des CG.,Silver+
+EX00378,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 28 des CG.,Gold
+EX00379,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 2 des CG.,Business
+EX00380,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 37 des CG.,Business
+EX00381,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 4 des CG.,Premium
+EX00382,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 22 des CG.,Silver
+EX00383,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 15 des CG.,Eco+
+EX00384,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 10 des CG.,Premium
+EX00385,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 10 des CG.,Gold
+EX00386,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 5 des CG.,Eco
+EX00387,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 43 des CG.,Eco+
+EX00388,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 28 des CG.,VIP
+EX00389,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 34 des CG.,VIP
+EX00390,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 16 des CG.,Business
+EX00391,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 10 des CG.,Business
+EX00392,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 42 des CG.,Eco
+EX00393,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 32 des CG.,Tous
+EX00394,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 4 des CG.,Premium
+EX00395,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 29 des CG.,Silver+
+EX00396,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 35 des CG.,VIP
+EX00397,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 18 des CG.,Tous
+EX00398,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 2 des CG.,Silver
+EX00399,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 21 des CG.,Eco
+EX00400,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 7 des CG.,Tous
+EX00401,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 10 des CG.,Premium
+EX00402,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 27 des CG.,Business
+EX00403,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 16 des CG.,Eco
+EX00404,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 10 des CG.,Premium
+EX00405,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 28 des CG.,Eco+
+EX00406,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 21 des CG.,VIP
+EX00407,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 7 des CG.,Eco+
+EX00408,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 39 des CG.,Business
+EX00409,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 3 des CG.,Premium
+EX00410,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 45 des CG.,Silver+
+EX00411,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 13 des CG.,Eco+
+EX00412,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 19 des CG.,Silver+
+EX00413,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 5 des CG.,Tous
+EX00414,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 36 des CG.,Tous
+EX00415,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 44 des CG.,Bronze
+EX00416,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 34 des CG.,Gold+
+EX00417,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 5 des CG.,Eco
+EX00418,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 34 des CG.,Bronze
+EX00419,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 17 des CG.,Eco+
+EX00420,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 32 des CG.,Eco+
+EX00421,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 10 des CG.,Eco
+EX00422,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 32 des CG.,Eco+
+EX00423,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 39 des CG.,Eco
+EX00424,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 41 des CG.,Silver+
+EX00425,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 38 des CG.,VIP
+EX00426,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 32 des CG.,Business
+EX00427,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 43 des CG.,Silver
+EX00428,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 33 des CG.,Eco+
+EX00429,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 36 des CG.,Gold
+EX00430,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 18 des CG.,Gold+
+EX00431,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 16 des CG.,Eco
+EX00432,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 7 des CG.,Gold
+EX00433,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 3 des CG.,Silver+
+EX00434,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 15 des CG.,Silver
+EX00435,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 25 des CG.,Tous
+EX00436,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 14 des CG.,Gold+
+EX00437,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 45 des CG.,Premium
+EX00438,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 26 des CG.,Silver
+EX00439,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 24 des CG.,Bronze
+EX00440,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 40 des CG.,Eco+
+EX00441,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 38 des CG.,Silver
+EX00442,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 38 des CG.,Premium
+EX00443,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 17 des CG.,Eco+
+EX00444,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 7 des CG.,Eco+
+EX00445,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 37 des CG.,Eco
+EX00446,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 19 des CG.,VIP
+EX00447,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 28 des CG.,Premium
+EX00448,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 35 des CG.,Business
+EX00449,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 3 des CG.,Silver
+EX00450,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 4 des CG.,Premium
+EX00451,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 27 des CG.,Premium
+EX00452,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 3 des CG.,Silver
+EX00453,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 4 des CG.,Gold
+EX00454,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 40 des CG.,VIP
+EX00455,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 6 des CG.,Bronze
+EX00456,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 6 des CG.,Silver+
+EX00457,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 14 des CG.,Premium
+EX00458,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 35 des CG.,Silver
+EX00459,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 8 des CG.,Silver+
+EX00460,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 8 des CG.,Tous
+EX00461,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 22 des CG.,Tous
+EX00462,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 44 des CG.,Gold+
+EX00463,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 28 des CG.,Eco+
+EX00464,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 15 des CG.,Premium
+EX00465,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 34 des CG.,Business
+EX00466,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 42 des CG.,Eco+
+EX00467,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 41 des CG.,Bronze
+EX00468,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 18 des CG.,Business
+EX00469,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 42 des CG.,Silver+
+EX00470,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 5 des CG.,Tous
+EX00471,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 41 des CG.,Eco
+EX00472,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 26 des CG.,VIP
+EX00473,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 34 des CG.,Gold
+EX00474,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 4 des CG.,Eco+
+EX00475,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 41 des CG.,Business
+EX00476,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 12 des CG.,Silver+
+EX00477,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 2 des CG.,Gold+
+EX00478,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 23 des CG.,Premium
+EX00479,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 25 des CG.,Silver
+EX00480,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 3 des CG.,Gold
+EX00481,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 25 des CG.,Silver
+EX00482,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 30 des CG.,Tous
+EX00483,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 43 des CG.,Silver+
+EX00484,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 25 des CG.,Gold+
+EX00485,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 31 des CG.,Bronze
+EX00486,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 33 des CG.,Business
+EX00487,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 22 des CG.,Tous
+EX00488,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 12 des CG.,Business
+EX00489,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 26 des CG.,Gold+
+EX00490,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 2 des CG.,Premium
+EX00491,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 15 des CG.,Silver
+EX00492,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 32 des CG.,Premium
+EX00493,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 26 des CG.,Premium
+EX00494,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 17 des CG.,Gold
+EX00495,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 19 des CG.,Premium
+EX00496,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 28 des CG.,Gold
+EX00497,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 28 des CG.,Eco
+EX00498,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 3 des CG.,Silver
+EX00499,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 1 des CG.,Tous
+EX00500,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 6 des CG.,VIP
+EX00501,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 42 des CG.,Business
+EX00502,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 17 des CG.,Eco+
+EX00503,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 31 des CG.,Gold
+EX00504,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 18 des CG.,Gold
+EX00505,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 2 des CG.,Gold
+EX00506,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 11 des CG.,Eco+
+EX00507,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 34 des CG.,Eco
+EX00508,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 26 des CG.,Bronze
+EX00509,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 1 des CG.,VIP
+EX00510,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 23 des CG.,Gold+
+EX00511,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 40 des CG.,Bronze
+EX00512,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 1 des CG.,Eco
+EX00513,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 4 des CG.,Silver
+EX00514,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 33 des CG.,Gold
+EX00515,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 20 des CG.,Gold
+EX00516,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 3 des CG.,Business
+EX00517,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 30 des CG.,Silver+
+EX00518,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 2 des CG.,Bronze
+EX00519,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 1 des CG.,Eco+
+EX00520,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 29 des CG.,Silver
+EX00521,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 37 des CG.,VIP
+EX00522,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 32 des CG.,Gold
+EX00523,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 4 des CG.,Eco
+EX00524,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 2 des CG.,Bronze
+EX00525,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 13 des CG.,Silver
+EX00526,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 25 des CG.,Gold
+EX00527,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 5 des CG.,Eco+
+EX00528,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 45 des CG.,Bronze
+EX00529,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 4 des CG.,Eco+
+EX00530,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 12 des CG.,Gold+
+EX00531,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 1 des CG.,Eco
+EX00532,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 9 des CG.,Premium
+EX00533,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 45 des CG.,Gold
+EX00534,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 35 des CG.,VIP
+EX00535,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 32 des CG.,Eco+
+EX00536,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 24 des CG.,Business
+EX00537,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 14 des CG.,Eco
+EX00538,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 28 des CG.,Silver+
+EX00539,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 1 des CG.,Business
+EX00540,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 30 des CG.,Eco
+EX00541,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 27 des CG.,Gold
+EX00542,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 32 des CG.,Premium
+EX00543,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 13 des CG.,Silver
+EX00544,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 3 des CG.,Gold
+EX00545,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 1 des CG.,Eco+
+EX00546,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 38 des CG.,Bronze
+EX00547,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 10 des CG.,VIP
+EX00548,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 36 des CG.,Bronze
+EX00549,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 9 des CG.,Business
+EX00550,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 32 des CG.,Gold
+EX00551,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 17 des CG.,Eco
+EX00552,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 8 des CG.,Silver
+EX00553,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 43 des CG.,Bronze
+EX00554,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 34 des CG.,Silver+
+EX00555,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 7 des CG.,Eco+
+EX00556,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 45 des CG.,Gold+
+EX00557,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 24 des CG.,Eco
+EX00558,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 34 des CG.,Gold
+EX00559,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 19 des CG.,VIP
+EX00560,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 9 des CG.,Gold+
+EX00561,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 30 des CG.,Business
+EX00562,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 40 des CG.,Eco
+EX00563,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 17 des CG.,Bronze
+EX00564,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 13 des CG.,Eco+
+EX00565,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 21 des CG.,Bronze
+EX00566,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 29 des CG.,Eco+
+EX00567,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 2 des CG.,Silver
+EX00568,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 1 des CG.,Gold
+EX00569,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 17 des CG.,Silver
+EX00570,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 14 des CG.,VIP
+EX00571,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 31 des CG.,Business
+EX00572,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 29 des CG.,Gold
+EX00573,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 45 des CG.,Silver
+EX00574,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 27 des CG.,Business
+EX00575,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 15 des CG.,Gold
+EX00576,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 30 des CG.,Silver
+EX00577,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 20 des CG.,Gold+
+EX00578,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 43 des CG.,Silver+
+EX00579,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 20 des CG.,Bronze
+EX00580,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 29 des CG.,Gold+
+EX00581,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 40 des CG.,Tous
+EX00582,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 17 des CG.,VIP
+EX00583,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 27 des CG.,Silver+
+EX00584,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 27 des CG.,Tous
+EX00585,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 38 des CG.,Gold+
+EX00586,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 45 des CG.,Bronze
+EX00587,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 7 des CG.,Gold
+EX00588,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 2 des CG.,Premium
+EX00589,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 43 des CG.,Gold
+EX00590,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 45 des CG.,VIP
+EX00591,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 30 des CG.,Gold
+EX00592,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 5 des CG.,Silver
+EX00593,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 24 des CG.,Silver+
+EX00594,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 37 des CG.,Premium
+EX00595,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 12 des CG.,Gold+
+EX00596,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 40 des CG.,Eco
+EX00597,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 37 des CG.,Gold
+EX00598,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 39 des CG.,Gold
+EX00599,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 3 des CG.,Eco
+EX00600,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 11 des CG.,Eco
+EX00601,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 23 des CG.,VIP
+EX00602,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 28 des CG.,Gold+
+EX00603,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 33 des CG.,Eco
+EX00604,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 41 des CG.,Gold
+EX00605,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 24 des CG.,Premium
+EX00606,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 43 des CG.,Silver
+EX00607,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 43 des CG.,Tous
+EX00608,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 40 des CG.,Business
+EX00609,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 26 des CG.,VIP
+EX00610,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 42 des CG.,Gold+
+EX00611,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 7 des CG.,VIP
+EX00612,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 36 des CG.,VIP
+EX00613,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 38 des CG.,Eco+
+EX00614,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 11 des CG.,Tous
+EX00615,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 3 des CG.,VIP
+EX00616,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 5 des CG.,Gold+
+EX00617,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 26 des CG.,Gold
+EX00618,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 11 des CG.,Silver
+EX00619,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 38 des CG.,Gold+
+EX00620,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 29 des CG.,Gold
+EX00621,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 6 des CG.,Business
+EX00622,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 7 des CG.,Eco+
+EX00623,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 10 des CG.,Gold+
+EX00624,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 39 des CG.,Bronze
+EX00625,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 29 des CG.,Silver
+EX00626,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 15 des CG.,Gold
+EX00627,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 36 des CG.,Premium
+EX00628,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 31 des CG.,Eco
+EX00629,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 29 des CG.,Premium
+EX00630,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 43 des CG.,VIP
+EX00631,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 25 des CG.,VIP
+EX00632,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 39 des CG.,Silver
+EX00633,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 5 des CG.,Eco
+EX00634,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 16 des CG.,Premium
+EX00635,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 24 des CG.,Business
+EX00636,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 27 des CG.,Premium
+EX00637,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 32 des CG.,Bronze
+EX00638,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 13 des CG.,Gold+
+EX00639,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 24 des CG.,Eco
+EX00640,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 19 des CG.,Gold
+EX00641,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 43 des CG.,Eco
+EX00642,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 8 des CG.,Gold+
+EX00643,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 20 des CG.,Eco
+EX00644,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 16 des CG.,VIP
+EX00645,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 40 des CG.,Eco+
+EX00646,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 37 des CG.,Eco+
+EX00647,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 29 des CG.,Business
+EX00648,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 20 des CG.,VIP
+EX00649,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 25 des CG.,Eco
+EX00650,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 43 des CG.,Bronze
+EX00651,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 2 des CG.,Bronze
+EX00652,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 11 des CG.,Eco
+EX00653,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 34 des CG.,Premium
+EX00654,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 13 des CG.,Bronze
+EX00655,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 3 des CG.,Premium
+EX00656,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 11 des CG.,Premium
+EX00657,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 39 des CG.,Tous
+EX00658,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 19 des CG.,Silver
+EX00659,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 15 des CG.,Eco
+EX00660,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 8 des CG.,Silver
+EX00661,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 33 des CG.,VIP
+EX00662,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 11 des CG.,Bronze
+EX00663,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 1 des CG.,Business
+EX00664,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 22 des CG.,VIP
+EX00665,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 35 des CG.,Tous
+EX00666,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 14 des CG.,Eco
+EX00667,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 23 des CG.,Tous
+EX00668,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 24 des CG.,Eco
+EX00669,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 12 des CG.,Tous
+EX00670,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 19 des CG.,Bronze
+EX00671,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 12 des CG.,Silver+
+EX00672,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 24 des CG.,Eco+
+EX00673,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 25 des CG.,Gold
+EX00674,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 39 des CG.,Silver+
+EX00675,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 5 des CG.,Tous
+EX00676,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 25 des CG.,Premium
+EX00677,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 26 des CG.,Gold
+EX00678,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 43 des CG.,Eco
+EX00679,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 43 des CG.,Gold+
+EX00680,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 43 des CG.,Eco+
+EX00681,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 20 des CG.,Premium
+EX00682,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 6 des CG.,Eco
+EX00683,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 3 des CG.,Gold
+EX00684,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 34 des CG.,Gold
+EX00685,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 43 des CG.,Gold
+EX00686,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 45 des CG.,Bronze
+EX00687,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 34 des CG.,Premium
+EX00688,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 12 des CG.,Eco+
+EX00689,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 42 des CG.,VIP
+EX00690,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 35 des CG.,Tous
+EX00691,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 26 des CG.,VIP
+EX00692,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 8 des CG.,Silver
+EX00693,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 3 des CG.,Tous
+EX00694,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 21 des CG.,Eco
+EX00695,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 28 des CG.,Bronze
+EX00696,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 16 des CG.,Premium
+EX00697,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 24 des CG.,VIP
+EX00698,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 4 des CG.,Silver
+EX00699,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 2 des CG.,Gold+
+EX00700,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 11 des CG.,Silver
+EX00701,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 25 des CG.,Business
+EX00702,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 24 des CG.,VIP
+EX00703,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 25 des CG.,Silver
+EX00704,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 8 des CG.,Gold
+EX00705,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 12 des CG.,Premium
+EX00706,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 16 des CG.,Silver+
+EX00707,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 15 des CG.,Business
+EX00708,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 36 des CG.,Gold
+EX00709,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 22 des CG.,VIP
+EX00710,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 6 des CG.,Gold+
+EX00711,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 1 des CG.,Silver
+EX00712,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 30 des CG.,Bronze
+EX00713,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 24 des CG.,Business
+EX00714,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 20 des CG.,VIP
+EX00715,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 3 des CG.,Business
+EX00716,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 38 des CG.,Business
+EX00717,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 38 des CG.,Gold+
+EX00718,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 4 des CG.,Bronze
+EX00719,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 17 des CG.,Eco
+EX00720,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 33 des CG.,Silver
+EX00721,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 36 des CG.,Tous
+EX00722,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 13 des CG.,Premium
+EX00723,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 4 des CG.,VIP
+EX00724,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 21 des CG.,Eco+
+EX00725,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 10 des CG.,Silver+
+EX00726,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 40 des CG.,Business
+EX00727,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 7 des CG.,Bronze
+EX00728,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 15 des CG.,Bronze
+EX00729,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 23 des CG.,Tous
+EX00730,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 42 des CG.,Business
+EX00731,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 39 des CG.,Premium
+EX00732,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 43 des CG.,Gold
+EX00733,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 42 des CG.,Premium
+EX00734,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 34 des CG.,Gold+
+EX00735,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 36 des CG.,Gold+
+EX00736,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 24 des CG.,Gold
+EX00737,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 26 des CG.,Eco+
+EX00738,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 10 des CG.,Eco
+EX00739,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 14 des CG.,Business
+EX00740,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 2 des CG.,Business
+EX00741,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 43 des CG.,Tous
+EX00742,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 8 des CG.,Tous
+EX00743,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 37 des CG.,VIP
+EX00744,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 23 des CG.,Silver
+EX00745,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 29 des CG.,Silver
+EX00746,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 5 des CG.,Tous
+EX00747,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 24 des CG.,Gold+
+EX00748,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 1 des CG.,Bronze
+EX00749,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 23 des CG.,Business
+EX00750,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 26 des CG.,Bronze
+EX00751,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 21 des CG.,Business
+EX00752,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 30 des CG.,Eco
+EX00753,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 37 des CG.,Silver+
+EX00754,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 12 des CG.,Eco
+EX00755,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 22 des CG.,Gold+
+EX00756,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 41 des CG.,Silver
+EX00757,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 17 des CG.,VIP
+EX00758,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 31 des CG.,Gold+
+EX00759,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 40 des CG.,Eco
+EX00760,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 3 des CG.,Tous
+EX00761,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 27 des CG.,Business
+EX00762,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 13 des CG.,Tous
+EX00763,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 14 des CG.,Premium
+EX00764,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 41 des CG.,Gold
+EX00765,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 45 des CG.,VIP
+EX00766,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 39 des CG.,VIP
+EX00767,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 38 des CG.,Silver+
+EX00768,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 40 des CG.,Premium
+EX00769,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 31 des CG.,Eco
+EX00770,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 37 des CG.,Tous
+EX00771,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 13 des CG.,Bronze
+EX00772,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 26 des CG.,Premium
+EX00773,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 44 des CG.,Eco+
+EX00774,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 20 des CG.,Business
+EX00775,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 10 des CG.,Silver
+EX00776,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 3 des CG.,Gold
+EX00777,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 35 des CG.,Silver+
+EX00778,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 25 des CG.,Eco+
+EX00779,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 26 des CG.,Silver+
+EX00780,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 32 des CG.,Business
+EX00781,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 22 des CG.,Tous
+EX00782,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 40 des CG.,Bronze
+EX00783,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 2 des CG.,Business
+EX00784,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 9 des CG.,Eco+
+EX00785,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 4 des CG.,Bronze
+EX00786,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 1 des CG.,Tous
+EX00787,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 37 des CG.,Silver+
+EX00788,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 27 des CG.,Eco
+EX00789,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 42 des CG.,Premium
+EX00790,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 24 des CG.,Eco
+EX00791,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 38 des CG.,Gold+
+EX00792,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 23 des CG.,Gold+
+EX00793,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 42 des CG.,VIP
+EX00794,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 45 des CG.,Silver+
+EX00795,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 7 des CG.,Gold+
+EX00796,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 14 des CG.,VIP
+EX00797,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 18 des CG.,Tous
+EX00798,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 37 des CG.,Silver+
+EX00799,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 2 des CG.,Silver+
+EX00800,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 29 des CG.,Bronze
+EX00801,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 23 des CG.,Eco
+EX00802,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 11 des CG.,Business
+EX00803,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 23 des CG.,Bronze
+EX00804,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 45 des CG.,Premium
+EX00805,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 7 des CG.,Tous
+EX00806,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 12 des CG.,Business
+EX00807,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 38 des CG.,Gold
+EX00808,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 34 des CG.,VIP
+EX00809,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 17 des CG.,Eco
+EX00810,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 36 des CG.,Gold
+EX00811,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 30 des CG.,Silver+
+EX00812,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 27 des CG.,VIP
+EX00813,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 41 des CG.,Bronze
+EX00814,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 32 des CG.,VIP
+EX00815,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 16 des CG.,Premium
+EX00816,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 11 des CG.,Eco
+EX00817,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 4 des CG.,Eco
+EX00818,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 40 des CG.,Tous
+EX00819,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 28 des CG.,Premium
+EX00820,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 37 des CG.,VIP
+EX00821,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 11 des CG.,Eco
+EX00822,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 15 des CG.,Premium
+EX00823,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 3 des CG.,Gold
+EX00824,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 41 des CG.,Silver+
+EX00825,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 5 des CG.,Silver+
+EX00826,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 43 des CG.,Business
+EX00827,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 6 des CG.,Silver+
+EX00828,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 27 des CG.,Tous
+EX00829,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 12 des CG.,VIP
+EX00830,Conduite sous l'emprise de l'alcool ou de stupéfiants,Conduite,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 36 des CG.,Silver+
+EX00831,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 10 des CG.,Gold+
+EX00832,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 4 des CG.,Gold+
+EX00833,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 30 des CG.,Silver
+EX00834,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 43 des CG.,Gold+
+EX00835,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 12 des CG.,Gold
+EX00836,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 17 des CG.,VIP
+EX00837,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 29 des CG.,Tous
+EX00838,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 38 des CG.,Eco+
+EX00839,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 19 des CG.,Premium
+EX00840,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 17 des CG.,Premium
+EX00841,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 35 des CG.,Tous
+EX00842,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 30 des CG.,Gold
+EX00843,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 39 des CG.,Business
+EX00844,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 7 des CG.,Business
+EX00845,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 36 des CG.,Eco+
+EX00846,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 7 des CG.,Bronze
+EX00847,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 12 des CG.,Tous
+EX00848,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 29 des CG.,Silver
+EX00849,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 24 des CG.,Eco
+EX00850,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 25 des CG.,Bronze
+EX00851,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 15 des CG.,Eco
+EX00852,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 44 des CG.,Gold
+EX00853,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 40 des CG.,Bronze
+EX00854,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 42 des CG.,Eco+
+EX00855,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 5 des CG.,Business
+EX00856,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 4 des CG.,Business
+EX00857,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 42 des CG.,Silver+
+EX00858,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 33 des CG.,Silver+
+EX00859,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 42 des CG.,Silver+
+EX00860,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 4 des CG.,Business
+EX00861,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 39 des CG.,VIP
+EX00862,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 44 des CG.,Tous
+EX00863,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 22 des CG.,Eco
+EX00864,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 9 des CG.,Premium
+EX00865,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 2 des CG.,Gold
+EX00866,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 25 des CG.,Bronze
+EX00867,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 22 des CG.,Business
+EX00868,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 30 des CG.,Gold
+EX00869,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 21 des CG.,Premium
+EX00870,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 6 des CG.,VIP
+EX00871,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 30 des CG.,Business
+EX00872,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 10 des CG.,Gold
+EX00873,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 43 des CG.,Silver
+EX00874,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 8 des CG.,Bronze
+EX00875,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 7 des CG.,VIP
+EX00876,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 35 des CG.,Silver+
+EX00877,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 39 des CG.,Gold+
+EX00878,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 4 des CG.,Bronze
+EX00879,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 25 des CG.,Silver
+EX00880,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 8 des CG.,Bronze
+EX00881,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 10 des CG.,Silver+
+EX00882,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 41 des CG.,Gold
+EX00883,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 33 des CG.,Tous
+EX00884,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 35 des CG.,VIP
+EX00885,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 10 des CG.,Premium
+EX00886,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 5 des CG.,Silver+
+EX00887,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 2 des CG.,Tous
+EX00888,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 39 des CG.,Business
+EX00889,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 1 des CG.,Business
+EX00890,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 15 des CG.,Gold+
+EX00891,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 27 des CG.,VIP
+EX00892,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 44 des CG.,Gold
+EX00893,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 21 des CG.,Eco
+EX00894,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 13 des CG.,Business
+EX00895,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 32 des CG.,Eco+
+EX00896,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 31 des CG.,Eco+
+EX00897,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 34 des CG.,Gold+
+EX00898,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 17 des CG.,VIP
+EX00899,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 15 des CG.,Gold
+EX00900,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 1 des CG.,Premium
+EX00901,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 42 des CG.,Silver
+EX00902,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 40 des CG.,Gold+
+EX00903,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 16 des CG.,Silver
+EX00904,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 18 des CG.,Bronze
+EX00905,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 39 des CG.,Tous
+EX00906,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 43 des CG.,Gold
+EX00907,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 13 des CG.,Business
+EX00908,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 41 des CG.,VIP
+EX00909,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 30 des CG.,Premium
+EX00910,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 32 des CG.,Bronze
+EX00911,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 33 des CG.,Premium
+EX00912,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 24 des CG.,Eco+
+EX00913,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 26 des CG.,Gold
+EX00914,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 7 des CG.,Bronze
+EX00915,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 41 des CG.,Silver+
+EX00916,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 10 des CG.,Premium
+EX00917,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 36 des CG.,Eco+
+EX00918,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 44 des CG.,Eco+
+EX00919,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 19 des CG.,Gold+
+EX00920,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 4 des CG.,Premium
+EX00921,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 37 des CG.,Gold+
+EX00922,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 5 des CG.,Premium
+EX00923,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 10 des CG.,Business
+EX00924,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 9 des CG.,Silver
+EX00925,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 36 des CG.,Premium
+EX00926,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 13 des CG.,Eco
+EX00927,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 32 des CG.,Bronze
+EX00928,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 12 des CG.,Silver
+EX00929,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 10 des CG.,Silver
+EX00930,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 26 des CG.,Silver+
+EX00931,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 41 des CG.,Gold+
+EX00932,Dommages survenus hors territoire marocain non couvert,Conduite,Dommages survenus hors territoire marocain non couvert. Voir article 37 des CG.,Eco+
+EX00933,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 12 des CG.,Tous
+EX00934,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 30 des CG.,Business
+EX00935,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 38 des CG.,Gold
+EX00936,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 39 des CG.,VIP
+EX00937,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 4 des CG.,Eco+
+EX00938,Modification non déclarée du véhicule,Usage,Modification non déclarée du véhicule. Voir article 35 des CG.,Business
+EX00939,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 20 des CG.,Silver+
+EX00940,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 45 des CG.,Tous
+EX00941,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 4 des CG.,VIP
+EX00942,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 8 des CG.,Gold
+EX00943,Usure normale et défaut d'entretien,Usage,Usure normale et défaut d'entretien. Voir article 41 des CG.,Gold
+EX00944,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 21 des CG.,Premium
+EX00945,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 15 des CG.,Premium
+EX00946,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 16 des CG.,Premium
+EX00947,Sinistre survenu pendant une période de suspension,Usage,Sinistre survenu pendant une période de suspension. Voir article 8 des CG.,VIP
+EX00948,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 31 des CG.,Eco
+EX00949,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 31 des CG.,Business
+EX00950,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 11 des CG.,Premium
+EX00951,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 34 des CG.,Premium
+EX00952,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 29 des CG.,Eco
+EX00953,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 42 des CG.,Eco
+EX00954,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 39 des CG.,Business
+EX00955,Transport de matières dangereuses non autorisé,Usage,Transport de matières dangereuses non autorisé. Voir article 8 des CG.,Eco
+EX00956,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 34 des CG.,Business
+EX00957,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 20 des CG.,Gold+
+EX00958,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 13 des CG.,Silver+
+EX00959,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 18 des CG.,Business
+EX00960,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 15 des CG.,Business
+EX00961,Usage du véhicule en compétition ou sur circuit,Conduite,Usage du véhicule en compétition ou sur circuit. Voir article 9 des CG.,Gold+
+EX00962,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 15 des CG.,Premium
+EX00963,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 25 des CG.,Eco
+EX00964,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 19 des CG.,Premium
+EX00965,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 24 des CG.,Gold
+EX00966,Dommages intentionnels causés par l'assuré,Territorial,Dommages intentionnels causés par l'assuré. Voir article 42 des CG.,Bronze
+EX00967,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 9 des CG.,Gold
+EX00968,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 27 des CG.,Gold
+EX00969,Dépassement de la limite kilométrique contractuelle,Usage,Dépassement de la limite kilométrique contractuelle. Voir article 31 des CG.,Business
+EX00970,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 8 des CG.,Premium
+EX00971,Usage du véhicule en compétition ou sur circuit,Territorial,Usage du véhicule en compétition ou sur circuit. Voir article 15 des CG.,Bronze
+EX00972,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 13 des CG.,Tous
+EX00973,Usure normale et défaut d'entretien,Administratif,Usure normale et défaut d'entretien. Voir article 30 des CG.,Gold
+EX00974,Conduite par une personne non déclarée au contrat,Territorial,Conduite par une personne non déclarée au contrat. Voir article 29 des CG.,Business
+EX00975,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 20 des CG.,Silver
+EX00976,Dommages intentionnels causés par l'assuré,Usage,Dommages intentionnels causés par l'assuré. Voir article 31 des CG.,Silver+
+EX00977,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 29 des CG.,Gold
+EX00978,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 5 des CG.,Business
+EX00979,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 40 des CG.,Bronze
+EX00980,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 41 des CG.,Gold
+EX00981,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 22 des CG.,Premium
+EX00982,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 26 des CG.,Business
+EX00983,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 3 des CG.,Eco
+EX00984,Conduite par une personne non déclarée au contrat,Administratif,Conduite par une personne non déclarée au contrat. Voir article 16 des CG.,VIP
+EX00985,Transport de matières dangereuses non autorisé,Conduite,Transport de matières dangereuses non autorisé. Voir article 31 des CG.,Silver
+EX00986,Dommages intentionnels causés par l'assuré,Administratif,Dommages intentionnels causés par l'assuré. Voir article 29 des CG.,Premium
+EX00987,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 43 des CG.,Silver
+EX00988,Modification non déclarée du véhicule,Conduite,Modification non déclarée du véhicule. Voir article 10 des CG.,Tous
+EX00989,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 32 des CG.,Gold+
+EX00990,Conduite sous l'emprise de l'alcool ou de stupéfiants,Territorial,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 42 des CG.,Bronze
+EX00991,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 28 des CG.,Bronze
+EX00992,Dommages survenus hors territoire marocain non couvert,Usage,Dommages survenus hors territoire marocain non couvert. Voir article 6 des CG.,Silver+
+EX00993,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 9 des CG.,Gold
+EX00994,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 36 des CG.,Tous
+EX00995,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 22 des CG.,Gold
+EX00996,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 16 des CG.,Premium
+EX00997,Sinistre survenu pendant une période de suspension,Territorial,Sinistre survenu pendant une période de suspension. Voir article 10 des CG.,Eco+
+EX00998,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 15 des CG.,Tous
+EX00999,Dépassement de la limite kilométrique contractuelle,Territorial,Dépassement de la limite kilométrique contractuelle. Voir article 31 des CG.,Tous
+EX01000,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 32 des CG.,Business
+EX01001,Usage du véhicule en compétition ou sur circuit,Administratif,Usage du véhicule en compétition ou sur circuit. Voir article 41 des CG.,Premium
+EX01002,Dommages survenus hors territoire marocain non couvert,Territorial,Dommages survenus hors territoire marocain non couvert. Voir article 39 des CG.,Tous
+EX01003,Usure normale et défaut d'entretien,Territorial,Usure normale et défaut d'entretien. Voir article 35 des CG.,Silver+
+EX01004,Conduite par une personne non déclarée au contrat,Conduite,Conduite par une personne non déclarée au contrat. Voir article 19 des CG.,Business
+EX01005,Transport de matières dangereuses non autorisé,Territorial,Transport de matières dangereuses non autorisé. Voir article 4 des CG.,Gold
+EX01006,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 44 des CG.,Premium
+EX01007,Sinistre survenu pendant une période de suspension,Conduite,Sinistre survenu pendant une période de suspension. Voir article 23 des CG.,Premium
+EX01008,Modification non déclarée du véhicule,Administratif,Modification non déclarée du véhicule. Voir article 14 des CG.,Business
+EX01009,Dépassement de la limite kilométrique contractuelle,Conduite,Dépassement de la limite kilométrique contractuelle. Voir article 27 des CG.,VIP
+EX01010,Conduite sous l'emprise de l'alcool ou de stupéfiants,Usage,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 44 des CG.,Silver
+EX01011,Usage du véhicule en compétition ou sur circuit,Usage,Usage du véhicule en compétition ou sur circuit. Voir article 44 des CG.,Eco+
+EX01012,Dommages survenus hors territoire marocain non couvert,Administratif,Dommages survenus hors territoire marocain non couvert. Voir article 45 des CG.,Business
+EX01013,Usure normale et défaut d'entretien,Conduite,Usure normale et défaut d'entretien. Voir article 11 des CG.,Eco+
+EX01014,Conduite par une personne non déclarée au contrat,Usage,Conduite par une personne non déclarée au contrat. Voir article 38 des CG.,Silver+
+EX01015,Transport de matières dangereuses non autorisé,Administratif,Transport de matières dangereuses non autorisé. Voir article 21 des CG.,Bronze
+EX01016,Dommages intentionnels causés par l'assuré,Conduite,Dommages intentionnels causés par l'assuré. Voir article 11 des CG.,Gold+
+EX01017,Sinistre survenu pendant une période de suspension,Administratif,Sinistre survenu pendant une période de suspension. Voir article 8 des CG.,Silver+
+EX01018,Modification non déclarée du véhicule,Territorial,Modification non déclarée du véhicule. Voir article 3 des CG.,Gold
+EX01019,Dépassement de la limite kilométrique contractuelle,Administratif,Dépassement de la limite kilométrique contractuelle. Voir article 39 des CG.,Gold+
+EX01020,Conduite sous l'emprise de l'alcool ou de stupéfiants,Administratif,Conduite sous l'emprise de l'alcool ou de stupéfiants. Voir article 21 des CG.,Silver

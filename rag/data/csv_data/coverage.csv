@@ -1,0 +1,121 @@
+﻿CoverageID,Pack,Garantie,Incluse,Niveau
+COV0001,Eco,ResponsabiliteCivile,False,Non inclus
+COV0002,Eco,Vol,False,Non inclus
+COV0003,Eco,Incendie,False,Non inclus
+COV0004,Eco,BrisDeGlace,False,Non inclus
+COV0005,Eco,CatastrophesNaturelles,False,Non inclus
+COV0006,Eco,DommagesCollision,False,Non inclus
+COV0007,Eco,TousRisques,False,Non inclus
+COV0008,Eco,Assistance,True,Complet
+COV0009,Eco,Remorquage,False,Non inclus
+COV0010,Eco,VehiculeRemplacement,False,Non inclus
+COV0011,Eco,ProtectionConducteur,False,Non inclus
+COV0012,Eco,ProtectionJuridique,False,Non inclus
+COV0013,Eco+,ResponsabiliteCivile,True,Complet
+COV0014,Eco+,Vol,False,Non inclus
+COV0015,Eco+,Incendie,False,Non inclus
+COV0016,Eco+,BrisDeGlace,True,Complet
+COV0017,Eco+,CatastrophesNaturelles,False,Non inclus
+COV0018,Eco+,DommagesCollision,False,Non inclus
+COV0019,Eco+,TousRisques,False,Non inclus
+COV0020,Eco+,Assistance,True,Complet
+COV0021,Eco+,Remorquage,True,Complet
+COV0022,Eco+,VehiculeRemplacement,False,Non inclus
+COV0023,Eco+,ProtectionConducteur,False,Non inclus
+COV0024,Eco+,ProtectionJuridique,False,Non inclus
+COV0025,Bronze,ResponsabiliteCivile,True,Complet
+COV0026,Bronze,Vol,False,Non inclus
+COV0027,Bronze,Incendie,True,Complet
+COV0028,Bronze,BrisDeGlace,True,Complet
+COV0029,Bronze,CatastrophesNaturelles,False,Non inclus
+COV0030,Bronze,DommagesCollision,False,Non inclus
+COV0031,Bronze,TousRisques,False,Non inclus
+COV0032,Bronze,Assistance,True,Complet
+COV0033,Bronze,Remorquage,True,Complet
+COV0034,Bronze,VehiculeRemplacement,False,Non inclus
+COV0035,Bronze,ProtectionConducteur,False,Non inclus
+COV0036,Bronze,ProtectionJuridique,False,Non inclus
+COV0037,Silver,ResponsabiliteCivile,True,Complet
+COV0038,Silver,Vol,True,Complet
+COV0039,Silver,Incendie,True,Complet
+COV0040,Silver,BrisDeGlace,True,Complet
+COV0041,Silver,CatastrophesNaturelles,False,Non inclus
+COV0042,Silver,DommagesCollision,True,Complet
+COV0043,Silver,TousRisques,False,Non inclus
+COV0044,Silver,Assistance,True,Complet
+COV0045,Silver,Remorquage,True,Complet
+COV0046,Silver,VehiculeRemplacement,False,Non inclus
+COV0047,Silver,ProtectionConducteur,True,Complet
+COV0048,Silver,ProtectionJuridique,False,Non inclus
+COV0049,Silver+,ResponsabiliteCivile,True,Complet
+COV0050,Silver+,Vol,True,Complet
+COV0051,Silver+,Incendie,True,Complet
+COV0052,Silver+,BrisDeGlace,True,Complet
+COV0053,Silver+,CatastrophesNaturelles,True,Complet
+COV0054,Silver+,DommagesCollision,True,Complet
+COV0055,Silver+,TousRisques,False,Non inclus
+COV0056,Silver+,Assistance,True,Complet
+COV0057,Silver+,Remorquage,True,Complet
+COV0058,Silver+,VehiculeRemplacement,True,Complet
+COV0059,Silver+,ProtectionConducteur,True,Complet
+COV0060,Silver+,ProtectionJuridique,False,Non inclus
+COV0061,Gold,ResponsabiliteCivile,True,Complet
+COV0062,Gold,Vol,True,Complet
+COV0063,Gold,Incendie,True,Complet
+COV0064,Gold,BrisDeGlace,True,Complet
+COV0065,Gold,CatastrophesNaturelles,True,Complet
+COV0066,Gold,DommagesCollision,True,Complet
+COV0067,Gold,TousRisques,True,Complet
+COV0068,Gold,Assistance,True,Complet
+COV0069,Gold,Remorquage,True,Complet
+COV0070,Gold,VehiculeRemplacement,True,Complet
+COV0071,Gold,ProtectionConducteur,True,Complet
+COV0072,Gold,ProtectionJuridique,True,Complet
+COV0073,Gold+,ResponsabiliteCivile,True,Complet
+COV0074,Gold+,Vol,True,Complet
+COV0075,Gold+,Incendie,True,Complet
+COV0076,Gold+,BrisDeGlace,True,Complet
+COV0077,Gold+,CatastrophesNaturelles,True,Complet
+COV0078,Gold+,DommagesCollision,True,Complet
+COV0079,Gold+,TousRisques,True,Complet
+COV0080,Gold+,Assistance,True,Complet
+COV0081,Gold+,Remorquage,True,Complet
+COV0082,Gold+,VehiculeRemplacement,True,Complet
+COV0083,Gold+,ProtectionConducteur,True,Complet
+COV0084,Gold+,ProtectionJuridique,True,Complet
+COV0085,Premium,ResponsabiliteCivile,True,Complet
+COV0086,Premium,Vol,True,Complet
+COV0087,Premium,Incendie,True,Complet
+COV0088,Premium,BrisDeGlace,True,Complet
+COV0089,Premium,CatastrophesNaturelles,True,Complet
+COV0090,Premium,DommagesCollision,True,Complet
+COV0091,Premium,TousRisques,True,Complet
+COV0092,Premium,Assistance,True,Complet
+COV0093,Premium,Remorquage,True,Complet
+COV0094,Premium,VehiculeRemplacement,True,Complet
+COV0095,Premium,ProtectionConducteur,True,Complet
+COV0096,Premium,ProtectionJuridique,True,Complet
+COV0097,Business,ResponsabiliteCivile,True,Complet
+COV0098,Business,Vol,True,Complet
+COV0099,Business,Incendie,True,Complet
+COV0100,Business,BrisDeGlace,True,Complet
+COV0101,Business,CatastrophesNaturelles,True,Complet
+COV0102,Business,DommagesCollision,True,Complet
+COV0103,Business,TousRisques,True,Complet
+COV0104,Business,Assistance,True,Complet
+COV0105,Business,Remorquage,True,Complet
+COV0106,Business,VehiculeRemplacement,True,Complet
+COV0107,Business,ProtectionConducteur,True,Complet
+COV0108,Business,ProtectionJuridique,True,Complet
+COV0109,VIP,ResponsabiliteCivile,True,Complet
+COV0110,VIP,Vol,True,Complet
+COV0111,VIP,Incendie,True,Complet
+COV0112,VIP,BrisDeGlace,True,Complet
+COV0113,VIP,CatastrophesNaturelles,True,Complet
+COV0114,VIP,DommagesCollision,True,Complet
+COV0115,VIP,TousRisques,True,Complet
+COV0116,VIP,Assistance,True,Complet
+COV0117,VIP,Remorquage,True,Complet
+COV0118,VIP,VehiculeRemplacement,True,Complet
+COV0119,VIP,ProtectionConducteur,True,Complet
+COV0120,VIP,ProtectionJuridique,True,Complet

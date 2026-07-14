@@ -1,0 +1,3 @@
+rag/data/vector_store/
+rag/processed_files.json
+rag/.env

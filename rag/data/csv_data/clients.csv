@@ -1,0 +1,301 @@
+ClientID,Nom,Prenom,Sexe,Age,DateNaissance,Ville,CodePostal,Profession,SituationFamiliale,NombreEnfants,SalaireMensuel,Email,Telephone,DateInscription,AncienneteClient,ScoreFidelite,AnciennetePermis,TypePermis,BonusMalus,NombreSinistres5Ans,KilometrageAnnuel,GarageFerme,UsageVehicule,RiskScore
+CL000001,El Amrani,Amina,F,46,1980-05-25,Beni Mellal,23000,Étudiant,Pacsé(e),1,1953,sophie.elamrani1@outlook.ma,+2120500000001,2013-07-04,12,67.8,7,B,1.04,1,45000,False,Privé,75.9
+CL000002,Mernissi,Fatima,F,36,1990-09-05,Fès,30000,Cadre supérieur,Marié(e),2,12663,fatima.mernissi2@outlook.ma,+2120700000002,2016-11-01,9,63.1,6,B,0.82,0,12000,True,Privé,50.9
+CL000003,Idrissi,Imane,F,50,1976-03-22,Errachidia,52000,Cadre supérieur,Pacsé(e),0,23327,imane.idrissi3@yahoo.fr,+2120500000003,2024-06-17,1,6.3,17,B,0.75,1,45000,True,Privé-Travail,69.2
+CL000004,Ouazzani,Zineb,F,62,1964-03-22,Oujda,60000,Avocat,Veuf(ve),3,17991,zineb.ouazzani4@yahoo.fr,+2120500000004,2017-02-16,8,53.2,0,B,1.0,0,18000,False,Privé,53.9
+CL000005,Fassi,Ines,F,46,1980-01-11,Oujda,60000,Fonctionnaire,Marié(e),2,9588,ines.fassi5@hotmail.com,+2120700000005,2018-01-23,7,43.9,6,B,1.32,2,22000,True,Privé,78.3
+CL000006,Bernard,Jean,M,43,1983-02-27,Kénitra,14000,Commerçant,Célibataire,4,11915,jean.bernard6@proton.me,+2120600000006,2011-09-10,14,86.3,1,A,1.22,1,12000,False,Privé,66.0
+CL000007,Lahlou,Samir,M,31,1995-09-18,Khouribga,25000,Commerçant,Veuf(ve),4,8604,samir.lahlou7@live.ma,+2120600000007,2013-01-01,13,72.9,1,B,2.22,5,22000,False,Privé,100.0
+CL000008,Ziani,David,M,47,1979-03-15,Agadir,80000,Artisan,Divorcé(e),0,6030,david.ziani8@outlook.ma,+2120700000008,2020-11-04,5,29.6,5,B,0.85,0,15000,True,Privé,50.6
+CL000009,Petit,Nabil,M,49,1977-06-13,Khouribga,25000,Agriculteur,Pacsé(e),2,5268,nabil.petit9@proton.me,+2120700000009,2012-04-25,13,76.6,0,B,1.0,0,28000,True,Privé-Travail,58.3
+CL000010,Dubois,Marie,F,46,1980-02-17,Kénitra,14000,Étudiant,Divorcé(e),3,2761,marie.dubois10@hotmail.com,+2120500000010,2017-11-30,8,40.1,1,B,0.97,0,35000,True,Privé,63.0
+CL000011,Dubois,Nabil,M,31,1995-05-07,Tanger,90000,Artisan,Marié(e),3,4455,nabil.dubois11@yahoo.fr,+2120500000011,2024-10-29,1,7.3,6,A,0.82,0,12000,True,Privé,52.4
+CL000012,Rodriguez,Jean,M,31,1995-07-01,Oujda,60000,Cadre supérieur,Pacsé(e),0,14211,jean.rodriguez12@live.ma,+2120600000012,2024-02-14,1,6.1,5,B,0.85,0,15000,True,Privé,49.4
+CL000013,Martin,Sophie,F,65,1961-11-01,Tétouan,93000,Médecin,Marié(e),1,18735,sophie.martin13@hotmail.com,+2120500000013,2020-10-20,5,27.9,6,B,1.07,1,45000,False,Privé-Travail,77.4
+CL000014,Simon,Sanae,F,26,2000-11-11,Beni Mellal,23000,Sans emploi,Célibataire,0,2783,sanae.simon14@outlook.ma,+2120500000014,2012-12-19,13,82.2,1,A,0.97,0,35000,True,Privé-Travail,61.5
+CL000015,Gonzalez,Tarik,M,51,1975-10-20,Rabat,10000,Architecte,Marié(e),4,15784,tarik.gonzalez15@live.ma,+2120600000015,2024-10-15,1,22.9,0,A,1.0,0,45000,False,Privé,70.4
+CL000016,Ziani,Thomas,M,32,1994-07-08,Khouribga,25000,Étudiant,Marié(e),2,1890,thomas.ziani16@hotmail.com,+2120600000016,2019-07-18,6,48.2,10,B,0.7,0,12000,True,Privé,45.8
+CL000017,Bennani,Houda,F,52,1974-01-23,Casablanca,20000,Pharmacien,Marié(e),2,17052,houda.bennani17@hotmail.com,+2120700000017,2024-09-06,1,7.1,4,A,0.88,0,35000,False,Privé,66.0
+CL000018,Sqalli,Latifa,F,61,1965-10-12,Essaouira,44000,Ingénieur,Pacsé(e),4,19519,latifa.sqalli18@hotmail.com,+2120600000018,2019-04-09,6,37.4,3,A,1.16,1,18000,True,VTC/Taxi,64.5
+CL000019,Laurent,Laura,F,20,2006-07-24,Tanger,90000,Avocat,Marié(e),0,24469,laura.laurent19@live.ma,+2120700000019,2012-04-01,13,80.7,2,B,1.19,1,15000,True,Privé,82.8
+CL000020,El Amrani,Marc,M,63,1963-03-16,Essaouira,44000,Retraité,Pacsé(e),0,3427,marc.elamrani20@proton.me,+2120700000020,2011-10-18,14,88.6,2,A,0.94,0,28000,False,Privé-Travail,57.1
+CL000021,Bernard,Emma,F,63,1963-01-25,Agadir,80000,Technicien,Célibataire,4,7050,emma.bernard21@live.ma,+2120500000021,2014-05-15,11,69.0,1,B,1.22,1,22000,False,Privé,69.5
+CL000022,Alaoui,Jean,M,51,1975-03-03,Kénitra,14000,Étudiant,Célibataire,0,1894,jean.alaoui22@gmail.com,+2120500000022,2021-08-12,4,25.7,3,B,1.16,1,18000,True,VTC/Taxi,66.3
+CL000023,Bernard,Laila,F,32,1994-04-15,Mohammedia,28800,Pharmacien,Célibataire,4,11252,laila.bernard23@yahoo.fr,+2120700000023,2022-07-13,3,33.9,1,B,0.97,0,12000,False,Professionnel,53.6
+CL000024,Kettani,Emma,F,44,1982-07-19,Khouribga,25000,Fonctionnaire,Veuf(ve),4,9841,emma.kettani24@gmail.com,+2120700000024,2025-04-15,0,2.3,21,B,0.5,0,45000,True,Privé-Travail,56.8
+CL000025,Laurent,Pierre,M,26,2000-04-26,Salé,11000,Retraité,Divorcé(e),1,6159,pierre.laurent25@yahoo.fr,+2120600000025,2025-09-20,0,8.0,4,B,1.13,1,8000,True,Privé,65.4
+CL000026,Amrani,Tarik,M,60,1966-06-07,Errachidia,52000,Ingénieur,Marié(e),1,11591,tarik.amrani26@proton.me,+2120600000026,2021-03-11,4,37.5,9,B,0.73,0,18000,True,Privé,47.3
+CL000027,Bernard,Antoine,M,50,1976-06-05,Fès,30000,Avocat,Célibataire,4,26882,antoine.bernard27@gmail.com,+2120700000027,2023-10-08,2,17.4,7,B,1.29,2,45000,True,Professionnel,91.3
+CL000028,Fassi,Samira,F,53,1973-09-09,Mohammedia,28800,Fonctionnaire,Pacsé(e),0,9800,samira.fassi28@live.ma,+2120700000028,2020-09-23,5,32.9,0,B,1.0,0,35000,True,VTC/Taxi,64.2
+CL000029,Laurent,Zineb,F,26,2000-01-01,Meknès,50000,Étudiant,Pacsé(e),2,2213,zineb.laurent29@outlook.ma,+2120700000029,2014-03-14,11,64.4,2,B,1.44,2,22000,True,Privé,81.3
+CL000030,Sqalli,Imane,F,46,1980-12-25,Nador,62000,Chauffeur taxi,Marié(e),4,7139,imane.sqalli30@proton.me,+2120600000030,2022-10-25,3,31.3,2,B,0.94,0,15000,True,Privé,51.5
+CL000031,Tazi,Imane,F,52,1974-12-05,Khouribga,25000,Employé de bureau,Divorcé(e),2,5353,imane.tazi31@live.ma,+2120500000031,2020-11-30,5,26.0,4,B,1.38,2,28000,False,Privé,81.9
+CL000032,Lahlou,Antoine,M,54,1972-08-27,Fès,30000,Agriculteur,Pacsé(e),2,4884,antoine.lahlou32@yahoo.fr,+2120600000032,2022-07-27,3,23.2,2,B,1.19,1,28000,False,VTC/Taxi,72.8
+CL000033,Martin,Adil,M,72,1954-11-21,Laâyoune,70000,Artisan,Pacsé(e),3,7620,adil.martin33@proton.me,+2120700000033,2025-02-05,0,17.8,2,A,0.94,0,28000,False,Privé,66.8
+CL000034,Fassi,Lucas,M,25,2001-11-26,Salé,11000,Retraité,Marié(e),2,5138,lucas.fassi34@outlook.ma,+2120700000034,2011-10-11,14,76.3,5,B,0.85,0,12000,False,Privé,51.8
+CL000035,Gonzalez,Houda,F,28,1998-08-25,Nador,62000,Pharmacien,Célibataire,1,17034,houda.gonzalez35@proton.me,+2120600000035,2014-02-15,11,68.2,3,B,1.16,1,15000,True,Privé,63.9
+CL000036,El Amrani,Hassan,M,49,1977-08-18,Rabat,10000,Employé de bureau,Divorcé(e),4,8057,hassan.elamrani36@outlook.ma,+2120600000036,2012-05-01,13,78.1,4,A,0.88,0,12000,True,Privé,53.0
+CL000037,Dubois,Loubna,F,43,1983-03-05,Settat,26000,Artisan,Veuf(ve),4,3959,loubna.dubois37@yahoo.fr,+2120500000037,2020-09-05,5,33.9,7,B,0.79,0,28000,False,Privé,54.4
+CL000038,Dubois,Najat,F,19,2007-11-18,Tétouan,93000,Chauffeur taxi,Divorcé(e),0,5704,najat.dubois38@yahoo.fr,+2120700000038,2019-11-29,6,35.2,1,B,0.97,0,12000,True,Privé,67.4
+CL000039,Berrada,Soufiane,M,47,1979-08-18,Casablanca,20000,Technicien,Divorcé(e),4,9540,soufiane.berrada39@outlook.ma,+2120600000039,2019-08-28,6,41.0,4,B,0.88,0,8000,True,Professionnel,56.0
+CL000040,Chraibi,Yasmine,F,47,1979-03-23,Mohammedia,28800,Étudiant,Pacsé(e),2,1708,yasmine.chraibi40@yahoo.fr,+2120500000040,2021-08-03,4,34.9,0,B,1.75,3,18000,True,Privé,94.7
+CL000041,Tazi,Omar,M,64,1962-05-04,Beni Mellal,23000,Sans emploi,Divorcé(e),0,2542,omar.tazi41@outlook.ma,+2120600000041,2014-03-19,11,74.4,8,B,0.76,0,45000,True,VTC/Taxi,62.3
+CL000042,Tazi,Houda,F,37,1989-12-15,Casablanca,20000,Fonctionnaire,Veuf(ve),2,6105,houda.tazi42@hotmail.com,+2120700000042,2017-09-01,8,49.3,0,B,1.0,0,18000,True,Privé,59.9
+CL000043,Lahlou,Ahmed,M,63,1963-07-03,Laâyoune,70000,Technicien,Célibataire,0,5789,ahmed.lahlou43@proton.me,+2120600000043,2018-07-23,7,42.7,15,A,1.8,5,22000,True,Privé-Travail,100.0
+CL000044,Kettani,Rachid,M,19,2007-12-25,Fès,30000,Comptable,Divorcé(e),0,9912,rachid.kettani44@yahoo.fr,+2120600000044,2025-04-14,0,12.6,1,B,1.72,3,35000,False,VTC/Taxi,100.0
+CL000045,Bensouda,Hamza,M,41,1985-11-10,Meknès,50000,Chauffeur taxi,Marié(e),3,7266,hamza.bensouda45@yahoo.fr,+2120600000045,2012-07-14,13,68.3,13,B,0.61,0,18000,False,Privé,46.7
+CL000046,Benali,Mohamed,M,73,1953-10-26,Khouribga,25000,Sans emploi,Veuf(ve),0,2021,mohamed.benali46@proton.me,+2120500000046,2013-07-15,12,66.8,9,B,0.98,1,18000,True,Privé,70.9
+CL000047,Mernissi,Thomas,M,63,1963-02-05,Khouribga,25000,Fonctionnaire,Marié(e),0,7373,thomas.mernissi47@proton.me,+2120700000047,2019-11-03,6,37.2,5,B,0.85,0,28000,True,Professionnel,55.3
+CL000048,Kettani,Emma,F,50,1976-09-10,Laâyoune,70000,Technicien,Veuf(ve),2,5829,emma.kettani48@live.ma,+2120500000048,2017-04-05,8,43.2,1,B,1.22,1,28000,True,Privé,70.4
+CL000049,Ouazzani,Latifa,F,29,1997-08-01,Settat,26000,Étudiant,Marié(e),2,2427,latifa.ouazzani49@proton.me,+2120600000049,2023-11-29,2,23.2,11,A,0.67,0,28000,True,Privé,52.0
+CL000050,Mernissi,Laura,F,61,1965-03-20,Tétouan,93000,Chauffeur VTC,Célibataire,0,6908,laura.mernissi50@outlook.ma,+2120600000050,2021-09-26,4,37.5,2,B,0.94,0,12000,True,Privé,51.8
+CL000051,Martin,Ahmed,M,50,1976-11-27,Mohammedia,28800,Technicien,Divorcé(e),1,7476,ahmed.martin51@live.ma,+2120500000051,2011-02-07,14,71.4,8,B,0.76,0,22000,False,Privé,52.9
+CL000052,Garcia,Bilal,M,38,1988-11-02,Nador,62000,Architecte,Célibataire,4,18306,bilal.garcia52@yahoo.fr,+2120500000052,2025-11-21,0,0.8,14,B,0.83,1,28000,True,Privé,63.8
+CL000053,Idrissi,Nabil,M,32,1994-02-24,Oujda,60000,Architecte,Marié(e),4,14545,nabil.idrissi53@proton.me,+2120500000053,2022-10-14,3,23.3,1,B,1.22,1,18000,False,Privé,66.3
+CL000054,Moreau,Emma,F,26,2000-07-04,Agadir,80000,Artisan,Pacsé(e),3,5967,emma.moreau54@yahoo.fr,+2120700000054,2021-12-22,4,31.0,4,B,1.38,2,15000,True,Privé,77.2
+CL000055,Simon,Nathalie,F,47,1979-06-20,Oujda,60000,Pharmacien,Veuf(ve),3,17311,nathalie.simon55@hotmail.com,+2120600000055,2018-01-28,7,49.5,3,B,0.91,0,22000,False,Privé,54.1
+CL000056,Alaoui,Mehdi,M,31,1995-05-08,Meknès,50000,Chauffeur VTC,Pacsé(e),4,5006,mehdi.alaoui56@live.ma,+2120500000056,2022-06-02,3,18.1,11,B,0.67,0,22000,True,Privé,49.9
+CL000057,Ouazzani,Hamza,M,49,1977-10-08,Oujda,60000,Ingénieur,Marié(e),0,17748,hamza.ouazzani57@proton.me,+2120700000057,2022-10-06,3,30.9,0,B,1.0,0,35000,True,Professionnel,62.4
+CL000058,Dubois,Mustapha,M,56,1970-05-02,Errachidia,52000,Étudiant,Veuf(ve),3,1509,mustapha.dubois58@gmail.com,+2120600000058,2017-10-21,8,55.0,0,B,1.0,0,28000,False,Privé-Travail,57.7
+CL000059,Berrada,Aicha,F,26,2000-09-02,Salé,11000,Architecte,Célibataire,3,16431,aicha.berrada59@hotmail.com,+2120500000059,2013-06-08,12,71.5,2,B,0.94,0,18000,True,Privé,55.1
+CL000060,Tazi,Nadia,F,34,1992-06-03,Khouribga,25000,Pharmacien,Veuf(ve),4,19547,nadia.tazi60@hotmail.com,+2120500000060,2011-11-28,14,72.6,5,B,0.85,0,22000,True,Privé,52.3
+CL000061,Dubois,Yasmine,F,53,1973-10-07,Laâyoune,70000,Sans emploi,Divorcé(e),3,3494,yasmine.dubois61@yahoo.fr,+2120500000061,2011-08-10,14,88.5,4,B,1.13,1,18000,True,Privé-Travail,63.6
+CL000062,Ouazzani,Sara,F,40,1986-04-11,Nador,62000,Sans emploi,Pacsé(e),3,2896,sara.ouazzani62@live.ma,+2120600000062,2017-11-04,8,48.8,9,B,0.73,0,15000,True,Privé-Travail,47.3
+CL000063,Simon,David,M,55,1971-02-04,Rabat,10000,Fonctionnaire,Divorcé(e),0,10914,david.simon63@yahoo.fr,+2120700000063,2010-04-23,15,84.4,17,B,0.5,0,22000,True,Privé-Travail,48.9
+CL000064,Mernissi,Rachid,M,41,1985-09-25,Kénitra,14000,Architecte,Célibataire,3,15571,rachid.mernissi64@live.ma,+2120500000064,2025-08-04,0,10.5,8,B,0.76,0,15000,True,Privé,48.8
+CL000065,Laurent,Marc,M,30,1996-10-09,Rabat,10000,Agriculteur,Divorcé(e),2,4633,marc.laurent65@gmail.com,+2120600000065,2024-10-23,1,10.8,0,A,1.5,2,35000,True,VTC/Taxi,91.4
+CL000066,Bensouda,Amine,M,30,1996-10-18,Marrakech,40000,Artisan,Marié(e),4,4615,amine.bensouda66@yahoo.fr,+2120700000066,2010-11-22,15,84.8,12,B,1.64,4,8000,True,Privé,100.0
+CL000067,Dubois,Sara,F,65,1961-05-08,Settat,26000,Ingénieur,Pacsé(e),2,17756,sara.dubois67@outlook.ma,+2120600000067,2010-08-30,15,81.8,6,A,1.32,2,35000,False,Privé,84.5
+CL000068,Moreau,Najat,F,28,1998-10-28,Oujda,60000,Retraité,Divorcé(e),3,3907,najat.moreau68@live.ma,+2120600000068,2023-07-31,2,14.1,1,B,1.22,1,22000,False,Privé,68.3
+CL000069,Tazi,Lucas,M,44,1982-05-23,Settat,26000,Commerçant,Pacsé(e),1,9009,lucas.tazi69@yahoo.fr,+2120600000069,2024-09-19,1,16.1,15,B,0.55,0,15000,True,Privé,43.1
+CL000070,Alaoui,Nicolas,M,49,1977-06-14,El Jadida,24000,Infirmier,Marié(e),0,6060,nicolas.alaoui70@outlook.ma,+2120600000070,2013-05-29,12,60.5,18,B,0.5,0,22000,False,Privé,45.9
+CL000071,Chraibi,Mustapha,M,22,2004-04-22,Casablanca,20000,Chauffeur taxi,Pacsé(e),0,4155,mustapha.chraibi71@hotmail.com,+2120500000071,2021-04-08,4,33.0,4,B,1.38,2,15000,True,Privé,97.0
+CL000072,Bennani,Omar,M,35,1991-04-02,El Jadida,24000,Employé de bureau,Marié(e),1,8760,omar.bennani72@gmail.com,+2120600000072,2025-01-21,0,18.5,17,A,0.5,0,18000,False,Privé,43.9
+CL000073,Gonzalez,Loubna,F,30,1996-04-14,Mohammedia,28800,Cadre supérieur,Pacsé(e),4,20259,loubna.gonzalez73@live.ma,+2120500000073,2018-11-03,7,45.5,11,B,0.92,1,28000,False,Privé,67.1
+CL000074,Gonzalez,Nathalie,F,20,2006-01-08,Settat,26000,Architecte,Célibataire,0,14653,nathalie.gonzalez74@outlook.ma,+2120700000074,2021-07-30,4,28.8,2,B,1.44,2,35000,True,Privé,100.0
+CL000075,Bernard,Meriem,F,35,1991-01-23,Settat,26000,Commerçant,Célibataire,1,9220,meriem.bernard75@live.ma,+2120500000075,2021-03-25,4,30.9,6,A,1.07,1,12000,True,Privé,61.5
+CL000076,Kettani,Omar,M,72,1954-10-23,Meknès,50000,Agriculteur,Célibataire,0,3052,omar.kettani76@proton.me,+2120700000076,2012-10-09,13,77.7,2,B,1.19,1,15000,False,Privé-Travail,74.8
+CL000077,Mernissi,Reda,M,39,1987-07-02,Agadir,80000,Chauffeur VTC,Marié(e),1,7670,reda.mernissi77@proton.me,+2120600000077,2013-08-21,12,68.4,7,B,1.04,1,15000,False,Privé-Travail,62.4
+CL000078,Dubois,Meriem,F,39,1987-03-04,Tanger,90000,Enseignant,Veuf(ve),3,5268,meriem.dubois78@live.ma,+2120600000078,2020-04-15,5,37.2,9,A,0.73,0,8000,True,Privé,50.6
+CL000079,Sqalli,Loubna,F,44,1982-08-03,Essaouira,44000,Sans emploi,Pacsé(e),1,1761,loubna.sqalli79@gmail.com,+2120600000079,2023-11-26,2,13.0,14,B,0.58,0,22000,True,Privé,46.9
+CL000080,Martin,Pierre,M,64,1962-10-10,Salé,11000,Médecin,Divorcé(e),4,16155,pierre.martin80@proton.me,+2120500000080,2013-08-14,12,74.0,3,B,0.91,0,15000,True,Privé-Travail,53.0
+CL000081,El Amrani,Aicha,F,29,1997-05-11,Nador,62000,Étudiant,Veuf(ve),1,2548,aicha.elamrani81@gmail.com,+2120500000081,2016-07-26,9,62.2,9,B,0.73,0,12000,False,Privé,47.3
+CL000082,Bennani,Thomas,M,53,1973-10-02,Fès,30000,Pharmacien,Pacsé(e),2,19372,thomas.bennani82@hotmail.com,+2120500000082,2020-11-06,5,42.0,6,B,1.07,1,12000,False,Privé,63.9
+CL000083,Bernard,Nadia,F,60,1966-10-16,Settat,26000,Technicien,Divorcé(e),1,7313,nadia.bernard83@gmail.com,+2120600000083,2025-11-22,0,0.5,1,B,1.47,2,18000,False,Professionnel,79.0
+CL000084,Benali,Ines,F,21,2005-06-12,Laâyoune,70000,Enseignant,Célibataire,0,5309,ines.benali84@yahoo.fr,+2120700000084,2015-09-16,10,60.1,1,B,1.22,1,22000,True,Privé,82.4
+CL000085,Filali,Zineb,F,63,1963-12-19,Essaouira,44000,Employé de bureau,Veuf(ve),3,8335,zineb.filali85@gmail.com,+2120500000085,2025-01-30,0,2.7,1,B,0.97,0,28000,False,Privé,57.7
+CL000086,Garcia,Loubna,F,30,1996-07-24,Rabat,10000,Comptable,Pacsé(e),0,7731,loubna.garcia86@outlook.ma,+2120500000086,2022-06-15,3,28.7,8,B,1.01,1,28000,True,VTC/Taxi,70.1
+CL000087,Alaoui,Nathalie,F,52,1974-06-13,Laâyoune,70000,Artisan,Divorcé(e),0,6048,nathalie.alaoui87@yahoo.fr,+2120700000087,2016-11-30,9,46.7,3,B,0.91,0,12000,True,Privé,49.7
+CL000088,Ziani,Imane,F,21,2005-05-06,Fès,30000,Chauffeur taxi,Pacsé(e),0,6872,imane.ziani88@gmail.com,+2120700000088,2019-12-15,6,48.1,3,B,0.91,0,12000,True,Privé,67.7
+CL000089,Lopez,Claire,F,52,1974-09-10,Salé,11000,Commerçant,Célibataire,3,11147,claire.lopez89@hotmail.com,+2120500000089,2014-08-08,11,72.3,0,B,1.0,0,15000,True,Privé,54.8
+CL000090,Lopez,Pierre,M,63,1963-10-28,Marrakech,40000,Chauffeur VTC,Pacsé(e),2,7187,pierre.lopez90@proton.me,+2120600000090,2010-07-04,15,81.4,0,B,1.25,1,22000,True,Privé,73.1
+CL000091,Kettani,Laura,F,46,1980-11-04,Kénitra,14000,Commerçant,Pacsé(e),2,7292,laura.kettani91@live.ma,+2120700000091,2014-08-20,11,60.4,0,B,1.5,2,12000,False,Privé,79.6
+CL000092,Bernard,Mehdi,M,63,1963-06-18,Beni Mellal,23000,Cadre supérieur,Veuf(ve),0,14238,mehdi.bernard92@gmail.com,+2120700000092,2012-05-17,13,72.8,4,A,1.63,3,8000,False,Privé,88.7
+CL000093,Bennani,Nathalie,F,47,1979-12-25,Laâyoune,70000,Médecin,Marié(e),0,30394,nathalie.bennani93@proton.me,+2120700000093,2022-09-26,3,16.9,9,B,0.73,0,45000,False,Privé-Travail,61.1
+CL000094,Chraibi,Samira,F,63,1963-04-05,Essaouira,44000,Ingénieur,Veuf(ve),3,18746,samira.chraibi94@gmail.com,+2120600000094,2017-04-14,8,49.5,3,B,1.16,1,28000,True,Privé,69.5
+CL000095,Michel,Mehdi,M,20,2006-06-20,Errachidia,52000,Commerçant,Pacsé(e),0,9500,mehdi.michel95@proton.me,+2120600000095,2017-04-23,8,55.8,2,A,1.19,1,12000,True,Privé,78.0
+CL000096,Chraibi,Mustapha,M,73,1953-09-06,Khouribga,25000,Étudiant,Pacsé(e),2,1492,mustapha.chraibi96@live.ma,+2120500000096,2019-10-07,6,34.7,1,B,0.97,0,35000,False,VTC/Taxi,71.2
+CL000097,Martin,Salma,F,30,1996-10-15,Salé,11000,Architecte,Célibataire,4,11525,salma.martin97@gmail.com,+2120500000097,2019-02-07,6,46.3,3,A,1.16,1,22000,True,Privé,69.5
+CL000098,Bennani,Youssef,M,58,1968-03-19,Casablanca,20000,Commerçant,Pacsé(e),4,10463,youssef.bennani98@hotmail.com,+2120600000098,2018-09-30,7,39.1,4,B,1.63,3,22000,True,Privé,98.5
+CL000099,Laurent,Ines,F,44,1982-06-03,Errachidia,52000,Employé de bureau,Célibataire,2,7332,ines.laurent99@live.ma,+2120600000099,2016-08-06,9,45.0,4,B,0.88,0,15000,True,Professionnel,48.8
+CL000100,Sqalli,Khalid,M,45,1981-12-19,Mohammedia,28800,Chauffeur VTC,Marié(e),1,8387,khalid.sqalli100@hotmail.com,+2120600000100,2022-03-24,3,18.8,3,A,1.16,1,35000,True,Professionnel,75.4
+CL000101,Lopez,Mehdi,M,52,1974-11-05,Tanger,90000,Employé de bureau,Veuf(ve),1,4876,mehdi.lopez101@gmail.com,+2120600000101,2024-10-03,1,17.8,0,A,1.0,0,45000,True,Professionnel,71.0
+CL000102,Fassi,Sophie,F,39,1987-08-17,El Jadida,24000,Architecte,Veuf(ve),4,19110,sophie.fassi102@gmail.com,+2120500000102,2014-03-03,11,65.0,3,B,1.41,2,18000,False,Privé,78.1
+CL000103,Martin,Latifa,F,73,1953-06-02,Rabat,10000,Pharmacien,Célibataire,1,16612,latifa.martin103@proton.me,+2120500000103,2025-06-27,0,10.5,3,B,1.16,1,45000,True,Privé,91.6
+CL000104,Bensouda,Khalid,M,59,1967-11-24,Marrakech,40000,Architecte,Pacsé(e),0,18880,khalid.bensouda104@hotmail.com,+2120700000104,2017-09-15,8,50.3,2,A,1.19,1,8000,False,Privé-Travail,68.4
+CL000105,Garcia,Sara,F,29,1997-05-10,Agadir,80000,Cadre supérieur,Divorcé(e),0,21357,sara.garcia105@proton.me,+2120700000105,2022-08-23,3,26.6,6,B,0.82,0,22000,False,VTC/Taxi,53.5
+CL000106,Bensouda,Mehdi,M,48,1978-02-05,Settat,26000,Médecin,Divorcé(e),2,28512,mehdi.bensouda106@yahoo.fr,+2120600000106,2023-10-24,2,24.8,2,B,0.94,0,15000,False,Privé-Travail,50.9
+CL000107,Garcia,Sara,F,31,1995-03-09,Oujda,60000,Technicien,Célibataire,1,5785,sara.garcia107@live.ma,+2120600000107,2017-09-09,8,56.8,4,A,1.13,1,8000,True,Privé,63.0
+CL000108,Dubois,Claire,F,49,1977-03-07,Errachidia,52000,Chauffeur taxi,Marié(e),3,4059,claire.dubois108@hotmail.com,+2120700000108,2011-03-07,14,76.0,2,B,1.19,1,12000,True,Privé-Travail,63.0
+CL000109,Lahlou,Samira,F,31,1995-03-17,El Jadida,24000,Employé de bureau,Divorcé(e),4,5864,samira.lahlou109@proton.me,+2120600000109,2025-03-21,0,1.9,10,B,0.7,0,35000,True,Privé-Travail,56.4
+CL000110,Lahlou,Zineb,F,48,1978-05-26,Fès,30000,Ingénieur,Pacsé(e),1,16212,zineb.lahlou110@live.ma,+2120700000110,2025-01-26,0,13.6,3,B,1.41,2,18000,True,Privé,80.2
+CL000111,El Amrani,Antoine,M,47,1979-01-14,Fès,30000,Comptable,Divorcé(e),1,6568,antoine.elamrani111@gmail.com,+2120600000111,2016-05-09,9,57.4,3,B,1.41,2,18000,False,Privé-Travail,80.2
+CL000112,Dubois,Mustapha,M,47,1979-02-23,Fès,30000,Médecin,Marié(e),2,28589,mustapha.dubois112@yahoo.fr,+2120700000112,2012-06-27,13,78.2,0,B,1.0,0,15000,False,Privé,54.5
+CL000113,Sqalli,Laura,F,44,1982-12-22,Salé,11000,Ingénieur,Veuf(ve),2,11387,laura.sqalli113@gmail.com,+2120700000113,2018-08-02,7,54.1,0,B,1.0,0,8000,True,Privé,54.8
+CL000114,Bernard,Imane,F,46,1980-07-06,Khouribga,25000,Avocat,Célibataire,3,16014,imane.bernard114@proton.me,+2120700000114,2023-10-09,2,12.1,9,B,0.73,0,18000,True,Privé,47.9
+CL000115,Kettani,Laura,F,53,1973-01-16,Tanger,90000,Employé de bureau,Divorcé(e),3,8794,laura.kettani115@live.ma,+2120600000115,2013-05-26,12,70.3,7,A,1.04,1,22000,True,Privé,68.3
+CL000116,Chraibi,Samir,M,53,1973-01-13,Khouribga,25000,Avocat,Divorcé(e),3,21941,samir.chraibi116@gmail.com,+2120500000116,2017-06-24,8,59.9,18,B,0.75,1,28000,True,Privé,61.3
+CL000117,Rodriguez,Khadija,F,56,1970-08-25,Tétouan,93000,Enseignant,Marié(e),2,6177,khadija.rodriguez117@proton.me,+2120700000117,2024-10-26,1,22.9,0,B,1.25,1,35000,True,Privé,76.0
+CL000118,Bennani,Claire,F,57,1969-03-02,Meknès,50000,Employé de bureau,Célibataire,4,7824,claire.bennani118@proton.me,+2120700000118,2018-09-20,7,45.0,5,A,0.85,0,45000,True,Privé,65.0
+CL000119,Garcia,Amine,M,31,1995-12-02,Mohammedia,28800,Avocat,Pacsé(e),1,16963,amine.garcia119@proton.me,+2120500000119,2025-03-17,0,4.7,7,B,0.79,0,45000,True,Privé-Travail,65.0
+CL000120,Alaoui,Camille,F,37,1989-08-20,Rabat,10000,Fonctionnaire,Célibataire,2,9527,camille.alaoui120@gmail.com,+2120700000120,2024-03-10,1,17.2,0,B,2.0,4,15000,True,Privé,100.0
+CL000121,Garcia,Youssef,M,71,1955-04-14,Salé,11000,Étudiant,Marié(e),0,1853,youssef.garcia121@live.ma,+2120600000121,2017-03-19,8,46.7,24,B,1.0,2,15000,True,Privé,80.8
+CL000122,Laurent,Sanae,F,32,1994-06-18,Agadir,80000,Agriculteur,Pacsé(e),3,3482,sanae.laurent122@outlook.ma,+2120600000122,2012-03-29,13,82.6,5,B,0.85,0,15000,True,Privé,50.6
+CL000123,Dubois,Thomas,M,40,1986-10-10,El Jadida,24000,Technicien,Veuf(ve),3,8292,thomas.dubois123@outlook.ma,+2120600000123,2021-09-25,4,32.2,1,B,1.22,1,22000,False,Privé,68.3
+CL000124,El Amrani,Sophie,F,42,1984-11-27,Tétouan,93000,Chauffeur taxi,Pacsé(e),0,5462,sophie.elamrani124@live.ma,+2120700000124,2012-08-20,13,82.3,5,B,1.1,1,18000,True,Privé-Travail,64.5
+CL000125,Benali,Hamza,M,38,1988-04-04,Tanger,90000,Technicien,Divorcé(e),2,7337,hamza.benali125@outlook.ma,+2120700000125,2011-03-19,14,75.0,1,A,1.22,1,8000,True,Privé,68.4
+CL000126,Fassi,Samir,M,36,1990-03-26,Casablanca,20000,Technicien,Pacsé(e),4,7423,samir.fassi126@yahoo.fr,+2120700000126,2019-12-23,6,34.0,0,B,1.0,0,18000,True,Privé-Travail,59.9
+CL000127,Idrissi,Laila,F,41,1985-04-24,El Jadida,24000,Enseignant,Veuf(ve),0,7221,laila.idrissi127@hotmail.com,+2120600000127,2023-02-15,2,14.3,1,A,1.22,1,45000,True,Privé,79.8
+CL000128,Simon,Bilal,M,57,1969-04-21,Nador,62000,Ingénieur,Marié(e),0,11781,bilal.simon128@hotmail.com,+2120700000128,2016-04-17,9,53.4,0,B,1.0,0,8000,True,Professionnel,52.7
+CL000129,Garcia,Marc,M,33,1993-11-20,Agadir,80000,Pharmacien,Pacsé(e),3,22065,marc.garcia129@outlook.ma,+2120500000129,2019-03-27,6,39.5,12,A,0.89,1,12000,True,Privé,59.4
+CL000130,Lopez,Claire,F,40,1986-04-08,Salé,11000,Retraité,Célibataire,3,4975,claire.lopez130@gmail.com,+2120600000130,2022-11-13,3,34.8,14,B,0.58,0,15000,True,Privé,46.4
+CL000131,Garcia,Isabelle,F,39,1987-12-27,Fès,30000,Agriculteur,Veuf(ve),1,4186,isabelle.garcia131@outlook.ma,+2120700000131,2025-07-19,0,5.9,0,B,1.25,1,8000,True,Privé,67.5
+CL000132,Laurent,Sanae,F,45,1981-08-28,Errachidia,52000,Pharmacien,Veuf(ve),1,11473,sanae.laurent132@yahoo.fr,+2120500000132,2025-10-09,0,9.3,4,B,0.88,0,15000,False,Privé,48.8
+CL000133,Benali,Najat,F,61,1965-05-14,Kénitra,14000,Sans emploi,Divorcé(e),0,2699,najat.benali133@live.ma,+2120500000133,2023-12-01,2,17.3,10,B,0.7,0,12000,True,Privé,47.6
+CL000134,Benali,Sophie,F,50,1976-06-12,Agadir,80000,Architecte,Divorcé(e),1,17901,sophie.benali134@live.ma,+2120600000134,2013-02-07,12,73.0,5,B,0.85,0,18000,False,Privé-Travail,52.1
+CL000135,Gonzalez,Sara,F,28,1998-05-17,El Jadida,24000,Ingénieur,Pacsé(e),4,10333,sara.gonzalez135@gmail.com,+2120700000135,2020-11-27,5,39.2,3,B,1.41,2,45000,True,Privé-Travail,91.6
+CL000136,Gonzalez,Rachid,M,58,1968-08-03,Marrakech,40000,Étudiant,Marié(e),2,2657,rachid.gonzalez136@gmail.com,+2120500000136,2012-06-14,13,68.0,2,B,1.44,2,12000,True,Privé,81.4
+CL000137,Sqalli,Mehdi,M,71,1955-11-18,Tanger,90000,Technicien,Marié(e),0,6598,mehdi.sqalli137@gmail.com,+2120600000137,2016-07-16,9,61.7,3,B,0.91,0,8000,True,Privé,64.2
+CL000138,Martin,Samira,F,52,1974-11-23,Settat,26000,Architecte,Marié(e),2,15175,samira.martin138@outlook.ma,+2120700000138,2016-11-15,9,52.4,2,B,1.69,3,15000,True,Privé,89.9
+CL000139,Fassi,Loubna,F,35,1991-10-06,Laâyoune,70000,Infirmier,Marié(e),0,4965,loubna.fassi139@gmail.com,+2120700000139,2013-08-13,12,71.5,1,A,1.97,4,15000,True,Privé,100.0
+CL000140,Laurent,Samir,M,24,2002-01-22,Salé,11000,Chauffeur taxi,Divorcé(e),0,4419,samir.laurent140@gmail.com,+2120700000140,2021-12-20,4,38.6,3,B,0.91,0,15000,True,VTC/Taxi,68.0
+CL000141,Simon,Mohamed,M,33,1993-09-17,Salé,11000,Infirmier,Veuf(ve),2,6190,mohamed.simon141@proton.me,+2120600000141,2022-09-05,3,29.6,2,B,1.19,1,15000,True,Privé-Travail,66.6
+CL000142,Alaoui,Mehdi,M,31,1995-07-20,Oujda,60000,Agriculteur,Pacsé(e),1,3800,mehdi.alaoui142@yahoo.fr,+2120600000142,2023-02-01,2,10.5,2,A,0.94,0,18000,False,Privé-Travail,52.7
+CL000143,Filali,Nabil,M,47,1979-04-16,Salé,11000,Sans emploi,Marié(e),3,2808,nabil.filali143@yahoo.fr,+2120700000143,2018-12-01,7,42.5,19,B,0.5,0,28000,True,Privé,51.3
+CL000144,El Amrani,Latifa,F,33,1993-04-24,Beni Mellal,23000,Retraité,Marié(e),4,5681,latifa.elamrani144@live.ma,+2120600000144,2019-04-17,6,32.9,2,B,1.19,1,35000,True,VTC/Taxi,73.9
+CL000145,Petit,Khadija,F,30,1996-10-25,Mohammedia,28800,Médecin,Marié(e),4,15501,khadija.petit145@hotmail.com,+2120500000145,2019-04-19,6,41.4,6,B,0.82,0,22000,True,Privé,54.1
+CL000146,Mernissi,Meriem,F,26,2000-08-02,Tétouan,93000,Pharmacien,Célibataire,0,14603,meriem.mernissi146@outlook.ma,+2120700000146,2015-01-14,10,56.0,5,A,1.85,4,45000,True,Privé-Travail,100.0
+CL000147,Fassi,Ines,F,40,1986-08-23,Oujda,60000,Employé de bureau,Divorcé(e),4,5093,ines.fassi147@hotmail.com,+2120500000147,2023-06-08,2,18.7,2,B,0.94,0,12000,False,Privé-Travail,51.2
+CL000148,Ziani,Soufiane,M,49,1977-12-19,Casablanca,20000,Ingénieur,Marié(e),2,11395,soufiane.ziani148@outlook.ma,+2120600000148,2020-05-04,5,30.5,0,A,1.0,0,28000,False,Professionnel,64.9
+CL000149,Berrada,Aicha,F,45,1981-05-17,Marrakech,40000,Comptable,Marié(e),4,7103,aicha.berrada149@yahoo.fr,+2120700000149,2023-06-07,2,26.5,6,B,1.07,1,12000,True,Privé-Travail,66.0
+CL000150,Mernissi,Salma,F,38,1988-10-12,Tanger,90000,Employé de bureau,Divorcé(e),1,5173,salma.mernissi150@gmail.com,+2120600000150,2019-03-30,6,33.1,2,B,0.94,0,45000,True,Privé-Travail,69.8
+CL000151,Kettani,Anas,M,45,1981-02-04,Tanger,90000,Employé de bureau,Veuf(ve),4,6731,anas.kettani151@live.ma,+2120700000151,2013-02-12,12,63.4,2,B,1.19,1,28000,True,Privé-Travail,74.3
+CL000152,Tazi,Khalid,M,31,1995-12-05,Oujda,60000,Infirmier,Célibataire,0,4726,khalid.tazi152@gmail.com,+2120700000152,2019-07-13,6,45.1,0,B,1.25,1,12000,True,Privé,65.4
+CL000153,Idrissi,Tarik,M,57,1969-05-02,Marrakech,40000,Infirmier,Marié(e),4,7003,tarik.idrissi153@outlook.ma,+2120600000153,2023-07-01,2,23.4,9,B,0.73,0,12000,True,Privé,51.2
+CL000154,Ouazzani,Marie,F,47,1979-06-06,Settat,26000,Sans emploi,Célibataire,4,2173,marie.ouazzani154@outlook.ma,+2120500000154,2022-12-20,3,18.8,5,B,1.35,2,12000,True,Professionnel,75.1
+CL000155,Idrissi,Nicolas,M,30,1996-04-17,Khouribga,25000,Chauffeur taxi,Divorcé(e),3,6537,nicolas.idrissi155@hotmail.com,+2120600000155,2014-01-21,11,65.3,1,A,1.47,2,12000,True,Privé-Travail,77.2
+CL000156,Kettani,Salma,F,42,1984-02-17,Tanger,90000,Technicien,Divorcé(e),3,8635,salma.kettani156@gmail.com,+2120700000156,2011-11-05,14,75.7,8,B,0.76,0,8000,False,VTC/Taxi,51.2
+CL000157,Mernissi,Laila,F,36,1990-07-10,El Jadida,24000,Enseignant,Divorcé(e),1,9748,laila.mernissi157@gmail.com,+2120500000157,2025-03-26,0,9.8,15,B,0.55,0,45000,True,Privé,58.4
+CL000158,Tazi,Hassan,M,46,1980-07-13,Errachidia,52000,Avocat,Divorcé(e),1,24380,hassan.tazi158@yahoo.fr,+2120600000158,2011-06-15,14,81.9,14,A,1.08,2,15000,True,Privé,68.8
+CL000159,Bensouda,Claire,F,67,1959-05-25,Errachidia,52000,Pharmacien,Veuf(ve),4,14257,claire.bensouda159@hotmail.com,+2120700000159,2017-12-27,8,50.2,10,B,0.95,1,35000,True,Privé,78.2
+CL000160,Bensouda,Samira,F,56,1970-04-21,Tanger,90000,Employé de bureau,Célibataire,1,5003,samira.bensouda160@hotmail.com,+2120500000160,2021-03-04,4,33.6,0,B,1.25,1,12000,True,Privé-Travail,69.0
+CL000161,El Amrani,David,M,62,1964-11-25,Settat,26000,Technicien,Pacsé(e),2,8784,david.elamrani161@live.ma,+2120700000161,2020-12-30,5,41.2,1,B,0.97,0,45000,True,VTC/Taxi,66.5
+CL000162,Kettani,Reda,M,54,1972-06-28,Mohammedia,28800,Agriculteur,Marié(e),3,4087,reda.kettani162@hotmail.com,+2120600000162,2025-11-02,0,6.2,0,A,1.25,1,22000,True,Privé-Travail,70.7
+CL000163,Mernissi,Julie,F,26,2000-11-18,Errachidia,52000,Technicien,Divorcé(e),3,7231,julie.mernissi163@live.ma,+2120700000163,2018-10-12,7,47.3,8,B,0.76,0,8000,True,Privé,46.4
+CL000164,Benali,Adil,M,26,2000-03-27,Nador,62000,Chauffeur taxi,Célibataire,3,6966,adil.benali164@yahoo.fr,+2120700000164,2018-07-15,7,43.2,5,B,0.85,0,28000,False,Privé,56.2
+CL000165,Berrada,Jean,M,41,1985-10-03,Marrakech,40000,Infirmier,Veuf(ve),3,4680,jean.berrada165@live.ma,+2120500000165,2010-11-03,15,93.0,1,B,0.97,0,28000,True,Privé-Travail,62.5
+CL000166,Filali,Amine,M,53,1973-10-13,Salé,11000,Pharmacien,Veuf(ve),4,12294,amine.filali166@proton.me,+2120700000166,2017-07-15,8,43.3,4,B,1.13,1,18000,True,VTC/Taxi,66.9
+CL000167,Dubois,Tarik,M,38,1988-02-27,Laâyoune,70000,Enseignant,Pacsé(e),0,6758,tarik.dubois167@proton.me,+2120500000167,2015-01-25,10,51.9,0,B,1.0,0,35000,True,Privé,61.5
+CL000168,Bennani,Ines,F,69,1957-06-26,Marrakech,40000,Infirmier,Veuf(ve),3,6319,ines.bennani168@yahoo.fr,+2120500000168,2014-06-28,11,65.3,2,B,1.19,1,28000,True,Privé-Travail,84.9
+CL000169,Bensouda,Adil,M,60,1966-04-22,Beni Mellal,23000,Ingénieur,Célibataire,4,18984,adil.bensouda169@outlook.ma,+2120700000169,2022-09-12,3,24.2,5,B,1.35,2,35000,True,Privé-Travail,85.1
+CL000170,Sqalli,Ines,F,37,1989-06-28,Marrakech,40000,Enseignant,Marié(e),2,9691,ines.sqalli170@proton.me,+2120500000170,2024-06-28,1,9.7,2,B,0.94,0,22000,True,Privé,58.9
+CL000171,Garcia,Khalid,M,51,1975-05-15,Khouribga,25000,Architecte,Marié(e),2,20908,khalid.garcia171@outlook.ma,+2120600000171,2014-07-13,11,60.2,3,B,0.91,0,8000,False,Privé,50.0
+CL000172,Bensouda,Nicolas,M,52,1974-01-02,Marrakech,40000,Chauffeur VTC,Célibataire,3,7847,nicolas.bensouda172@proton.me,+2120600000172,2018-02-25,7,39.7,13,B,0.86,1,35000,False,Privé-Travail,71.8
+CL000173,Gonzalez,Samira,F,55,1971-02-08,Essaouira,44000,Avocat,Veuf(ve),1,24824,samira.gonzalez173@outlook.ma,+2120600000173,2015-04-17,10,53.5,2,B,0.94,0,35000,True,Privé,60.6
+CL000174,Mernissi,Tarik,M,20,2006-06-23,Fès,30000,Chauffeur VTC,Marié(e),0,7574,tarik.mernissi174@yahoo.fr,+2120700000174,2016-03-25,9,59.3,2,B,0.94,0,18000,True,Privé-Travail,69.8
+CL000175,Simon,Antoine,M,26,2000-11-26,Rabat,10000,Fonctionnaire,Célibataire,4,7016,antoine.simon175@outlook.ma,+2120700000175,2025-05-15,0,7.8,3,A,0.91,0,28000,True,Privé,60.1
+CL000176,Bennani,Mehdi,M,40,1986-03-15,Salé,11000,Retraité,Veuf(ve),3,5636,mehdi.bennani176@yahoo.fr,+2120500000176,2021-01-10,4,28.4,2,B,0.94,0,12000,True,Privé-Travail,53.6
+CL000177,Sqalli,Soufiane,M,54,1972-10-24,Laâyoune,70000,Chauffeur VTC,Marié(e),3,7120,soufiane.sqalli177@proton.me,+2120600000177,2024-05-21,1,5.1,0,B,1.25,1,8000,False,Privé,64.5
+CL000178,Fassi,Hassan,M,70,1956-04-17,Tanger,90000,Sans emploi,Veuf(ve),1,2950,hassan.fassi178@yahoo.fr,+2120600000178,2020-02-16,5,38.7,10,B,0.95,1,28000,True,Privé,79.5
+CL000179,Fassi,Sara,F,41,1985-07-13,Errachidia,52000,Fonctionnaire,Veuf(ve),1,5716,sara.fassi179@yahoo.fr,+2120500000179,2011-12-30,14,87.0,0,B,1.0,0,18000,True,Privé-Travail,52.7
+CL000180,El Amrani,Nadia,F,21,2005-06-06,Errachidia,52000,Avocat,Veuf(ve),0,14197,nadia.elamrani180@gmail.com,+2120600000180,2025-02-09,0,14.3,3,B,0.91,0,45000,True,Privé,79.4
+CL000181,Tazi,Yasmine,F,65,1961-07-28,Meknès,50000,Sans emploi,Marié(e),3,2127,yasmine.tazi181@outlook.ma,+2120600000181,2019-05-20,6,35.8,11,B,0.67,0,18000,True,Privé-Travail,47.9
+CL000182,Martin,Soufiane,M,22,2004-11-21,Beni Mellal,23000,Médecin,Veuf(ve),0,15558,soufiane.martin182@proton.me,+2120600000182,2025-07-18,0,14.3,0,A,1.0,0,28000,False,Privé,73.6
+CL000183,Mernissi,Hassan,M,51,1975-01-02,Salé,11000,Fonctionnaire,Divorcé(e),4,8237,hassan.mernissi183@live.ma,+2120700000183,2010-02-13,15,81.1,2,A,1.69,3,8000,False,Privé,92.6
+CL000184,Fassi,Adil,M,39,1987-05-06,Settat,26000,Technicien,Divorcé(e),4,9458,adil.fassi184@hotmail.com,+2120600000184,2012-01-05,14,75.2,14,B,0.58,0,15000,True,VTC/Taxi,43.7
+CL000185,Lahlou,Nathalie,F,42,1984-12-12,El Jadida,24000,Infirmier,Divorcé(e),3,7991,nathalie.lahlou185@outlook.ma,+2120700000185,2021-08-06,4,34.7,2,A,0.94,0,22000,True,Privé,54.7
+CL000186,Bennani,Aicha,F,29,1997-03-02,Oujda,60000,Artisan,Célibataire,3,3988,aicha.bennani186@gmail.com,+2120700000186,2019-10-16,6,37.1,2,A,1.69,3,45000,True,Privé,100.0
+CL000187,Ouazzani,Hassan,M,39,1987-02-07,Tétouan,93000,Artisan,Pacsé(e),1,7064,hassan.ouazzani187@live.ma,+2120600000187,2022-08-20,3,25.5,9,B,0.98,1,22000,True,VTC/Taxi,64.1
+CL000188,Bensouda,David,M,38,1988-11-04,Salé,11000,Employé de bureau,Divorcé(e),4,5843,david.bensouda188@gmail.com,+2120700000188,2018-11-04,7,38.1,20,B,1.5,4,12000,True,Professionnel,96.8
+CL000189,Dubois,Loubna,F,61,1965-05-20,Casablanca,20000,Chauffeur VTC,Pacsé(e),1,9651,loubna.dubois189@outlook.ma,+2120600000189,2017-04-15,8,56.0,7,B,1.54,3,45000,True,Privé-Travail,100.0
+CL000190,Bernard,Samir,M,34,1992-07-03,Mohammedia,28800,Ingénieur,Célibataire,1,11544,samir.bernard190@outlook.ma,+2120700000190,2012-01-01,14,85.6,16,B,0.77,1,35000,False,Privé-Travail,67.6
+CL000191,Berrada,Hassan,M,53,1973-08-26,El Jadida,24000,Infirmier,Célibataire,2,7995,hassan.berrada191@live.ma,+2120600000191,2024-12-04,1,14.8,6,A,1.32,2,28000,True,Privé,81.3
+CL000192,Michel,Khadija,F,54,1972-07-26,Nador,62000,Sans emploi,Pacsé(e),2,2076,khadija.michel192@hotmail.com,+2120500000192,2010-11-28,15,79.5,6,B,1.07,1,12000,True,Privé,62.1
+CL000193,Kettani,Mehdi,M,46,1980-07-03,Khouribga,25000,Infirmier,Pacsé(e),3,4824,mehdi.kettani193@yahoo.fr,+2120500000193,2015-07-30,10,51.0,0,B,1.0,0,22000,True,Privé,55.3
+CL000194,Idrissi,Ines,F,18,2008-08-22,Errachidia,52000,Ingénieur,Veuf(ve),0,13283,ines.idrissi194@outlook.ma,+2120600000194,2012-07-22,13,81.9,0,B,1.75,3,8000,True,Privé,100.0
+CL000195,Martin,Zineb,F,47,1979-12-15,Beni Mellal,23000,Sans emploi,Marié(e),0,3163,zineb.martin195@proton.me,+2120500000195,2014-09-26,11,60.2,2,B,1.19,1,15000,True,Privé,63.9
+CL000196,Idrissi,Reda,M,35,1991-01-06,Khouribga,25000,Agriculteur,Pacsé(e),4,4737,reda.idrissi196@yahoo.fr,+2120500000196,2016-10-16,9,58.5,13,A,0.61,0,45000,True,Privé,59.0
+CL000197,Bennani,Mohamed,M,29,1997-02-27,Casablanca,20000,Enseignant,Marié(e),3,9759,mohamed.bennani197@proton.me,+2120500000197,2024-07-28,1,8.8,1,B,0.97,0,15000,True,Privé,57.8
+CL000198,Idrissi,Fatima,F,68,1958-03-05,Beni Mellal,23000,Technicien,Divorcé(e),4,7210,fatima.idrissi198@hotmail.com,+2120600000198,2014-07-08,11,61.7,13,B,1.11,2,18000,False,Professionnel,81.8
+CL000199,Lopez,Ines,F,44,1982-08-24,Errachidia,52000,Sans emploi,Veuf(ve),3,3029,ines.lopez199@live.ma,+2120500000199,2020-12-07,5,39.5,26,A,0.75,1,8000,True,Privé-Travail,54.2
+CL000200,Martin,Anas,M,45,1981-06-18,Marrakech,40000,Ingénieur,Veuf(ve),4,18550,anas.martin200@proton.me,+2120700000200,2012-08-15,13,74.0,3,A,0.91,0,45000,True,Privé,69.8
+CL000201,Ouazzani,Tarik,M,48,1978-08-08,Settat,26000,Fonctionnaire,Divorcé(e),3,8890,tarik.ouazzani201@hotmail.com,+2120500000201,2012-12-10,13,78.1,7,B,1.29,2,45000,True,Privé-Travail,88.9
+CL000202,Bennani,Mustapha,M,22,2004-05-23,Marrakech,40000,Technicien,Veuf(ve),0,5532,mustapha.bennani202@hotmail.com,+2120700000202,2012-04-06,13,69.7,1,B,0.97,0,45000,True,Privé,86.0
+CL000203,Moreau,Sara,F,30,1996-03-06,Settat,26000,Cadre supérieur,Marié(e),0,22765,sara.moreau203@live.ma,+2120600000203,2023-11-08,2,19.7,2,B,0.94,0,12000,True,Privé-Travail,50.9
+CL000204,Lopez,Nadia,F,69,1957-12-28,Settat,26000,Sans emploi,Célibataire,0,2921,nadia.lopez204@live.ma,+2120500000204,2020-04-02,5,40.6,8,B,0.76,0,45000,False,Privé,72.3
+CL000205,Dubois,Omar,M,63,1963-02-28,Meknès,50000,Chauffeur taxi,Veuf(ve),0,4454,omar.dubois205@outlook.ma,+2120500000205,2021-05-07,4,27.3,2,B,0.94,0,45000,True,Professionnel,66.8
+CL000206,Michel,Ines,F,42,1984-01-08,Khouribga,25000,Chauffeur VTC,Veuf(ve),2,6305,ines.michel206@proton.me,+2120500000206,2018-05-09,7,39.9,1,A,0.97,0,22000,True,Privé,54.7
+CL000207,Petit,Ines,F,46,1980-07-15,Settat,26000,Chauffeur taxi,Célibataire,0,7483,ines.petit207@yahoo.fr,+2120700000207,2021-08-09,4,28.0,3,B,0.91,0,8000,True,Privé,50.3
+CL000208,Petit,Pierre,M,18,2008-11-05,Errachidia,52000,Cadre supérieur,Veuf(ve),0,24919,pierre.petit208@proton.me,+2120500000208,2019-05-28,6,41.1,0,B,1.25,1,22000,False,Privé-Travail,82.7
+CL000209,Rodriguez,Fatima,F,53,1973-05-17,Essaouira,44000,Commerçant,Pacsé(e),4,10711,fatima.rodriguez209@proton.me,+2120700000209,2022-03-18,3,28.9,3,A,1.16,1,18000,True,Professionnel,64.5
+CL000210,Mernissi,Ahmed,M,29,1997-06-13,Tanger,90000,Comptable,Pacsé(e),2,11851,ahmed.mernissi210@live.ma,+2120700000210,2021-06-23,4,35.1,2,B,0.94,0,12000,True,Privé,54.8
+CL000211,Rodriguez,Laila,F,25,2001-05-24,El Jadida,24000,Comptable,Pacsé(e),2,6607,laila.rodriguez211@gmail.com,+2120600000211,2015-10-29,10,65.1,0,B,1.25,1,28000,True,Privé,71.9
+CL000212,Amrani,Bilal,M,25,2001-04-26,Errachidia,52000,Pharmacien,Divorcé(e),2,19204,bilal.amrani212@proton.me,+2120500000212,2017-11-09,8,51.5,7,B,0.79,0,18000,False,Privé,48.5
+CL000213,Amrani,Hassan,M,35,1991-09-19,Meknès,50000,Chauffeur taxi,Célibataire,0,5599,hassan.amrani213@gmail.com,+2120700000213,2019-03-30,6,47.8,1,A,1.22,1,35000,True,Privé,75.4
+CL000214,Ziani,Julie,F,33,1993-07-19,Laâyoune,70000,Comptable,Veuf(ve),3,10584,julie.ziani214@proton.me,+2120700000214,2024-04-10,1,19.6,13,A,1.11,2,45000,True,Privé,84.7
+CL000215,Laurent,Tarik,M,36,1990-08-05,Settat,26000,Comptable,Marié(e),4,6652,tarik.laurent215@yahoo.fr,+2120600000215,2010-09-25,15,87.0,1,A,1.47,2,45000,True,Privé,92.5
+CL000216,Ziani,Aicha,F,41,1985-03-04,Nador,62000,Infirmier,Marié(e),1,8362,aicha.ziani216@live.ma,+2120700000216,2010-08-18,15,76.0,2,B,1.19,1,45000,True,Privé,79.5
+CL000217,Idrissi,Fatima,F,25,2001-09-12,Marrakech,40000,Cadre supérieur,Veuf(ve),3,17861,fatima.idrissi217@proton.me,+2120500000217,2017-07-30,8,42.7,5,B,1.35,2,45000,False,Privé-Travail,94.6
+CL000218,Kettani,Julie,F,64,1962-03-28,Salé,11000,Médecin,Marié(e),3,27717,julie.kettani218@yahoo.fr,+2120500000218,2018-09-08,7,35.9,7,A,1.29,2,35000,False,Privé,86.6
+CL000219,Fassi,Lucas,M,44,1982-12-01,Errachidia,52000,Infirmier,Pacsé(e),4,6556,lucas.fassi219@live.ma,+2120600000219,2014-04-26,11,74.1,0,B,1.0,0,12000,True,Privé,51.2
+CL000220,Moreau,Hassan,M,59,1967-09-06,Casablanca,20000,Ingénieur,Pacsé(e),4,17510,hassan.moreau220@yahoo.fr,+2120700000220,2011-11-25,14,81.8,1,A,1.22,1,45000,True,Privé,85.8
+CL000221,Alaoui,Anas,M,63,1963-09-11,Mohammedia,28800,Ingénieur,Marié(e),1,10692,anas.alaoui221@yahoo.fr,+2120600000221,2016-05-26,9,48.1,26,A,0.5,0,15000,False,Privé,44.2
+CL000222,Alaoui,Sanae,F,51,1975-12-02,Tétouan,93000,Étudiant,Veuf(ve),0,1538,sanae.alaoui222@gmail.com,+2120600000222,2015-10-14,10,54.8,1,B,1.22,1,28000,True,Privé,71.9
+CL000223,Lahlou,Salma,F,54,1972-01-11,Beni Mellal,23000,Architecte,Marié(e),0,14774,salma.lahlou223@yahoo.fr,+2120500000223,2024-03-17,1,24.3,4,B,0.88,0,35000,True,Privé-Travail,59.7
+CL000224,Martin,Mehdi,M,73,1953-07-15,Marrakech,40000,Comptable,Marié(e),1,7160,mehdi.martin224@live.ma,+2120700000224,2022-02-14,3,34.2,22,A,0.5,0,28000,True,Privé,63.1
+CL000225,Bernard,Nathalie,F,38,1988-05-21,Agadir,80000,Employé de bureau,Divorcé(e),3,4823,nathalie.bernard225@yahoo.fr,+2120500000225,2023-05-30,2,14.3,16,B,0.52,0,22000,True,Privé,47.5
+CL000226,El Amrani,Mehdi,M,47,1979-07-23,Fès,30000,Commerçant,Pacsé(e),4,10867,mehdi.elamrani226@yahoo.fr,+2120500000226,2014-09-24,11,73.9,29,B,0.75,1,35000,False,Privé,67.5
+CL000227,Amrani,Pierre,M,44,1982-06-07,Beni Mellal,23000,Sans emploi,Célibataire,4,2324,pierre.amrani227@hotmail.com,+2120600000227,2024-07-01,1,23.0,16,B,1.27,3,15000,True,Privé,81.5
+CL000228,Filali,Laura,F,25,2001-09-03,Marrakech,40000,Architecte,Célibataire,2,10824,laura.filali228@hotmail.com,+2120500000228,2025-01-29,0,7.2,7,B,1.04,1,45000,False,VTC/Taxi,80.4
+CL000229,Ouazzani,Bilal,M,53,1973-04-15,Casablanca,20000,Fonctionnaire,Célibataire,4,9761,bilal.ouazzani229@proton.me,+2120700000229,2014-04-18,11,71.2,9,B,0.73,0,28000,True,VTC/Taxi,59.5
+CL000230,Lahlou,Aicha,F,46,1980-08-23,Essaouira,44000,Enseignant,Divorcé(e),4,5287,aicha.lahlou230@live.ma,+2120700000230,2012-06-27,13,68.4,27,B,0.75,1,35000,False,Privé-Travail,64.8
+CL000231,Martin,Youssef,M,23,2003-03-24,Marrakech,40000,Commerçant,Divorcé(e),1,7935,youssef.martin231@proton.me,+2120600000231,2021-09-25,4,39.8,5,B,1.6,3,18000,False,Privé,100.0
+CL000232,Sqalli,Fatima,F,34,1992-11-22,Rabat,10000,Chauffeur VTC,Pacsé(e),3,7019,fatima.sqalli232@hotmail.com,+2120700000232,2012-09-24,13,75.3,16,B,1.27,3,22000,False,Privé,88.3
+CL000233,Mernissi,Ines,F,40,1986-08-11,Casablanca,20000,Étudiant,Veuf(ve),0,1672,ines.mernissi233@outlook.ma,+2120600000233,2015-01-23,10,53.3,0,B,2.0,4,8000,True,Privé-Travail,100.0
+CL000234,Bensouda,Mohamed,M,48,1978-07-26,Casablanca,20000,Pharmacien,Célibataire,3,20128,mohamed.bensouda234@outlook.ma,+2120700000234,2015-07-18,10,66.7,18,B,0.5,0,22000,False,Privé-Travail,51.9
+CL000235,Bernard,David,M,45,1981-10-15,Fès,30000,Agriculteur,Veuf(ve),2,4421,david.bernard235@proton.me,+2120600000235,2010-10-01,15,90.7,0,B,1.0,0,8000,True,Privé,54.5
+CL000236,Idrissi,Khadija,F,18,2008-11-02,Laâyoune,70000,Cadre supérieur,Veuf(ve),0,16315,khadija.idrissi236@outlook.ma,+2120500000236,2023-11-05,2,25.7,0,B,1.0,0,12000,True,Privé,66.5
+CL000237,Bernard,Sophie,F,40,1986-02-11,Casablanca,20000,Agriculteur,Célibataire,4,4248,sophie.bernard237@proton.me,+2120600000237,2012-04-21,13,76.9,5,B,0.85,0,12000,False,Privé,55.4
+CL000238,Sqalli,Sara,F,38,1988-08-24,Essaouira,44000,Agriculteur,Marié(e),2,3320,sara.sqalli238@live.ma,+2120700000238,2011-05-11,14,80.3,0,B,1.25,1,8000,True,Privé,64.8
+CL000239,Bensouda,Karim,M,24,2002-05-20,Salé,11000,Infirmier,Marié(e),4,5749,karim.bensouda239@live.ma,+2120600000239,2011-04-15,14,78.4,0,B,1.5,2,15000,True,Privé-Travail,95.8
+CL000240,El Amrani,Marc,M,51,1975-06-07,Khouribga,25000,Agriculteur,Divorcé(e),3,4479,marc.elamrani240@yahoo.fr,+2120600000240,2023-10-27,2,12.1,2,B,1.19,1,28000,True,Privé,70.1
+CL000241,Chraibi,Jean,M,33,1993-12-08,Beni Mellal,23000,Sans emploi,Marié(e),3,2122,jean.chraibi241@outlook.ma,+2120600000241,2018-06-07,7,42.3,4,B,1.38,2,28000,True,Privé,82.2
+CL000242,Berrada,Karim,M,35,1991-08-07,Errachidia,52000,Chauffeur taxi,Marié(e),1,4019,karim.berrada242@yahoo.fr,+2120500000242,2016-05-16,9,48.5,0,B,1.25,1,18000,True,Privé,65.7
+CL000243,Lahlou,Antoine,M,28,1998-02-01,Tanger,90000,Étudiant,Divorcé(e),3,2316,antoine.lahlou243@outlook.ma,+2120700000243,2014-09-19,11,71.2,10,B,0.7,0,28000,False,VTC/Taxi,56.5
+CL000244,El Amrani,Emma,F,33,1993-02-05,Tanger,90000,Enseignant,Pacsé(e),3,6256,emma.elamrani244@proton.me,+2120600000244,2017-02-17,8,58.4,3,B,0.91,0,28000,False,Privé,60.7
+CL000245,Chraibi,Amine,M,51,1975-01-21,Kénitra,14000,Commerçant,Célibataire,3,11664,amine.chraibi245@proton.me,+2120500000245,2014-09-11,11,56.3,23,A,0.5,0,45000,False,Privé-Travail,58.6
+CL000246,Ziani,Samira,F,27,1999-08-06,Salé,11000,Chauffeur taxi,Divorcé(e),4,5873,samira.ziani246@hotmail.com,+2120500000246,2020-08-17,5,43.4,4,B,1.63,3,45000,True,Privé,100.0
+CL000247,Lopez,Bilal,M,44,1982-04-13,Meknès,50000,Infirmier,Divorcé(e),4,5985,bilal.lopez247@gmail.com,+2120600000247,2018-05-23,7,50.0,3,B,0.91,0,15000,True,Privé,51.2
+CL000248,Benali,Adil,M,32,1994-08-17,Essaouira,44000,Chauffeur VTC,Veuf(ve),2,6987,adil.benali248@yahoo.fr,+2120700000248,2018-03-30,7,35.5,4,A,0.88,0,35000,True,Privé,59.4
+CL000249,Gonzalez,Soufiane,M,21,2005-02-10,Settat,26000,Comptable,Célibataire,0,9202,soufiane.gonzalez249@gmail.com,+2120600000249,2015-02-09,10,57.2,0,B,1.25,1,22000,True,Privé,83.6
+CL000250,Berrada,Houda,F,65,1961-12-27,Kénitra,14000,Enseignant,Divorcé(e),2,8954,houda.berrada250@yahoo.fr,+2120700000250,2010-03-11,15,93.9,41,B,0.75,1,22000,True,Privé-Travail,60.1
+CL000251,Filali,Lucas,M,37,1989-04-08,Meknès,50000,Technicien,Divorcé(e),0,6045,lucas.filali251@yahoo.fr,+2120600000251,2020-05-07,5,33.6,5,A,0.85,0,45000,True,Privé,65.0
+CL000252,Tazi,Soufiane,M,36,1990-10-28,Tanger,90000,Infirmier,Marié(e),3,8162,soufiane.tazi252@hotmail.com,+2120500000252,2017-08-15,8,55.1,0,B,1.25,1,28000,True,Privé,75.5
+CL000253,Tazi,Karim,M,44,1982-06-19,Essaouira,44000,Sans emploi,Veuf(ve),0,2754,karim.tazi253@live.ma,+2120700000253,2014-07-31,11,58.8,3,B,0.91,0,35000,True,Privé,60.0
+CL000254,Gonzalez,Camille,F,37,1989-05-03,Agadir,80000,Avocat,Marié(e),1,23448,camille.gonzalez254@gmail.com,+2120700000254,2010-08-08,15,80.7,1,B,1.22,1,45000,True,Privé-Travail,81.0
+CL000255,Benali,Bilal,M,54,1972-06-17,Casablanca,20000,Artisan,Célibataire,1,5108,bilal.benali255@live.ma,+2120700000255,2013-07-10,12,69.6,16,B,0.77,1,35000,True,VTC/Taxi,71.8
+CL000256,Lopez,Karim,M,22,2004-04-10,El Jadida,24000,Technicien,Marié(e),0,5678,karim.lopez256@live.ma,+2120500000256,2023-03-06,2,23.7,4,B,1.13,1,22000,True,Privé,81.5
+CL000257,El Amrani,Bilal,M,37,1989-07-20,Oujda,60000,Comptable,Veuf(ve),4,7906,bilal.elamrani257@gmail.com,+2120500000257,2020-04-27,5,26.8,5,A,0.85,0,45000,True,Privé-Travail,64.4
+CL000258,Bernard,Yasmine,F,37,1989-03-14,Oujda,60000,Artisan,Marié(e),4,7314,yasmine.bernard258@gmail.com,+2120700000258,2018-08-18,7,49.0,8,B,1.01,1,45000,True,Professionnel,75.6
+CL000259,Gonzalez,Hamza,M,70,1956-11-18,Tétouan,93000,Médecin,Veuf(ve),4,26149,hamza.gonzalez259@gmail.com,+2120700000259,2021-01-25,4,21.5,8,B,1.01,1,18000,False,Privé-Travail,72.7
+CL000260,Kettani,Ines,F,37,1989-03-09,Meknès,50000,Comptable,Divorcé(e),3,6215,ines.kettani260@outlook.ma,+2120700000260,2018-07-20,7,35.8,0,B,1.5,2,45000,True,Privé-Travail,94.0
+CL000261,Moreau,Amine,M,69,1957-12-15,Khouribga,25000,Agriculteur,Marié(e),3,2991,amine.moreau261@yahoo.fr,+2120600000261,2019-10-26,6,33.4,5,B,1.35,2,18000,False,Privé,86.3
+CL000262,Mernissi,Salma,F,32,1994-12-13,Agadir,80000,Médecin,Veuf(ve),2,25739,salma.mernissi262@outlook.ma,+2120600000262,2013-06-11,12,74.3,0,B,2.25,5,22000,True,Privé-Travail,100.0
+CL000263,Laurent,Reda,M,26,2000-05-15,Rabat,10000,Sans emploi,Divorcé(e),1,1758,reda.laurent263@outlook.ma,+2120600000263,2015-08-08,10,50.3,8,B,1.51,3,18000,True,Privé,91.1
+CL000264,Moreau,Pierre,M,44,1982-02-08,Fès,30000,Artisan,Divorcé(e),4,6637,pierre.moreau264@proton.me,+2120600000264,2017-05-03,8,52.5,0,A,1.0,0,12000,True,Privé,54.5
+CL000265,Ouazzani,Hassan,M,27,1999-06-06,Casablanca,20000,Étudiant,Marié(e),0,2315,hassan.ouazzani265@proton.me,+2120700000265,2020-04-16,5,38.0,0,B,1.25,1,18000,True,Privé,72.9
+CL000266,Berrada,Anas,M,43,1983-10-16,Fès,30000,Architecte,Célibataire,4,18808,anas.berrada266@yahoo.fr,+2120500000266,2015-08-26,10,63.9,17,B,0.5,0,15000,True,Privé,44.5
+CL000267,Bensouda,Julie,F,73,1953-02-11,Casablanca,20000,Sans emploi,Pacsé(e),0,3346,julie.bensouda267@outlook.ma,+2120600000267,2021-04-17,4,32.3,3,B,1.66,3,18000,True,Privé,100.0
+CL000268,Chraibi,Laura,F,31,1995-10-03,Rabat,10000,Commerçant,Marié(e),0,8659,laura.chraibi268@outlook.ma,+2120500000268,2018-06-06,7,47.0,2,A,0.94,0,15000,False,Professionnel,54.2
+CL000269,Amrani,Hamza,M,59,1967-11-26,Rabat,10000,Comptable,Marié(e),2,10661,hamza.amrani269@yahoo.fr,+2120600000269,2010-07-14,15,79.1,3,B,1.66,3,22000,False,VTC/Taxi,96.1
+CL000270,Lopez,Mustapha,M,18,2008-07-17,Salé,11000,Artisan,Marié(e),0,5553,mustapha.lopez270@gmail.com,+2120500000270,2011-07-28,14,89.8,0,B,1.25,1,45000,True,Privé,97.8
+CL000271,Ziani,Khalid,M,21,2005-02-14,Beni Mellal,23000,Infirmier,Pacsé(e),0,4889,khalid.ziani271@outlook.ma,+2120700000271,2013-12-16,12,65.7,1,A,0.97,0,35000,False,Privé,76.5
+CL000272,Ouazzani,Khadija,F,29,1997-07-13,Agadir,80000,Technicien,Veuf(ve),0,7062,khadija.ouazzani272@hotmail.com,+2120700000272,2013-06-30,12,77.1,4,B,1.13,1,35000,False,Privé,74.2
+CL000273,Filali,Hamza,M,19,2007-08-10,Beni Mellal,23000,Infirmier,Marié(e),0,5775,hamza.filali273@proton.me,+2120700000273,2017-06-22,8,43.9,1,B,1.47,2,12000,True,Privé,92.5
+CL000274,Filali,Samira,F,46,1980-07-13,Nador,62000,Étudiant,Célibataire,0,2085,samira.filali274@hotmail.com,+2120500000274,2019-03-03,6,33.2,6,A,0.82,0,12000,True,Privé-Travail,49.1
+CL000275,Laurent,Najat,F,52,1974-08-21,Nador,62000,Cadre supérieur,Veuf(ve),0,20801,najat.laurent275@yahoo.fr,+2120500000275,2015-06-09,10,64.1,17,B,0.5,0,18000,False,Privé-Travail,44.2
+CL000276,Bernard,Hamza,M,33,1993-08-22,Tanger,90000,Ingénieur,Célibataire,0,12224,hamza.bernard276@proton.me,+2120500000276,2010-04-12,15,93.3,5,A,0.85,0,15000,False,Privé,53.0
+CL000277,Petit,Nabil,M,56,1970-04-14,Agadir,80000,Retraité,Divorcé(e),3,3946,nabil.petit277@proton.me,+2120600000277,2023-02-23,2,12.2,2,B,0.94,0,35000,True,Privé,62.4
+CL000278,Filali,Nicolas,M,54,1972-12-10,Casablanca,20000,Artisan,Veuf(ve),4,6993,nicolas.filali278@hotmail.com,+2120500000278,2025-08-14,0,5.8,0,A,1.25,1,12000,True,Privé,71.4
+CL000279,Tazi,Thomas,M,72,1954-04-16,Agadir,80000,Comptable,Marié(e),0,11593,thomas.tazi279@proton.me,+2120600000279,2014-03-01,11,71.2,3,B,0.91,0,18000,True,VTC/Taxi,63.3
+CL000280,Dubois,Loubna,F,44,1982-10-04,Agadir,80000,Médecin,Divorcé(e),0,19914,loubna.dubois280@live.ma,+2120600000280,2011-06-11,14,79.6,3,B,0.91,0,22000,True,Privé,55.3
+CL000281,Martin,Pierre,M,35,1991-01-04,Meknès,50000,Comptable,Veuf(ve),2,10661,pierre.martin281@live.ma,+2120700000281,2020-11-24,5,31.7,3,B,1.16,1,22000,True,Professionnel,67.7
+CL000282,Filali,Julie,F,54,1972-07-20,Rabat,10000,Chauffeur taxi,Veuf(ve),1,7211,julie.filali282@gmail.com,+2120500000282,2020-04-01,5,27.5,10,B,0.7,0,8000,False,Privé-Travail,49.4
+CL000283,Kettani,Soufiane,M,42,1984-10-22,Khouribga,25000,Comptable,Divorcé(e),0,8408,soufiane.kettani283@proton.me,+2120700000283,2010-05-17,15,88.6,1,B,0.97,0,28000,False,Privé,57.7
+CL000284,Sqalli,Soufiane,M,37,1989-08-22,Fès,30000,Étudiant,Pacsé(e),4,1811,soufiane.sqalli284@gmail.com,+2120600000284,2021-08-31,4,30.0,1,B,0.97,0,15000,True,Professionnel,53.9
+CL000285,Gonzalez,Sanae,F,34,1992-08-04,Khouribga,25000,Architecte,Veuf(ve),0,13029,sanae.gonzalez285@outlook.ma,+2120700000285,2012-05-14,13,83.1,1,B,0.97,0,12000,True,Privé-Travail,51.2
+CL000286,Idrissi,Julie,F,38,1988-11-05,Laâyoune,70000,Technicien,Pacsé(e),0,5343,julie.idrissi286@proton.me,+2120700000286,2022-12-02,3,22.5,7,A,0.79,0,18000,False,Privé-Travail,48.8
+CL000287,Chraibi,Isabelle,F,48,1978-04-09,Fès,30000,Infirmier,Pacsé(e),2,4568,isabelle.chraibi287@outlook.ma,+2120700000287,2012-08-09,13,84.1,0,B,1.0,0,18000,True,Privé,56.0
+CL000288,Filali,Lucas,M,49,1977-07-11,Nador,62000,Commerçant,Veuf(ve),0,9574,lucas.filali288@live.ma,+2120700000288,2012-05-23,13,71.3,6,B,1.32,2,18000,True,Privé,76.6
+CL000289,Bernard,Nadia,F,25,2001-05-05,Rabat,10000,Sans emploi,Pacsé(e),3,2310,nadia.bernard289@proton.me,+2120600000289,2016-02-19,9,54.9,4,A,1.63,3,12000,True,VTC/Taxi,92.0
+CL000290,Rodriguez,Nadia,F,47,1979-12-07,Oujda,60000,Cadre supérieur,Divorcé(e),1,24231,nadia.rodriguez290@gmail.com,+2120500000290,2018-10-15,7,42.8,9,A,0.98,1,45000,False,Privé,75.0
+CL000291,Filali,Laura,F,33,1993-07-03,Settat,26000,Infirmier,Marié(e),2,5385,laura.filali291@live.ma,+2120600000291,2012-03-08,13,82.0,15,B,0.55,0,35000,True,Privé-Travail,53.1
+CL000292,Laurent,Bilal,M,33,1993-08-10,Tanger,90000,Enseignant,Pacsé(e),0,6395,bilal.laurent292@proton.me,+2120600000292,2018-02-15,7,42.5,9,A,0.73,0,8000,False,Professionnel,50.6
+CL000293,Ouazzani,Hassan,M,69,1957-08-06,Rabat,10000,Avocat,Veuf(ve),1,27723,hassan.ouazzani293@gmail.com,+2120600000293,2013-05-02,12,64.8,7,A,1.04,1,35000,True,Privé-Travail,84.2
+CL000294,Simon,Jean,M,32,1994-07-25,Marrakech,40000,Agriculteur,Veuf(ve),2,5221,jean.simon294@gmail.com,+2120600000294,2024-03-08,1,7.3,7,B,1.04,1,22000,True,Privé-Travail,68.9
+CL000295,Martin,Mohamed,M,50,1976-10-19,Khouribga,25000,Ingénieur,Veuf(ve),3,16598,mohamed.martin295@yahoo.fr,+2120500000295,2018-08-12,7,37.5,0,B,1.0,0,15000,True,Privé-Travail,51.8
+CL000296,Rodriguez,Reda,M,26,2000-12-01,Mohammedia,28800,Architecte,Pacsé(e),4,19083,reda.rodriguez296@live.ma,+2120500000296,2011-06-08,14,86.4,8,B,0.76,0,45000,True,VTC/Taxi,64.4
+CL000297,Lopez,Omar,M,31,1995-10-23,Agadir,80000,Employé de bureau,Marié(e),4,7073,omar.lopez297@outlook.ma,+2120500000297,2010-11-17,15,78.2,10,B,0.95,1,12000,True,Privé,60.6
+CL000298,Berrada,Nabil,M,45,1981-06-18,Agadir,80000,Retraité,Célibataire,4,6227,nabil.berrada298@yahoo.fr,+2120500000298,2016-09-28,9,55.7,7,B,1.04,1,18000,False,Privé,63.9
+CL000299,Petit,Najat,F,70,1956-06-20,Laâyoune,70000,Comptable,Célibataire,1,7198,najat.petit299@outlook.ma,+2120700000299,2015-04-27,10,67.1,0,B,2.0,4,8000,True,Privé-Travail,100.0
+CL000300,Ouazzani,Adil,M,29,1997-05-05,Essaouira,44000,Retraité,Marié(e),3,3384,adil.ouazzani300@hotmail.com,+2120600000300,2024-07-28,1,23.9,1,A,1.47,2,35000,False,Privé,87.2

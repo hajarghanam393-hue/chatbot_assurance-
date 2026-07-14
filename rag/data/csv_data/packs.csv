@@ -1,0 +1,11 @@
+﻿PackID,Nom,PrixBase,ResponsabiliteCivile,Vol,Incendie,BrisDeGlace,CatastrophesNaturelles,DommagesCollision,TousRisques,Assistance,Remorquage,VehiculeRemplacement,ProtectionConducteur,ProtectionJuridique,LimiteKilometrique,Franchise,Description
+PK01,Eco,2800,0,0,0,0,0,0,0,1,0,0,0,0,50000,3000,Pack Eco - formule adaptée au profil économique.
+PK02,Eco+,3200,1,0,0,1,0,0,0,1,1,0,0,0,80000,2500,Pack Eco+ - formule adaptée au profil standard.
+PK03,Bronze,4500,1,0,1,1,0,0,0,1,1,0,0,0,100000,2000,Pack Bronze - formule adaptée au profil confort.
+PK04,Silver,5800,1,1,1,1,0,1,0,1,1,0,1,0,120000,1800,Pack Silver - formule adaptée au profil premium.
+PK05,Silver+,6500,1,1,1,1,1,1,0,1,1,1,1,0,150000,1500,Pack Silver+ - formule adaptée au profil entreprise.
+PK06,Gold,7800,1,1,1,1,1,1,1,1,1,1,1,1,180000,1200,Pack Gold - formule adaptée au profil entreprise.
+PK07,Gold+,8500,1,1,1,1,1,1,1,1,1,1,1,1,200000,1000,Pack Gold+ - formule adaptée au profil entreprise.
+PK08,Premium,9800,1,1,1,1,1,1,1,1,1,1,1,1,250000,800,Pack Premium - formule adaptée au profil entreprise.
+PK09,Business,11200,1,1,1,1,1,1,1,1,1,1,1,1,300000,600,Pack Business - formule adaptée au profil entreprise.
+PK10,VIP,14500,1,1,1,1,1,1,1,1,1,1,1,1,999999,500,Pack VIP - formule adaptée au profil entreprise.
