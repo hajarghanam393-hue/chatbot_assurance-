@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0150
-Titre: Clause : avenants au contrat
+Titre:  "Clause : avenants au contrat"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2026-03-30
