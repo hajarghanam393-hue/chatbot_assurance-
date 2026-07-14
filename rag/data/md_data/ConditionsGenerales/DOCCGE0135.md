@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0135
-Titre: Clause : procédure de médiation et de règlement des litiges
+Titre: "Clause : procédure de médiation et de règlement des litiges"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2025-01-31
