@@ -1,6 +1,6 @@
 ---
 DocumentID: DOCCGE0060
-Titre: Clause : délais légaux de gestion des sinistres
+Titre:"Clause : délais légaux de gestion des sinistres"
 Catégorie: ConditionsGenerales
 Tags: conditions-generales, clause, contrat
 Date: 2026-05-19
